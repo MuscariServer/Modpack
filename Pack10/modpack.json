@@ -2,7 +2,7 @@
   "name" : "Pack10",
   "title" : "MuscariServerS5",
   "thumb" : null,
-  "key" : null,
+  "key" : "muscari",
   "gameVersion" : "1.12.2",
   "server" : {
     "serverHost" : "",
