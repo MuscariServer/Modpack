@@ -69,8 +69,8 @@
       "properties" : {
         "name" : "InventoryTweaks",
         "description" : "インベントリを整理するだけでなく、一括アイテム移動や一つずつの移動などの便利な操作が使えるようになるMod",
-        "recommendation" : "starred",
-        "selected" : true
+        "recommendation" : null,
+        "selected" : false
       },
       "files" : {
         "include" : [
@@ -123,20 +123,6 @@
     },
     {
       "properties" : {
-        "name" : "Schematica",
-        "description" : "自動建築Mod<br>\nこれを入れれば建築がはかどりんぐ",
-        "recommendation" : null,
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/Schematica*"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
         "name" : "[macOS, OSX] CocoaInput",
         "description" : "日本語Mod (macOS, OSX 向け)<!--OS:({\"allow\":[\"osx\"]})-->",
         "recommendation" : "avoid",
@@ -145,6 +131,20 @@
       "files" : {
         "include" : [
           "mods/CocoaInput*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Foamfix",
+        "description" : "軽量化Mod",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/foamfix*"
         ],
         "exclude" : [ ]
       }
