@@ -26,7 +26,7 @@ recipes.addShaped(<dcs_climate:dcs_ore_elestial>, [
 [<dcs_climate:dcs_gem:4>, <botania:pylon:1>, <thermalfoundation:material:358>], 
 [<dcs_climate:dcs_build_selenite:3>, <thermalfoundation:material:135>, <dcs_climate:dcs_build_selenite:3>]]);
 
-furnace.remove(<dcs_climate:dcs_ore_elestial>);
+recipes.removeByRecipeName("dcs_climate:main/dcs_ore_gemblock_8");
 
 #タリスマン(灼熱)
 recipes.remove(<dcs_climate:dcs_macecore:5>);

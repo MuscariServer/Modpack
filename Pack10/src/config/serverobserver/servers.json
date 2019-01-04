@@ -1,0 +1,8 @@
+{
+	"servers": [
+		{
+			"serverName": "MuscariServer",
+			"serverIP": "muscari.dip.jp"
+		}
+	]
+}

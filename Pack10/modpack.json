@@ -1,11 +1,11 @@
 {
   "name" : "Pack10",
   "title" : "MuscariServerS5",
-  "thumb" : null,
-  "key" : "muscari",
+  "thumb" : "https://i.gyazo.com/85658f5198be9718c27f0f919e14b151.png",
+  "key" : null,
   "gameVersion" : "1.12.2",
   "server" : {
-    "serverHost" : "",
+    "serverHost" : "muscari.dip.jp",
     "serverPort" : 25565
   },
   "features" : [
@@ -18,7 +18,8 @@
       },
       "files" : {
         "include" : [
-          "mods/SignPicture*"
+          "mods/SignPicture*",
+          "mods/BnnWidget*"
         ],
         "exclude" : [ ]
       }
@@ -130,7 +131,8 @@
       },
       "files" : {
         "include" : [
-          "mods/Schematica*"
+          "mods/Schematica*",
+          "mods/LunatriusCore*"
         ],
         "exclude" : [ ]
       }
