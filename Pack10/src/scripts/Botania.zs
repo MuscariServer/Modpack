@@ -200,6 +200,7 @@ mods.botania.Apothecary.removeRecipe(<botania:specialflower>.withTag({type: "loo
 
 #マナ→RF変換遮断
 recipes.remove(<botania:rfgenerator>);
+recipes.addShaped(<botania:rfgenerator>, [[<ore:blockIridium>, <dcs_climate:dcs_macecore>, <ore:blockIridium>], [<dcs_climate:dcs_macecore>, <botania:pylon:2>, <dcs_climate:dcs_macecore>], [<ore:blockIridium>, <dcs_climate:dcs_macecore>, <ore:blockIridium>]]);
 
 #存在しない仕様を説明書から削除
 mods.botania.Lexicon.removeEntry("botania.entry.rfGenerator");

@@ -7,6 +7,7 @@ recipes.removeByRecipeName("techreborn:dragon_egg_syphon");
 <techreborn:dragon_egg_syphon>.addTooltip(format.red("WIP Coming Soon"));
 
 #ソーラーの難易度調整
+recipes.removeByRecipeName("techreborn:solar_panel_1");
 recipes.removeByRecipeName("techreborn:solar_panel_2");
 recipes.removeByRecipeName("techreborn:solar_panel_4");
 recipes.removeByRecipeName("techreborn:solar_panel_6");

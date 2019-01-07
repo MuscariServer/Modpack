@@ -6,7 +6,7 @@ recipes.remove(<dcs_climate:dcs_jewel_badge:13>);
 recipes.remove(<dcs_climate:dcs_jewel_badge:6>);
 recipes.remove(<dcs_climate:dcs_jewel_badge:11>);
 recipes.remove(<dcs_climate:dcs_jewel_badge:9>);
-
+recipes.remove(<dcs_climate:dcs_jewel_pendant:11>);
 #岩盤採取ツール
 recipes.removeByRecipeName("dcs_climate:main_equip/dcs_pickaxe_chalcedony_0");
 recipes.removeByRecipeName("dcs_climate:main_equip/dcs_pickaxe_titanium_0");

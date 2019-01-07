@@ -134,6 +134,12 @@ recipes.remove(<actuallyadditions:item_shovel_obsidian>);
 recipes.remove(<actuallyadditions:item_sword_obsidian>);
 recipes.remove(<actuallyadditions:item_hoe_obsidian>);
 
+recipes.remove(<actuallyadditions:item_pickaxe_quartz>);
+recipes.remove(<actuallyadditions:item_axe_quartz>);
+recipes.remove(<actuallyadditions:item_shovel_quartz>);
+recipes.remove(<actuallyadditions:item_sword_quartz>);
+recipes.remove(<actuallyadditions:item_hoe_quartz>);
+
 recipes.remove(<actuallyadditions:wooden_paxel>);
 recipes.remove(<actuallyadditions:stone_paxel>);
 recipes.remove(<actuallyadditions:iron_paxel>);
@@ -487,8 +493,6 @@ recipes.addShaped(<minecraft:bucket>, [
 #recipes.remove(<minecraft:stick>);
 recipes.addShapeless(<minecraft:stick> * 2, [<ore:plankWood>, <ore:plankWood>]);
 
-recipes.removeByRecipeName("twilightforest:planks_0");
-recipes.addShapeless(<minecraft:planks> * 2, [<twilightforest:twilight_log>]);
 recipes.removeByRecipeName("dcs_climate:main/dcs_planks_0");
 recipes.removeByRecipeName("minecraft:oak_planks");
 recipes.removeByRecipeName("minecraft:spruce_planks");
