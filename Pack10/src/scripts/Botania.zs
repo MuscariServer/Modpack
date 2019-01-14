@@ -110,7 +110,7 @@ recipes.addShaped(<botania:sparkupgrade:3>, [
 #Tier 1
 #êÖ
 mods.botania.RuneAltar.removeRecipe(<botania:rune>);
-mods.botania.RuneAltar.addRecipe(<botania:rune>*3, [<ore:ingotManasteel>, <ore:ingotManasteel>, <ore:ingotManasteel>, <minecraft:dye:15>, <ore:cropSugarcane>, <minecraft:fishing_rod>, <thaumcraft:crystal_aqua>], 8500);
+mods.botania.RuneAltar.addRecipe(<botania:rune>*3, [<ore:ingotManasteel>, <ore:ingotManasteel>, <ore:ingotManasteel>, <minecraft:dye:15>, <minecraft:reeds>, <minecraft:fishing_rod>, <thaumcraft:crystal_aqua>], 8500);
 #âŒ
 mods.botania.RuneAltar.removeRecipe(<botania:rune:1>);
 mods.botania.RuneAltar.addRecipe(<botania:rune:1>*3, [<ore:ingotManasteel>, <ore:ingotManasteel>, <ore:ingotManasteel>, <minecraft:nether_brick>, <ore:blockBlaze>, <minecraft:nether_wart>, <thaumcraft:crystal_ignis>], 8500);

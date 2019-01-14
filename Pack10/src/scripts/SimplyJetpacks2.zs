@@ -26,6 +26,22 @@ recipes.addShaped(<redstonearsenal:material:224>, [
 [<redstonearsenal:material:160>, <redstonearsenal:material:32>, <redstonearsenal:material:160>], 
 [<redstonearsenal:material:128>, <redstonearsenal:material:128>, <redstonearsenal:material:128>]]);
 
+recipes.remove(<simplyjetpacks:metaitemmods:29>);
+recipes.addShaped(<simplyjetpacks:metaitemmods:29>, [
+[<thermalfoundation:material:167>, <thermalfoundation:material:513>, <thermalfoundation:material:167>], 
+[<thermaldynamics:duct_0:4>, <dcs_climate:dcs_macecore:2>, <thermaldynamics:duct_0:4>], 
+[<thermalfoundation:material:167>, 
+<forge:bucketfilled>.withTag({FluidName: "redstone", Amount: 1000}).onlyWithTag({FluidName: "redstone", Amount: 1000}).transformReplace(<minecraft:bucket>), 
+<thermalfoundation:material:167>]]);
+
+recipes.remove(<simplyjetpacks:metaitemmods:28>);
+recipes.addShaped(<simplyjetpacks:metaitemmods:28>, [
+[<thermalfoundation:material:161>, <thermalfoundation:material:513>, <thermalfoundation:material:161>], 
+[<thermaldynamics:duct_0:2>, <dcs_climate:dcs_device_dynamo>, <thermaldynamics:duct_0:2>], 
+[<thermalfoundation:material:161>, 
+<forge:bucketfilled>.withTag({FluidName: "redstone", Amount: 1000}).onlyWithTag({FluidName: "redstone", Amount: 1000}).transformReplace(<minecraft:bucket>), 
+<thermalfoundation:material:161>]]);
+
 #Units
 #recipes.addShaped(<simplyjetpacks:metaitemmods:17>, [
 #[<Fluxed Electrum Ingot>, <ore:ingotTin>, <Fluxed Electrum Ingot>], 

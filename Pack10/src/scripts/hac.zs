@@ -7,9 +7,13 @@ recipes.remove(<dcs_climate:dcs_jewel_badge:6>);
 recipes.remove(<dcs_climate:dcs_jewel_badge:11>);
 recipes.remove(<dcs_climate:dcs_jewel_badge:9>);
 recipes.remove(<dcs_climate:dcs_jewel_pendant:11>);
+recipes.remove(<dcs_climate:dcs_jewel_pendant:12>);
 #岩盤採取ツール
 recipes.removeByRecipeName("dcs_climate:main_equip/dcs_pickaxe_chalcedony_0");
 recipes.removeByRecipeName("dcs_climate:main_equip/dcs_pickaxe_titanium_0");
+
+#chunk loader
+recipes.removeByRecipeName("dcs_climate:magic/dcs_time_cage_0");
 
 #魔法属性のダガー
 recipes.remove(<dcs_climate:dcs_dagger_magic:15>);

@@ -52,8 +52,9 @@ recipes.addShaped(<thermalfoundation:upgrade:3>, [
 #ƒ_ƒCƒiƒ‚
 #†•¼
 recipes.remove(<thermalexpansion:dynamo:5>);
+recipes.remove(<thermalexpansion:dynamo:4>);
 #Steam
-recipes.remove(<thermalexpansion:dynamo:*>);
+recipes.remove(<thermalexpansion:dynamo>);
 recipes.addShaped(<thermalexpansion:dynamo>, [
 [null, <immersiveengineering:stone_decoration:3>, null], 
 [<ore:ingotCopper>, <ore:dustRedstone>, <ore:ingotCopper>], 
@@ -78,6 +79,7 @@ recipes.addShaped(<thermalexpansion:dynamo:3>, [
 [null, <techreborn:uumatter>, null], 
 [<ore:ingotConstantan>, <ore:plateRedstone>, <ore:ingotConstantan>],
 [<ore:gearConstantan>, <thermalfoundation:material:513>, <ore:gearConstantan>]]);
+
 #Numismatic Dynamo‚ÌUpg‚Ìíœ
 recipes.remove(<thermalexpansion:augment:720>);
 

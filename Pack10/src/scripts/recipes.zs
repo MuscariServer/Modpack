@@ -2,8 +2,6 @@
 //Don't touch me!
 //#Remove
 recipes.remove(<quark:arrow_explosive>);
-
 //Don't touch me!
 //#Add
-
 //File End
