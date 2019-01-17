@@ -49,7 +49,7 @@ recipes.remove(<minecraft:brewing_stand>);
 recipes.addShaped(<minecraft:brewing_stand>, [
 [null], 
 [null, <ore:rodBlaze>], 
-[<ore:slabStone>, <ore:slabStone>, <ore:slabStone>]]);
+[<minecraft:stone_slab>, <minecraft:stone_slab>, <minecraft:stone_slab>]]);
 
 #‚é‚Â‚ÚƒŒƒVƒs‚ÌC³
 recipes.remove(<minecraft:cauldron>);

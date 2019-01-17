@@ -14,7 +14,7 @@ recipes.addShaped(<bloodmagic:soul_snare>, [
 recipes.remove(<bloodmagic:soul_forge>);
 recipes.addShaped(<bloodmagic:soul_forge>, [
 [<ore:ingotSteel>, null, <ore:ingotSteel>], 
-[<quark:charred_nether_bricks>, <ore:ingotDawnstone>, <quark:charred_nether_bricks>], 
+[<quark:charred_nether_bricks>, <ore:ingotManasteel>, <quark:charred_nether_bricks>], 
 [<quark:charred_nether_bricks>, <ore:blockSteel>, <quark:charred_nether_bricks>]]);
 
 #ååÇÃç’íd
@@ -25,14 +25,16 @@ recipes.addShaped(<bloodmagic:altar>, [
 [<botania:manaresource>, <bloodmagic:monster_soul>, <botania:manaresource>]]);
 
 #Blank Slate
-mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:slate>);
+mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:stone>);
 mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate>, <forestry:ash_brick>, 1, 1000, 5, 5);
+
+mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate:1>, <bloodmagic:slate>, 2, 2000, 5, 5);
 
 #Incense Crucible
 recipes.remove(<bloodmagic:incense_altar>);
 recipes.addShaped(<bloodmagic:incense_altar>, [
-[<ore:nuggetDawnstone>, null, <ore:nuggetDawnstone>], 
-[<bloodmagic:slate>, <ore:ingotDawnstone>, <bloodmagic:slate>], 
+[<ore:nuggetManasteel>, null, <ore:nuggetManasteel>], 
+[<bloodmagic:slate>, <ore:ingotManasteel>, <bloodmagic:slate>], 
 [null, <quark:candle:*>, null]]);
 
 #ååÇÃÉãÅ[Éì
@@ -47,25 +49,25 @@ recipes.remove(<bloodmagic:blood_rune:1>);
 recipes.addShaped(<bloodmagic:blood_rune:1>, [
 [null, <bloodmagic:slate:1>, null], 
 [<minecraft:sugar>, <bloodmagic:blood_orb>.withTag({orb: "bloodmagic:apprentice"}), <minecraft:sugar>], 
-[<bloodmagic:blood_rune>, <ore:ingotDawnstone>, <bloodmagic:blood_rune>]]);
+[<bloodmagic:blood_rune>, <ore:ingotManasteel>, <bloodmagic:blood_rune>]]);
 #Sacrifice
 recipes.remove(<bloodmagic:blood_rune:3>);
 recipes.addShaped(<bloodmagic:blood_rune:3>, [
 [null, <bloodmagic:slate:2>, null], 
 [<bloodmagic:sacrificial_dagger>, <bloodmagic:blood_orb>.withTag({orb: "bloodmagic:magician"}), <bloodmagic:sacrificial_dagger>], 
-[<bloodmagic:blood_rune>, <ore:ingotDawnstone>, <bloodmagic:blood_rune>]]);
+[<bloodmagic:blood_rune>, <ore:ingotManasteel>, <bloodmagic:blood_rune>]]);
 #Self-Sacrifice
 recipes.remove(<bloodmagic:blood_rune:4>);
 recipes.addShaped(<bloodmagic:blood_rune:4>, [
 [null, <bloodmagic:slate:1>, null], 
 [<bloodmagic:sacrificial_dagger>, <bloodmagic:blood_orb>.withTag({orb: "bloodmagic:magician"}), <bloodmagic:sacrificial_dagger>], 
-[<bloodmagic:blood_rune>, <ore:ingotDawnstone>, <bloodmagic:blood_rune>]]);
+[<bloodmagic:blood_rune>, <ore:ingotManasteel>, <bloodmagic:blood_rune>]]);
 #Displacement
 recipes.remove(<bloodmagic:blood_rune:5>);
 recipes.addShaped(<bloodmagic:blood_rune:1>, [
 [null, <bloodmagic:slate:2>, null], 
 [<ore:listAllwater>, <bloodmagic:blood_orb>.withTag({orb: "bloodmagic:magician"}), <ore:listAllwater>], 
-[<bloodmagic:blood_rune>, <ore:ingotDawnstone>, <bloodmagic:blood_rune>]]);
+[<bloodmagic:blood_rune>, <ore:ingotManasteel>, <bloodmagic:blood_rune>]]);
 #Capacity
 recipes.remove(<bloodmagic:blood_rune:6>);
 recipes.addShaped(<bloodmagic:blood_rune:6>, [

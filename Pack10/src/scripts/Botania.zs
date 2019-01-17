@@ -218,31 +218,31 @@ mods.biggercraftingtables.Huge.addShaped(<botania:kingkey>, [
 [<dcs_climate:dcs_macecore>, null, null, <botania:starsword>, <botania:starsword>, null, null]]);
 #トールの指輪
 mods.biggercraftingtables.Huge.addShaped(<botania:thorring>, [
-[null, <botania:terrapick>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, null, null], 
-[<botania:terrapick>, <torchmaster:frozen_pearl>, <botania:storage:1>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotDawnstone>, null], 
-[<ore:ingotDawnstone>, <botania:storage:1>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[<ore:ingotDawnstone>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[<ore:ingotDawnstone>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[null, <ore:ingotDawnstone>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotDawnstone>, null], 
-[null, null, <ore:ingotDawnstone>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, null, null]]);
+[null, <botania:terrapick>, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null], 
+[<botania:terrapick>, <torchmaster:frozen_pearl>, <botania:storage:1>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
+[<ore:ingotElectrum>, <botania:storage:1>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[<ore:ingotElectrum>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[<ore:ingotElectrum>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[null, <ore:ingotElectrum>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
+[null, null, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null]]);
 #ロキの指輪
 mods.biggercraftingtables.Huge.addShaped(<botania:lokiring>, [
-[null, <astralsorcery:blockcelestialcollectorcrystal>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, null, null], 
-[<astralsorcery:blockcelestialcollectorcrystal>, <torchmaster:frozen_pearl>, <botania:storage>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotDawnstone>, null], 
-[<ore:ingotDawnstone>, <botania:storage>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[<ore:ingotDawnstone>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[<ore:ingotDawnstone>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[null, <ore:ingotDawnstone>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotDawnstone>, null], 
-[null, null, <ore:ingotDawnstone>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, null, null]]);
+[null, <astralsorcery:blockcelestialcollectorcrystal>, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null], 
+[<astralsorcery:blockcelestialcollectorcrystal>, <torchmaster:frozen_pearl>, <botania:storage>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
+[<ore:ingotElectrum>, <botania:storage>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[<ore:ingotElectrum>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[<ore:ingotElectrum>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[null, <ore:ingotElectrum>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
+[null, null, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null]]);
 #オーディーンの指輪
 mods.biggercraftingtables.Huge.addShaped(<botania:thorring>, [
-[null, <ore:nuggetDraconiumAwakened>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, null, null], 
-[<ore:nuggetDraconiumAwakened>, <botania:lavapendant>, <botania:thorring>, <torchmaster:frozen_pearl>, <ore:ingotGold>, <ore:ingotDawnstone>, null], 
-[<ore:ingotDawnstone>, <botania:lokiring>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[<ore:ingotDawnstone>, <torchmaster:frozen_pearl>, null, null, null, <torchmaster:frozen_pearl>, <ore:ingotDawnstone>], 
-[<ore:ingotDawnstone>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotDawnstone>], 
-[null, <ore:ingotDawnstone>, <ore:ingotGold>, <torchmaster:frozen_pearl>, <ore:ingotGold>, <ore:ingotDawnstone>, null], 
-[null, null, <ore:ingotDawnstone>, <ore:ingotDawnstone>, <ore:ingotDawnstone>, null, null]]);
+[null, <ore:nuggetDraconiumAwakened>, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null], 
+[<ore:nuggetDraconiumAwakened>, <botania:lavapendant>, <botania:thorring>, <torchmaster:frozen_pearl>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
+[<ore:ingotElectrum>, <botania:lokiring>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[<ore:ingotElectrum>, <torchmaster:frozen_pearl>, null, null, null, <torchmaster:frozen_pearl>, <ore:ingotElectrum>], 
+[<ore:ingotElectrum>, <ore:ingotGold>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 
+[null, <ore:ingotElectrum>, <ore:ingotGold>, <torchmaster:frozen_pearl>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
+[null, null, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null]]);
 #フリューゲルの目
 recipes.addShaped(<botania:flugeleye>, [
 [null, <ore:ingotElvenElementium>, null], 
