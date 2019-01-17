@@ -26,9 +26,9 @@ recipes.addShaped(<bloodmagic:altar>, [
 
 #Blank Slate
 mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:stone>);
-mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate>, <forestry:ash_brick>, 1, 1000, 5, 5);
+mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate>, <forestry:ash_brick>, 0, 1000, 5, 5);
 
-mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate:1>, <bloodmagic:slate>, 2, 2000, 5, 5);
+#mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate:1>, <bloodmagic:slate>, 1, 2000, 5, 5);
 
 #Incense Crucible
 recipes.remove(<bloodmagic:incense_altar>);
