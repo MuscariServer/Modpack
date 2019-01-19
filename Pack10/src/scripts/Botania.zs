@@ -136,7 +136,7 @@ mods.botania.RuneAltar.removeRecipe(<botania:rune:6>);
 mods.botania.RuneAltar.addRecipe(<botania:rune:6>, [<ore:runeFireB>, <ore:runeAirB>, <ore:treeLeaves>, <ore:treeLeaves>, <ore:treeLeaves>, <minecraft:spider_eye>, <bloodmagic:slate:2>], 4000);
 #ì~
 mods.botania.RuneAltar.removeRecipe(<botania:rune:7>);
-mods.botania.RuneAltar.addRecipe(<botania:rune:7>, [<ore:runeWaterB>, <ore:runeEarthB>, <ore:blockSnow>, <ore:blockSnow>, <ore:blockWool>, <minecraft:cake>, <bloodmagic:slate:2>], 4000);
+mods.botania.RuneAltar.addRecipe(<botania:rune:7>, [<ore:runeWaterB>, <ore:runeEarthB>, <minecraft:snow>, <minecraft:snow>, <ore:blockWool>, <minecraft:cake>, <bloodmagic:slate:2>], 4000);
 
 # -- Tier 3
 #êFó~
