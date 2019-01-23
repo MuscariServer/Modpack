@@ -235,7 +235,7 @@ mods.biggercraftingtables.Huge.addShaped(<botania:lokiring>, [
 [null, <ore:ingotElectrum>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
 [null, null, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null]]);
 #オーディーンの指輪
-mods.biggercraftingtables.Huge.addShaped(<botania:thorring>, [
+mods.biggercraftingtables.Huge.addShaped(<botania:odinring>, [
 [null, <ore:nuggetDraconiumAwakened>, <ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>, null, null], 
 [<ore:nuggetDraconiumAwakened>, <botania:lavapendant>, <botania:thorring>, <torchmaster:frozen_pearl>, <ore:ingotGold>, <ore:ingotElectrum>, null], 
 [<ore:ingotElectrum>, <botania:lokiring>, null, null, null, <ore:ingotGold>, <ore:ingotElectrum>], 

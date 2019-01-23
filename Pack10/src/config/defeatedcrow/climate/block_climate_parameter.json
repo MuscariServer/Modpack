@@ -1,0 +1,7 @@
+{
+ "sampleModID:sampleBlockName:0": {
+  "airflow": "TIGHT (If you set TIGHT, it will be ignored.)",
+  "temperature": "NORMAL (If you set NORMAL, it will be ignored.)",
+  "humidity": "NORMAL (If you set NORMAL, it will be ignored.)"
+ }
+}

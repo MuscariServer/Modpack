@@ -60,11 +60,13 @@ recipes.addShaped(<thermalexpansion:dynamo>, [
 [<ore:ingotCopper>, <ore:dustRedstone>, <ore:ingotCopper>], 
 [<ore:gearCopper>, <thermalfoundation:material:513>, <ore:gearCopper>]]);
 #Compression
+recipes.remove(<thermalexpansion:dynamo:2>);
 recipes.addShaped(<thermalexpansion:dynamo:2>, [
 [null, <techreborn:dynamiccell>, null], 
 [<ore:ingotTin>, <ore:plateRedstone>, <ore:ingotTin>], 
 [<ore:gearTin>, <thermalfoundation:material:513>, <ore:gearTin>]]);
 #Reactant
+recipes.remove(<thermalexpansion:dynamo:3>);
 recipes.addShaped(<thermalexpansion:dynamo:3>, [
 [null, <immersiveengineering:metal:35>, null], 
 [<ore:ingotLead>, <ore:plateRedstone>, <ore:ingotLead>], 
