@@ -17,9 +17,9 @@ mods.biggercraftingtables.Big.addShapeless(<techreborn:solar_panel:1>, [
 <techreborn:solar_panel>, <techreborn:solar_panel>, <techreborn:solar_panel>, <techreborn:solar_panel>, <techreborn:solar_panel>, 
 <techreborn:solar_panel>, <techreborn:solar_panel>, <techreborn:solar_panel>, <techreborn:solar_panel>, <techreborn:solar_panel>, 
 <techreborn:solar_panel>]);
-recipes.addShapeless(<techreborn:solar_panel:1>, [<techreborn:solar_panel:2>, <techreborn:solar_panel:2>, <techreborn:solar_panel:2>, <techreborn:solar_panel:2>, ]);
-recipes.addShapeless(<techreborn:solar_panel:2>, [<techreborn:solar_panel:3>, <techreborn:solar_panel:3>, <techreborn:solar_panel:3>, <techreborn:solar_panel:3>, ]);
-recipes.addShapeless(<techreborn:solar_panel:3>, [<techreborn:solar_panel:4>, <techreborn:solar_panel:4>, <techreborn:solar_panel:4>, <techreborn:solar_panel:4>, ]);
+#recipes.addShapeless(<techreborn:solar_panel:1>, [<techreborn:solar_panel:2>, <techreborn:solar_panel:2>, <techreborn:solar_panel:2>, <techreborn:solar_panel:2>, ]);
+#recipes.addShapeless(<techreborn:solar_panel:2>, [<techreborn:solar_panel:3>, <techreborn:solar_panel:3>, <techreborn:solar_panel:3>, <techreborn:solar_panel:3>, ]);
+#recipes.addShapeless(<techreborn:solar_panel:3>, [<techreborn:solar_panel:4>, <techreborn:solar_panel:4>, <techreborn:solar_panel:4>, <techreborn:solar_panel:4>, ]);
 
 #マターのパワーバランス修正
 #石炭→アクアマリン(AS)

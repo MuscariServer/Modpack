@@ -72,12 +72,12 @@ recipes.addShaped(<thermalexpansion:dynamo:3>, [
 [<ore:ingotLead>, <ore:plateRedstone>, <ore:ingotLead>], 
 [<ore:gearLead>, <thermalfoundation:material:513>, <ore:gearLead>]]);
 #Enervation
-recipes.addShaped(<thermalexpansion:dynamo:3>, [
+recipes.addShaped(<thermalexpansion:dynamo:4>, [
 [null, <redstonearsenal:material>, null], 
 [<ore:ingotElectrum>, <ore:plateRedstone>, <ore:ingotElectrum>],
 [<ore:gearElectrum>, <thermalfoundation:material:513>, <ore:gearElectrum>]]);
 #Numismatic
-recipes.addShaped(<thermalexpansion:dynamo:3>, [
+recipes.addShaped(<thermalexpansion:dynamo:5>, [
 [null, <techreborn:uumatter>, null], 
 [<ore:ingotConstantan>, <ore:plateRedstone>, <ore:ingotConstantan>],
 [<ore:gearConstantan>, <thermalfoundation:material:513>, <ore:gearConstantan>]]);
