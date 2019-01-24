@@ -62,5 +62,5 @@ recipes.addShaped(<minecraft:cauldron>, [
 <botania:lexicon>.addTooltip(format.red("[WIP] Not 100% accurate!"));
 
 #Player Interface
-recipes.remove(<actuallyadditions:block_player_interface>)
+recipes.remove(<actuallyadditions:block_player_interface>);
 print("Initialized '1InitialScripts.zs'");
