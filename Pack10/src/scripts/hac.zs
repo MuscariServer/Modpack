@@ -85,3 +85,9 @@ recipes.addShaped(<dcs_climate:dcs_ore_dustblock:12>,
 [<ore:dustTitanium>, <ore:dustTitanium>, <ore:dustTitanium>],
 [<ore:dustTitanium>, <ore:dustTitanium>, <ore:dustTitanium>]]);
 
+#大理石互換性
+recipes.addShapeless(<chisel:marble2:7>,
+[<dcs_climate:dcs_ore_gemblock:6>]);
+
+recipes.addShapeless(<dcs_climate:dcs_ore_gemblock:6>,
+[<chisel:marble2:7>]);
