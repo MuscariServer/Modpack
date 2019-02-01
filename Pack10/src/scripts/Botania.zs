@@ -70,7 +70,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe("muscari:shaped/internal/altar/gaia
 <dcs_climate:dcs_macecore:5>, <astralsorcery:itemcoloredlens:4>, <dcs_climate:dcs_macecore:5>, 
 <astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>, 
 <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, 
-<botania:manaresource:9>, <botania:manaresource:8>, <bloodmagic:slate:3>, <bloodmagic:slate:3>],
+<botania:manaresource:9>, <botania:manaresource:8>, <bloodmagic:slate:3>, <bloodmagic:slate:3>,<bloodmagic:slate:3>,<bloodmagic:slate:3>,<bloodmagic:slate:3>],
 "astralsorcery.constellation.evorsio");
 
 #G”}‚Ìì¬“ï“xã¸
