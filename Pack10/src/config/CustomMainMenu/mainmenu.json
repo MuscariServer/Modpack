@@ -25,7 +25,7 @@
             "texture": "mainmenu:mcs_serverbutton.png",
             "action": {
                 "type": "connectToServer",
-                "ip": "muscari.dip.jp"
+                "ip": "muscari.fun"
             }
         },
         "singleplayer": {
@@ -155,7 +155,7 @@
     },
     "labels": {
         "modpack": {
-            "text": "Muscari Server S5 Pack",
+            "text": "Muscari Server S6 Pack",
             "posX": 3,
             "posY": -31,
             "fontSize": 0.6,

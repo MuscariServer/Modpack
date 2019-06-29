@@ -1,11 +1,11 @@
 {
   "name" : "Pack10",
-  "title" : "MuscariServerS5",
+  "title" : "MuscariServerS6",
   "thumb" : "https://i.gyazo.com/85658f5198be9718c27f0f919e14b151.png",
-  "key" : null,
+  "key" : "rkcyk",
   "gameVersion" : "1.12.2",
   "server" : {
-    "serverHost" : "muscari.dip.jp",
+    "serverHost" : "muscari.fun",
     "serverPort" : 25565
   },
   "features" : [
@@ -113,7 +113,7 @@
         "name" : "ServerObserver",
         "description" : "サーバーを監視し通知することができます。<br>\nまた、自動的にログインをすることができます。",
         "recommendation" : null,
-        "selected" : false
+        "selected" : true
       },
       "files" : {
         "include" : [
@@ -147,6 +147,48 @@
       "files" : {
         "include" : [
           "mods/CocoaInput*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "デフォルトオプション",
+        "description" : "NONE指定のキーコンフィグ",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/DefaultOptions*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "VanillaFix",
+        "description" : "軽量化Mod",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/VanillaFix*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "SmoothFont",
+        "description" : "文字がきれいになるよ",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/SmoothFont*"
         ],
         "exclude" : [ ]
       }
