@@ -2,7 +2,7 @@
   "name" : "Pack10",
   "title" : "MuscariServerS6",
   "thumb" : "https://i.gyazo.com/85658f5198be9718c27f0f919e14b151.png",
-  "key" : "rkcyk",
+  "key" : null,
   "gameVersion" : "1.12.2",
   "server" : {
     "serverHost" : "muscari.fun",
