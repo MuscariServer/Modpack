@@ -1,4 +1,5 @@
-//#Remove
+import mods.ic2.Macerator;
+
 recipes.remove(<advanced_solar_panels:double_stone_slab>);
 #ChunkLoader
 recipes.remove(<ic2:te:82>);
@@ -19,7 +20,7 @@ recipes.addShaped(<ic2:dust:6> * 3,
 [<ore:dustDiamond>, <minecraft:redstone>, <ore:dustDiamond>], 
 [<minecraft:redstone>, <ore:dustDiamond>, <minecraft:redstone>]]);
 
-
+Macerator.addRecipe(<ic2:energy_crystal:*>, <ic2:dust:6> * 3);
 
 recipes.remove(<ic2:te:60>);
 recipes.remove(<gravisuite:vajra>);
