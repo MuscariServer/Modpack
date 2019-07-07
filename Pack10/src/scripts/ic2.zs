@@ -20,7 +20,7 @@ recipes.addShaped(<ic2:dust:6> * 3,
 [<ore:dustDiamond>, <minecraft:redstone>, <ore:dustDiamond>], 
 [<minecraft:redstone>, <ore:dustDiamond>, <minecraft:redstone>]]);
 
-Macerator.addRecipe(<ic2:energy_crystal:*>, <ic2:dust:6> * 3);
+Macerator.addRecipe(<ic2:dust:6> * 3, <ic2:energy_crystal:*>);
 
 recipes.remove(<ic2:te:60>);
 recipes.remove(<gravisuite:vajra>);
