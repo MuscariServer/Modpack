@@ -10,6 +10,18 @@ recipes.remove(<ic2:te:4>);
 #Terraformer
 recipes.remove(<ic2:te:40>);
 #GraviSuite
+recipes.remove(<ic2:te:57>);
+
+recipes.remove(<ic2:dust:6>);
+
+recipes.addShaped(<ic2:dust:6> * 3, 
+[[<minecraft:redstone>, <ore:dustDiamond>, <minecraft:redstone>],
+[<ore:dustDiamond>, <minecraft:redstone>, <ore:dustDiamond>], 
+[<minecraft:redstone>, <ore:dustDiamond>, <minecraft:redstone>]]);
+
+
+
+recipes.remove(<ic2:te:60>);
 recipes.remove(<gravisuite:vajra>);
 recipes.remove(<gravisuite:gravichestplate>);
 recipes.remove(<advanced_solar_panels:ultimatesolarhelmet>);

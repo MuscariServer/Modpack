@@ -5,31 +5,31 @@ print("Initializing 'MinecraftGettingStarted.zs'...");
 
 
 #Vanilla
-<minecraft:wooden_sword>.maxDamage = 1;
-<minecraft:wooden_shovel>.maxDamage = 1;
-<minecraft:wooden_pickaxe>.maxDamage = 1;
-<minecraft:wooden_axe>.maxDamage = 1;
-<minecraft:wooden_hoe>.maxDamage = 1;
-<minecraft:stone_sword>.maxDamage = 1;
-<minecraft:stone_shovel>.maxDamage = 1;
-<minecraft:stone_pickaxe>.maxDamage = 1;
-<minecraft:stone_axe>.maxDamage = 1;
-<minecraft:stone_hoe>.maxDamage = 1;
-<minecraft:iron_sword>.maxDamage = 1;
-<minecraft:iron_shovel>.maxDamage = 1;
-<minecraft:iron_pickaxe>.maxDamage = 1;
-<minecraft:iron_axe>.maxDamage = 1;
-<minecraft:iron_hoe>.maxDamage = 1;
-<minecraft:golden_sword>.maxDamage = 1;
-<minecraft:golden_shovel>.maxDamage = 1;
-<minecraft:golden_pickaxe>.maxDamage = 1;
-<minecraft:golden_axe>.maxDamage = 1;
-<minecraft:golden_hoe>.maxDamage = 1;
-<minecraft:diamond_sword>.maxDamage = 1;
-<minecraft:diamond_shovel>.maxDamage = 1;
-<minecraft:diamond_pickaxe>.maxDamage = 1;
-<minecraft:diamond_axe>.maxDamage = 1;
-<minecraft:diamond_hoe>.maxDamage = 1;
+<minecraft:wooden_sword>.maxDamage = 5;
+<minecraft:wooden_shovel>.maxDamage = 5;
+<minecraft:wooden_pickaxe>.maxDamage = 5;
+<minecraft:wooden_axe>.maxDamage = 5;
+<minecraft:wooden_hoe>.maxDamage = 5;
+<minecraft:stone_sword>.maxDamage = 5;
+<minecraft:stone_shovel>.maxDamage = 5;
+<minecraft:stone_pickaxe>.maxDamage = 5;
+<minecraft:stone_axe>.maxDamage = 5;
+<minecraft:stone_hoe>.maxDamage = 5;
+<minecraft:iron_sword>.maxDamage = 5;
+<minecraft:iron_shovel>.maxDamage = 5;
+<minecraft:iron_pickaxe>.maxDamage = 5;
+<minecraft:iron_axe>.maxDamage = 5;
+<minecraft:iron_hoe>.maxDamage = 5;
+<minecraft:golden_sword>.maxDamage = 5;
+<minecraft:golden_shovel>.maxDamage = 5;
+<minecraft:golden_pickaxe>.maxDamage = 5;
+<minecraft:golden_axe>.maxDamage = 5;
+<minecraft:golden_hoe>.maxDamage = 5;
+<minecraft:diamond_sword>.maxDamage = 5;
+<minecraft:diamond_shovel>.maxDamage = 5;
+<minecraft:diamond_pickaxe>.maxDamage = 5;
+<minecraft:diamond_axe>.maxDamage = 5;
+<minecraft:diamond_hoe>.maxDamage = 5;
 
 #cavern
 recipes.remove(<cavern:aquamarine_pickaxe>);
