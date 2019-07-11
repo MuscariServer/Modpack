@@ -18,7 +18,7 @@ recipes.addShaped(<simplyjetpacks:metaitemmods:27>, [
 recipes.remove(<simplyjetpacks:metaitemmods:28>);
 recipes.addShaped(<simplyjetpacks:metaitemmods:28>, [
 [<ore:ingotElectrum>, <thermalfoundation:material:1024>, <ore:ingotElectrum>],
-[<thermaldynamics:duct_0:3>, <thermalexpansion:dynamo:1>, <thermaldynamics:duct_0:3>],
+[<thermaldynamics:duct_0:3>, <enderio:block_combustion_generator>, <thermaldynamics:duct_0:3>],
 [<ore:ingotLumium>, 
 <forge:bucketfilled>.withTag({FluidName: "rocket_fuel", Amount: 1000}).onlyWithTag({FluidName: "rocket_fuel", Amount: 1000}), 
 <ore:ingotLumium>]]);
