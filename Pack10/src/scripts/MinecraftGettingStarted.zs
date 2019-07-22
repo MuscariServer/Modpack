@@ -262,27 +262,6 @@ recipes.remove(<ic2:bronze_pickaxe>);
 recipes.remove(<ic2:bronze_shovel>);
 recipes.remove(<ic2:bronze_sword>);
 
-recipes.remove(<tofucraft:tofustick>);
-recipes.remove(<tofucraft:swordkinu>);
-recipes.remove(<tofucraft:swordmomen>);
-recipes.remove(<tofucraft:swordsolid>);
-recipes.remove(<tofucraft:swordmetal>);
-recipes.remove(<tofucraft:toolkinupickaxe>);
-recipes.remove(<tofucraft:toolmomenpickaxe>);
-recipes.remove(<tofucraft:toolsolidpickaxe>);
-recipes.remove(<tofucraft:toolmetalpickaxe>);
-recipes.remove(<tofucraft:toolkinushovel>);
-recipes.remove(<tofucraft:toolmomenshovel>);
-recipes.remove(<tofucraft:toolsolidshovel>);
-recipes.remove(<tofucraft:toolmetalshovel>);
-recipes.remove(<tofucraft:toolkinuaxe>);
-recipes.remove(<tofucraft:toolmomenaxe>);
-recipes.remove(<tofucraft:toolsolidaxe>);
-recipes.remove(<tofucraft:toolmetalaxe>);
-recipes.remove(<tofucraft:zundabow>);
-recipes.remove(<tofucraft:zundaarrow>);
-
-
 #溶岩をリソースとする発電機の削除
 recipes.remove(<thermalexpansion:dynamo:1>);
 
