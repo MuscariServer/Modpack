@@ -50,4 +50,14 @@ recipes.remove(<extrautils2:teleporter:1>);
 #Sample
 #recipes.remove();
 
+#machine
+recipes.remove(<extrautils2:machine>);
 
+#GP
+recipes.remove(<extrautils2:passivegenerator:2>);
+recipes.remove(<extrautils2:passivegenerator:3>);
+recipes.remove(<extrautils2:passivegenerator:4>);
+recipes.remove(<extrautils2:passivegenerator:5>);
+recipes.remove(<extrautils2:passivegenerator:7>);
+recipes.remove(<extrautils2:passivegenerator>);
+recipes.remove(<extrautils2:passivegenerator:1>);

@@ -32,5 +32,16 @@ recipes.addShaped(<gravisuite:advancednanochestplate:26>,
 [<ic2:crafting:2>, <ic2:nano_chestplate:26>.anyDamage(), <ic2:crafting:2>], 
 [<ic2:cable:1>.withTag({type: 1 as byte, insulation: 0 as byte}), <advanced_solar_panels:crafting:8>, <ic2:cable:1>.withTag({type: 1 as byte, insulation: 0 as byte})]]);
 
+#原子炉チャンバー
+recipes.remove(<ic2:te:24>);
+recipes.addShaped(<ic2:te:24>,
+[[<ic2:plate:14>, <ic2:plate:14>, <ic2:plate:14>],
+[<ic2:plate:14>, <ic2:resource:13>, <ic2:plate:14>],
+[<ic2:plate:14>, <ic2:plate:14>, <ic2:plate:14>]]);
 
-
+#圧力容器
+recipes.remove(<ic2:resource:14>);
+recipes.addShaped(<ic2:resource:14> * 2,
+[[<ic2:plate:14>, <ore:stone>, <ic2:plate:14>],
+[<ore:stone>, <ic2:plate:14>, <ore:stone>],
+[<ic2:plate:14>, <ore:stone>, <ic2:plate:14>]]);
