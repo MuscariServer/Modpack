@@ -1,5 +1,5 @@
 #Name: ImmersiveEngineering.zs
-#Author: Tomotomo_
+#Author: Tomotomo_ rkcyk706
 
 print("Initializing 'ImmersiveEngineering.zs'...");
 
@@ -20,5 +20,28 @@ recipes.removeByRecipeName("immersiveengineering:compat/plate_thaumium_thaumium"
 recipes.removeByRecipeName("immersiveengineering:compat/plate_thaumium_void");
 
 recipes.remove(<immersiveengineering:metal_device1:3>);
+recipes.remove(<immersiveengineering:metal_device1:13>);
+
+
+
+
+mods.immersiveengineering.Excavator.removeMineral("Iron");
+mods.immersiveengineering.Excavator.removeMineral("Magnetite");
+mods.immersiveengineering.Excavator.removeMineral("Pyrite");
+mods.immersiveengineering.Excavator.removeMineral("Bauxite");
+mods.immersiveengineering.Excavator.removeMineral("Copper");
+mods.immersiveengineering.Excavator.removeMineral("Cassiterite");
+mods.immersiveengineering.Excavator.removeMineral("Gold");
+mods.immersiveengineering.Excavator.removeMineral("Nickel");
+mods.immersiveengineering.Excavator.removeMineral("Platinum");
+mods.immersiveengineering.Excavator.removeMineral("Uranium");
+mods.immersiveengineering.Excavator.removeMineral("Quartzite");
+mods.immersiveengineering.Excavator.removeMineral("Galena");
+mods.immersiveengineering.Excavator.removeMineral("Lead");
+mods.immersiveengineering.Excavator.removeMineral("Silver");
+mods.immersiveengineering.Excavator.removeMineral("Lapis");
+mods.immersiveengineering.Excavator.removeMineral("Cinnabar");
+mods.immersiveengineering.Excavator.removeMineral("Coal");
+mods.immersiveengineering.Excavator.removeMineral("Silt");
 
 print("Initialized 'ImmersiveEngineering.zs'");
