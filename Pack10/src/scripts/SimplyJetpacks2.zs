@@ -11,7 +11,7 @@ recipes.addShaped(<simplyjetpacks:metaitemmods:26>, [
 
 recipes.remove(<simplyjetpacks:metaitemmods:27>);
 recipes.addShaped(<simplyjetpacks:metaitemmods:27>, [
-[<ore:ingotInvar>, <ic2:crafting:1>, <ore:ingotInvar>],
+[<ore:ingotInvar>, <enderio:item_basic_capacitor:1>, <ore:ingotInvar>],
 [<thermaldynamics:duct_0:1>, <thermalexpansion:dynamo>, <thermaldynamics:duct_0:1>],
 [<ore:ingotInvar>, <minecraft:redstone>, <ore:ingotInvar>]]);
 
@@ -25,14 +25,14 @@ recipes.addShaped(<simplyjetpacks:metaitemmods:28>, [
 
 recipes.remove(<simplyjetpacks:metaitemmods:29>);
 recipes.addShaped(<simplyjetpacks:metaitemmods:29>, [
-[<ore:ingotEnderium>, <advanced_solar_panels:crafting:12>, <ore:ingotEnderium>],
-[<ic2:plate:14>, <ic2:quad_mox_fuel_rod>, <ic2:plate:14>],
-[<ore:ingotEnderium>, <simplyjetpacks:metaitemmods:28>, <ore:ingotEnderium>]]);
+[<ore:blockEnderium>, <mekanism:basicblock2:3>.withTag({tier: 3}), <ore:blockEnderium>],
+[<mekanism:controlcircuit:3>, <enderio:item_material:41>, <mekanism:controlcircuit:3>],
+[<ore:blockEnderium>, <simplyjetpacks:metaitemmods:28>, <ore:blockEnderium>]]);
 
 recipes.remove(<simplyjetpacks:metaitemmods:30>);
 recipes.addShaped(<simplyjetpacks:metaitemmods:30>, [
-[<simplyjetpacks:metaitemmods:6>, <gravisuite:crafting:2>, <simplyjetpacks:metaitemmods:6>],
-[<ore:ingotSignalum>, <redstonearsenal:material:224>, <ore:ingotSignalum>],
+[<simplyjetpacks:metaitemmods:6>, <redstonearsenal:material:224>, <simplyjetpacks:metaitemmods:6>],
+[<ore:ingotSignalum>, <enderio:item_material:18>, <ore:ingotSignalum>],
 [<simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:29>, <simplyjetpacks:metaitemmods:19>]]);
 
 #EnderIOコラボレシピ

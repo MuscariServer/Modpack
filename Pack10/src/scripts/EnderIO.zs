@@ -25,7 +25,8 @@ recipes.remove(<enderio:block_attractor_obelisk>);
 recipes.remove(<enderio:block_weather_obelisk>);
 
 #Steel
-mods.enderio.AlloySmelter.removeRecipe(<ic2:ingot:5>);
+mods.enderio.AlloySmelter.removeRecipe(<thermalfoundation:material:160>);
+mods.enderio.AlloySmelter.addRecipe(<thermalfoundation:material:160>, [<minecraft:iron_ingot>, <ore:fuelCoke>], 4000);
 
 #tools
 recipes.remove(<enderio:item_dark_steel_sword>);

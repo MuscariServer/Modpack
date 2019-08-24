@@ -3,6 +3,7 @@
 
 print("Initializing 'ImmersiveEngineering.zs'...");
 
+#Disable Crafting Metal Plates
 recipes.removeByRecipeName("immersiveengineering:material/plate_copper");
 recipes.removeByRecipeName("immersiveengineering:material/plate_aluminum");
 recipes.removeByRecipeName("immersiveengineering:material/plate_lead");
@@ -14,17 +15,16 @@ recipes.removeByRecipeName("immersiveengineering:material/plate_electrum");
 recipes.removeByRecipeName("immersiveengineering:material/plate_steel");
 recipes.removeByRecipeName("immersiveengineering:material/plate_iron");
 recipes.removeByRecipeName("immersiveengineering:material/plate_gold");
-
 recipes.removeByRecipeName("immersiveengineering:compat/plate_thaumium_brass");
 recipes.removeByRecipeName("immersiveengineering:compat/plate_thaumium_thaumium");
 recipes.removeByRecipeName("immersiveengineering:compat/plate_thaumium_void");
 
+#Thermoelectric Generator
 recipes.remove(<immersiveengineering:metal_device1:3>);
+#Garden Cloche
 recipes.remove(<immersiveengineering:metal_device1:13>);
 
-
-
-
+#Disable Excavator
 mods.immersiveengineering.Excavator.removeMineral("Iron");
 mods.immersiveengineering.Excavator.removeMineral("Magnetite");
 mods.immersiveengineering.Excavator.removeMineral("Pyrite");

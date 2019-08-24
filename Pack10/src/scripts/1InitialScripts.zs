@@ -3,14 +3,8 @@
 
 print("Initializing '1InitialScripts.zs'...");
 
-#à–¾‘‚Æ‚ÌƒŒƒVƒs‚ÌƒYƒŒ‚Ìà–¾
+#Explaining recipes are modified.
 <botania:lexicon>.addTooltip(format.red("[WIP] Not 100% accurate!"));
-
-#Player Interface
-/* 
-recipes.remove(<actuallyadditions:block_player_interface>);
-recipes.remove(<actuallyadditions:item_player_probe>);
- */
 
 #Wings Of The Bats
 /* 
@@ -27,7 +21,7 @@ recipes.removeByRecipeName("actuallyadditions:recipes93");
 recipes.removeByRecipeName("actuallyadditions:recipes41");
 recipes.removeByRecipeName("actuallyadditions:recipes42");
 */
-recipes.removeByRecipeName("dcs_lib:recipes42_dcs");
+#recipes.removeByRecipeName("dcs_lib:recipes42_dcs");
 
 #lens
 /*
