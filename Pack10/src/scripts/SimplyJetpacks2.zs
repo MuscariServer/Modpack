@@ -35,7 +35,7 @@ recipes.addShaped(<simplyjetpacks:metaitemmods:30>, [
 [<ore:ingotSignalum>, <enderio:item_material:18>, <ore:ingotSignalum>],
 [<simplyjetpacks:metaitemmods:19>, <simplyjetpacks:metaitemmods:29>, <simplyjetpacks:metaitemmods:19>]]);
 
-#EnderIOコラボレシピ
+#Disable EnderIO Jetpacks
 recipes.remove(<simplyjetpacks:metaitemmods:7>);
 recipes.remove(<simplyjetpacks:metaitemmods:8>);
 recipes.remove(<simplyjetpacks:metaitemmods:9>);

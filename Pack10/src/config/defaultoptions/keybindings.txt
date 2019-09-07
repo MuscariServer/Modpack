@@ -32,13 +32,8 @@ key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
 key_of.key.zoom:44:NONE
-key_ALT Key:0:NONE
-key_Boost Key:0:NONE
-key_Mode Switch Key:50:NONE
-key_Side Inventory Key:0:NONE
-key_Hub Expand Key:0:NONE
 key_Change Caster Focus:21:NONE
-key_Misc Caster Toggle:34:NONE
+key_Misc Caster Toggle:0:NONE
 key_keybind.baublesinventory:0:NONE
 key_key.cavern.miningAssist:49:NONE
 key_key.cavern.miningRecords:0:NONE
@@ -49,29 +44,9 @@ key_Scene2 start/pause:0:NONE
 key_Scene3 start/pause:0:NONE
 key_Scene reset:0:NONE
 key_Quest Log:0:NONE
-key_key.ebwizardry.next_spell:0:NONE
-key_key.ebwizardry.previous_spell:0:NONE
-key_enderio.keybind.inventory:0:NONE
-key_enderio.keybind.glidertoggle:0:NONE
-key_enderio.keybind.soundlocator:0:NONE
-key_enderio.keybind.nightvision:0:NONE
-key_enderio.keybind.gogglesofrevealing:0:NONE
-key_enderio.keybind.stepassist:0:NONE
-key_enderio.keybind.speed:0:NONE
-key_enderio.keybind.jump:0:NONE
-key_enderio.keybind.top:0:NONE
-key_enderio.keybind.yetawrenchmode:0:NONE
-key_enderio.keybind.magnet:0:NONE
-key_enderio.keybind.fovreset:0:NONE
-key_enderio.keybind.fovplus:0:NONE
-key_enderio.keybind.fovminus:0:NONE
-key_enderio.keybind.fovplusfast:0:NONE
-key_enderio.keybind.fovminusfast:0:NONE
-key_key.xu2.searchforitems:0:NONE
 key_key.ftbutilities.nbt:0:NONE
 key_key.ftbutilities.trash:211:NONE
 key_key.ftbquests.quests:0:NONE
-key_Gravi Fly Key:0:NONE
 key_key.ironbackpacks.equip:0:NONE
 key_key.ironbackpacks.open:0:NONE
 key_openblocks.keybind.vario_switch:0:NONE
@@ -81,6 +56,11 @@ key_simplyjetpacks.keybind.engine:0:NONE
 key_simplyjetpacks.keybind.hover:35:NONE
 key_simplyjetpacks.keybind.charger:0:NONE
 key_simplyjetpacks.keybind.emergencyhover:0:NONE
+key_pneumaticcraft.armor.options:0:NONE
+key_pneumaticcraft.helmet.hack:0:NONE
+key_pneumaticcraft.helmet.debugging.drone:0:NONE
+key_pneumaticcraft.boots.kick:0:NONE
+key_pneumaticcraft.chestplate.launcher:0:NONE
 key_key.toggleFoVChanges:0:NONE
 key_key.reloadSoundSystem:0:NONE
 key_key.toggleTimeOfDayOverlay:0:NONE
@@ -110,22 +90,33 @@ key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
+key_key.toggle_focus.desc:15:NONE
+key_key.cofh.multimode:0:NONE
 key_bbw.key.mode:51:NONE
 key_bbw.key.fluidmode:0:NONE
 key_nei.options.keys.gui.botania_corporea_request:0:NONE
-key_key.cofh.multimode:0:NONE
-key_key.refinedstorage.focusSearchBar:15:NONE
-key_key.refinedstorage.clearGridCraftingMatrix:0:NONE
-key_key.refinedstorage.openWirelessGrid:0:NONE
-key_key.refinedstorage.openWirelessFluidGrid:0:NONE
-key_key.refinedstorage.openPortableGrid:0:NONE
-key_key.refinedstorage.openWirelessCraftingMonitor:0:NONE
 key_waila.keybind.wailaconfig:82:NONE
 key_waila.keybind.wailadisplay:79:NONE
 key_waila.keybind.liquid:80:NONE
 key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
+key_key.immersiveengineering.magnetEquip:31:NONE
+key_key.immersiveengineering.chemthrowerSwitch:0:NONE
+key_ir_keys.increase_throttle:0:NONE
+key_ir_keys.decrease_throttle:0:NONE
+key_ir_keys.zero_throttle:0:NONE
+key_ir_keys.increase_brake:0:NONE
+key_ir_keys.decrease_brake:0:NONE
+key_ir_keys.zero_brake:0:NONE
+key_ir_keys.horn:0:NONE
+key_ir_keys.bell:0:NONE
+key_ir_keys.dead_mans_switch:0:NONE
+key_ir_keys.start_stop_engine:0:NONE
 key_invtweaks.key.sort:19:NONE
+key_mekanism.key.mode:41:NONE
+key_mekanism.key.armorMode:41:NONE
+key_mekanism.key.feetMode:41:NONE
+key_mekanism.key.voice:41:NONE
 key_key.plustic_release_entity.desc:0:NONE
 key_key.plustic_toggle_gui.desc:0:NONE
 key_key.plustic_set_portal.desc:0:NONE
@@ -135,8 +126,10 @@ key_key.plustic_fruit_salad.desc:0:NONE
 key_key.plustic_mots.desc:0:NONE
 key_signpic.key.gui:43:NONE
 key_WorldEdit Reference:0:NONE
-key_key.immersiveengineering.magnetEquip:31:NONE
-key_key.immersiveengineering.chemthrowerSwitch:0:NONE
+key_key.radial_menu:0:NONE
+key_key.use_ring:0:NONE
+key_key.open_pouch:0:NONE
+key_key.connect_caving_rope:0:NONE
 key_key.journeymap.zoom_in:0:NONE
 key_key.journeymap.zoom_out:0:NONE
 key_key.journeymap.minimap_type:0:NONE
@@ -153,4 +146,21 @@ key_key.journeymap.fullscreen.north:200:NONE
 key_key.journeymap.fullscreen.south:208:NONE
 key_key.journeymap.fullscreen.east:205:NONE
 key_key.journeymap.fullscreen.west:203:NONE
+key_key.control:0:NONE
 key_Profile GUI:210:NONE
+key_enderio.keybind.inventory:23:NONE
+key_enderio.keybind.glidertoggle:34:NONE
+key_enderio.keybind.soundlocator:0:NONE
+key_enderio.keybind.nightvision:25:NONE
+key_enderio.keybind.gogglesofrevealing:0:NONE
+key_enderio.keybind.stepassist:0:NONE
+key_enderio.keybind.speed:0:NONE
+key_enderio.keybind.jump:0:NONE
+key_enderio.keybind.top:0:NONE
+key_enderio.keybind.yetawrenchmode:0:NONE
+key_enderio.keybind.magnet:0:NONE
+key_enderio.keybind.fovreset:0:NONE
+key_enderio.keybind.fovplus:0:NONE
+key_enderio.keybind.fovminus:0:NONE
+key_enderio.keybind.fovplusfast:0:NONE
+key_enderio.keybind.fovminusfast:0:NONE

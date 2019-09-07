@@ -21,8 +21,41 @@ recipes.removeByRecipeName("immersiveengineering:compat/plate_thaumium_void");
 
 #Thermoelectric Generator
 recipes.remove(<immersiveengineering:metal_device1:3>);
-#Garden Cloche
+recipes.addShaped(<immersiveengineering:metal_device1:3>, [
+[<immersiveengineering:metal:38>, <immersiveengineering:metal:38>, <immersiveengineering:metal:38>],
+[<ore:plateElectrumFlux>, <immersiveengineering:metal_decoration0>, <ore:plateElectrumFlux>],
+[<ore:plateElectrumFlux>, <ore:plateElectrumFlux>, <ore:plateElectrumFlux>]]);
+
+#Generator Block
+recipes.remove(<immersiveengineering:metal_decoration0:6>);
+recipes.addShaped(<immersiveengineering:metal_decoration0:6>, [
+[<immersiveengineering:metal:38>, <ore:plateElectrum>, <immersiveengineering:metal:38>], 
+[<thermalfoundation:material:515>, <immersiveengineering:metal_device1:2>, <thermalfoundation:material:515>], 
+[<immersiveengineering:metal:38>, <ore:plateElectrum>, <immersiveengineering:metal:38>]]);
+
+#Garden Cloche ※※※Crime※※※
 recipes.remove(<immersiveengineering:metal_device1:13>);
+
+#Kinetic Dynamo
+recipes.remove(<immersiveengineering:metal_device1:2>);
+recipes.addShaped(<immersiveengineering:metal_device1:2>, [
+[<ore:dustRedstone>, <immersiveengineering:metal_decoration0>, <ore:dustRedstone>], 
+[<ore:ingotIron>, <ore:ingotEnergeticAlloy>, <ore:ingotIron>]]);
+
+#Engineering Block
+recipes.remove(<immersiveengineering:metal_decoration0:4>);
+recipes.remove(<immersiveengineering:metal_decoration0:5>);
+#Light
+recipes.addShaped(<immersiveengineering:metal_decoration0:4>, [
+[<ore:plateIron>, <immersiveengineering:material:8>, <ore:plateIron>], 
+[<projectred-core:resource_item:342>, <thermalfoundation:glass>, <projectred-core:resource_item:342>], 
+[<ore:plateIron>, <immersiveengineering:material:8>, <ore:plateIron>]]);
+
+#Heavy
+recipes.addShaped(<immersiveengineering:metal_decoration0:5>, [
+[<ore:plateSteel>, <immersiveengineering:material:9>, <ore:plateSteel>], 
+[<minecraft:piston>, <thermalfoundation:glass_alloy:1>, <minecraft:piston>], 
+[<ore:plateSteel>, <immersiveengineering:material:9>, <ore:plateSteel>]]);
 
 #Disable Excavator
 mods.immersiveengineering.Excavator.removeMineral("Iron");
