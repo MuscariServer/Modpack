@@ -69,6 +69,9 @@ recipes.addShaped(<enderio:item_basic_capacitor:2>,
 [<enderio:item_basic_capacitor:1>, <forestry:thermionic_tubes:9>, <enderio:item_basic_capacitor:1>],
 [null, <enderio:item_alloy_ingot:2>, null]]);
 
+#Telepad
+recipes.remove(<enderio:block_tele_pad>);
+
 #ゾンビ発電機
 recipes.remove(<enderio:block_zombie_generator>);
 recipes.addShaped(<enderio:block_zombie_generator>,
@@ -132,14 +135,17 @@ recipes.addShaped(<enderio:block_cap_bank:1>,
 [<enderio:item_basic_capacitor>, <immersiveengineering:metal_device0:1>, <enderio:item_basic_capacitor>],
 [<pneumaticcraft:ingot_iron_compressed>, <enderio:item_basic_capacitor>, <pneumaticcraft:ingot_iron_compressed>]]);
 
-#蓄電器
+#蓄電装置
 recipes.remove(<enderio:block_cap_bank:2>);
 recipes.addShaped(<enderio:block_cap_bank:2>,
 [[<enderio:item_alloy_ingot:6>, <enderio:item_basic_capacitor:1>, <enderio:item_alloy_ingot:6>],
 [<enderio:item_basic_capacitor:1>, <immersiveengineering:metal_device0:2>, <enderio:item_basic_capacitor:1>],
 [<enderio:item_alloy_ingot:6>, <enderio:item_basic_capacitor:1>, <enderio:item_alloy_ingot:6>]]);
 
-recipes.remove(<enderio:block_cap_bank:3>);
+#ヴァイブラント蓄電蓄電装置
+recipes.removeByRecipeName("enderio:capacitor_bank_vibrant");
+
+
 
 #簡易型マシンシャーシ
 recipes.remove(<enderio:item_material>);

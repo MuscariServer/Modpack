@@ -64,6 +64,39 @@ recipes.addShaped(<thermalfoundation:upgrade:3>, [
 [<ore:ingotEnderium>, <ore:gearLumium>, <ore:ingotEnderium>], 
 [<ore:dustPyrotheum>, <ore:ingotEnderium>, <ore:dustPyrotheum>]]);
 
+#Augment
+recipes.remove(<thermalexpansion:augment:324>);
+recipes.addShaped(<thermalexpansion:augment:324>, [
+[null, <thermalfoundation:material:293>, null],
+[<ore:plateNickel>, <thermalfoundation:material:512>, <ore:plateNickel>],
+[null, <thermalfoundation:fertilizer:2>, null]]);
+recipes.remove(<thermalexpansion:augment:320>);
+recipes.addShaped(<thermalexpansion:augment:320>, [
+[null, <thermalfoundation:material:258>, null],
+[<thermalfoundation:fertilizer:1>, <thermalfoundation:material:512>, <thermalfoundation:fertilizer:1>],
+[null, <ore:blockGlassHardened>, null]]);
+recipes.remove(<thermalexpansion:augment:128>);
+recipes.addShaped(<thermalexpansion:augment:128>, [
+[<enderio:item_basic_capacitor>, <ore:gearInvar>, <enderio:item_basic_capacitor>],
+[<ore:plateElectrum>, <thermalfoundation:material:513>, <ore:plateElectrum>],
+[<forestry:thermionic_tubes:4>, <ore:plateElectrum>, <forestry:thermionic_tubes:4>]]);
+recipes.remove(<thermalexpansion:augment:129>);
+recipes.addShaped(<thermalexpansion:augment:129>, [
+[<immersiveengineering:material:8>, <ore:stickIron>, <immersiveengineering:material:8>],
+[<ore:stickIron>, <thermaldynamics:filter:2>, <ore:stickIron>],
+[<immersiveengineering:material:8>, <ore:stickIron>, <immersiveengineering:material:8>]]);
+recipes.remove(<thermalexpansion:augment:513>);
+recipes.addShaped(<thermalexpansion:augment:513>, [
+[null, <forestry:chipsets:1>.withTag({T: 1 as short}), null],
+[<ore:plateLead>, <thermalfoundation:material:515>, <ore:plateLead>],
+[<forestry:thermionic_tubes:4>, <minecraft:piston>, <forestry:thermionic_tubes:4>]]);
+recipes.remove(<thermalexpansion:augment:512>);
+recipes.addShaped(<thermalexpansion:augment:512>, [
+[null, <ore:gearSilver>, null],
+[<ore:plateSilver>, <thermalfoundation:material:514>, <ore:plateSilver>],
+[<forestry:thermionic_tubes:4>, <forestry:chipsets:1>.withTag({T: 1 as short}), <forestry:thermionic_tubes:4>]]);
+
+
 #Steel
 #mods.thermalexpansion.InductionSmelter.removeRecipe(<minecraft:iron_ingot>, <enderio:item_material:23> * 4);
 mods.thermalexpansion.InductionSmelter.removeRecipe(<minecraft:iron_ingot>, <thermalfoundation:material:768> * 4);

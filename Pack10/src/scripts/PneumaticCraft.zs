@@ -84,6 +84,6 @@ mods.biggercraftingtables.Big.addShaped(<pneumaticcraft:jet_boots_upgrade>, [
 
 #liquid plastic
 mods.pneumaticcraft.thermopneumaticprocessingplant.removeRecipe(<liquid:plastic>);
-mods.pneumaticcraft.thermopneumaticprocessingplant.addRecipe(<liquid:lpg>, <minecraft:coal>, 0.0, 373, <liquid:plastic> * 100);
+mods.pneumaticcraft.thermopneumaticprocessingplant.addRecipe(<liquid:lpg> * 200, <minecraft:coal>, 0.0, 373, <liquid:plastic> * 100);
 
 print("Initialized 'PneumaticCraft.zs'");

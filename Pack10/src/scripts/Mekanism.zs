@@ -133,6 +133,9 @@ recipes.addShaped(<mekanism:basicblock:8>,
 [<pneumaticcraft:pneumatic_cylinder>, <enderio:item_material>, <pneumaticcraft:pneumatic_cylinder>],
 [<ore:ingotSteel>, <ore:ingotOsmium>, <ore:ingotSteel>]]);
 
+#抱合機
+recipes.remove(<mekanism:machineblock:2>);
+
 #バイオ発電機
 recipes.remove(<mekanismgenerators:generator:4>);
 
@@ -146,9 +149,9 @@ recipes.addShaped(<mekanismgenerators:generator:3>,
 #電解分離機
 recipes.remove(<mekanism:machineblock2:4>);
 recipes.addShaped(<mekanism:machineblock2:4>,
-[[<ore:ingotSteel>, <ore:dustRedstone>, <ore:ingotSteel>],
-[<mekanism:enrichedalloy>, <mekanism:electrolyticcore>, <mekanism:enrichedalloy>],
-[<ore:ingotSteel>, <ore:dustRedstone>, <ore:ingotSteel>]]);
+[[<ore:ingotSteel>, <projectred-core:resource_item:103>, <ore:ingotSteel>],
+[<mekanism:controlcircuit>, <mekanism:electrolyticcore>, <mekanism:controlcircuit>],
+[<ore:ingotSteel>, <projectred-core:resource_item:103>, <ore:ingotSteel>]]);
 
 #冶金注入機
 recipes.remove(<mekanism:machineblock:8>);
