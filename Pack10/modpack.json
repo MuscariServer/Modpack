@@ -192,6 +192,20 @@
         ],
         "exclude" : [ ]
       }
+    },
+    {
+      "properties" : {
+        "name" : "Emojicord",
+        "description" : "超ベータ！！絵文字がマインクラフトで使えます。",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/Emojicord*"
+        ],
+        "exclude" : [ ]
+      }
     }
   ],
   "userFiles" : {
