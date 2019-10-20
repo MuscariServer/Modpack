@@ -1328,57 +1328,6 @@ forestry:resource_storage:2, スズブロック
 forestry:resource_storage:3, 青銅ブロック
 forestry:ash_brick:0, Ash Bricks
 forestry:ash_stairs:0, Ash Brick Stairs
-forestry:engine_peat:0, 泥炭エンジン
-forestry:engine_biogas:0, バイオガスエンジン
-forestry:engine_clockwork:0, ゼンマイエンジン
-forestry:bottler:0, 瓶詰め機
-forestry:carpenter:0, 工作機
-forestry:centrifuge:0, 遠心分離機
-forestry:fermenter:0, 発酵槽
-forestry:moistener:0, 加湿器
-forestry:squeezer:0, 圧搾機
-forestry:still:0, 蒸留器
-forestry:rainmaker:0, 人工降雨マシン
-forestry:fabricator:0, 電子工作機
-forestry:raintank:0, 雨水タンク
-forestry:worktable:0, 加工作業台
-forestry:apiarist_bag, 養蜂家のバックパック
-forestry:lepidopterist_bag, 鱗翅類研究家のバックパック
-forestry:miner_bag, 鉱夫のバックパック
-forestry:miner_bag_t2, 編み込んだ鉱夫のバックパック
-forestry:digger_bag, 坑夫のバックパック
-forestry:digger_bag_t2, 編み込んだ坑夫のバックパック
-forestry:forester_bag, 樵のバックパック
-forestry:forester_bag_t2, 編み込んだ樵のバックパック
-forestry:hunter_bag, 狩人のバックパック
-forestry:hunter_bag_t2, 編み込んだ狩人のバックパック
-forestry:adventurer_bag, 冒険家のバックパック
-forestry:adventurer_bag_t2, 編み込んだ冒険家のバックパック
-forestry:builder_bag, 大工のバックパック
-forestry:builder_bag_t2, 編み込んだ大工のバックパック
-forestry:fluid.bio.ethanol, バイオエタノール
-forestry:fluid.biomass, バイオマス
-forestry:fluid.glass, 液化ガラス
-forestry:fluid.for.honey, 蜂蜜
-forestry:fluid.ice, 削氷
-forestry:fluid.juice, フルーツジュース
-forestry:fluid.milk, ミルク
-forestry:fluid.seed.oil, 種子油
-forestry:fluid.short.mead, 蜂蜜酒
-forestry:can, item.for.can.name
-forestry:capsule, item.for.capsule.name
-forestry:refractory, item.for.refractory.name
-forestry:greenhouse:0, 温室ブロック
-forestry:greenhouse:3, 温室ギアボックス
-forestry:greenhouse:4, 温室コントロール
-forestry:greenhouse:5, Greenhouse Screen
-forestry:climatiser:0, Greenhouse Hygroregulator
-forestry:climatiser:1, Greenhouse Heater
-forestry:climatiser:2, Greenhouse Fan
-forestry:climatiser:3, Greenhouse Humidifier
-forestry:climatiser:4, Greenhouse Dehumidifier
-forestry:greenhouse.window:0, 温室窓
-forestry:greenhouse.window_up:0, 温室屋根窓
 forestry:grafter, 接木小刀
 forestry:grafter_proven, 秘伝の接木小刀
 forestry:logs.0:0, カラマツの原木
@@ -1831,92 +1780,36 @@ forestry:leaves.decorative.2:0, パパイアの葉
 forestry:leaves.decorative.2:1, ナツメヤシの葉
 forestry:leaves.decorative.2:2, ギンドロの葉
 forestry:tree_chest:0, 樹医のチェスト
-forestry:habitat_locator, 適正環境探知機
-forestry:imprinter, 遺伝子刷り込み機
-forestry:cart.beehouse:0, ビーハウス付きトロッコ
-forestry:cart.beehouse:1, 養蜂箱付きトロッコ
-forestry:frame_untreated, 未処理の巣枠
-forestry:frame_impregnated, 含浸処理した巣枠
-forestry:frame_proven, 秘伝の巣枠
-forestry:honey_drop:0, 蜂蜜の雫
-forestry:pollen:0, 花粉
-forestry:pollen:1, 結晶性の花粉
-forestry:propolis:0, プロポリス
-forestry:propolis:1, 粘つくプロポリス
-forestry:propolis:3, 滑らかなプロポリス
-forestry:honeydew, 甘露の雫
-forestry:royal_jelly, ローヤルゼリー
-forestry:wax_cast, 蝋の鋳型
-forestry:bee_combs:0, ミツバチの巣板
-forestry:bee_combs:2, 沸き立つ巣板
-forestry:bee_combs:3, 粘つく巣板
-forestry:bee_combs:4, 凍てついた巣板
-forestry:bee_combs:5, 滴る巣板
-forestry:bee_combs:6, 滑らかな巣板
-forestry:bee_combs:7, 乾いた巣板
-forestry:bee_combs:15, 苔むした巣板
-forestry:bee_combs:16, 熟した巣板
-forestry:apiarist_helmet, 養蜂用防護服 (面布)
-forestry:apiarist_chest, 養蜂用防護服 (上)
-forestry:apiarist_legs, 養蜂用防護服 (下)
-forestry:apiarist_boots, 養蜂用防護服 (長靴)
-forestry:scoop, 虫取り網
-forestry:smoker, 養蜂用燻煙器
-forestry:apiary:0, 養蜂箱
-forestry:bee_house:0, ビーハウス
-forestry:bee_chest:0, 養蜂家のチェスト
-forestry:beehives:0, 森の蜂の巣
-forestry:beehives:1, 草原の蜂の巣
-forestry:beehives:2, 砂漠の蜂の巣
-forestry:beehives:3, ジャングルの蜂の巣
-forestry:beehives:4, エンドの蜂の巣
-forestry:beehives:5, 雪の蜂の巣
-forestry:beehives:6, 沼地の蜂の巣
-forestry:candle:0, ロウソク(消灯)
-forestry:stump:0, ロウソクの燃え残り
-forestry:bee_combs_0:0, Honey Comb Block
-forestry:bee_combs_0:2, Simmering Comb Block
-forestry:bee_combs_0:3, Stringy Comb Block
-forestry:bee_combs_0:4, Frozen Comb Block
-forestry:bee_combs_0:5, Dripping Comb Block
-forestry:bee_combs_0:6, Silky Comb Block
-forestry:bee_combs_0:7, Parched Comb Block
-forestry:bee_combs_0:15, Mossy Comb Block
-forestry:bee_combs_1:0, Mellow Comb Block
-forestry:alveary.plain:0, 巣箱
-forestry:alveary.swarmer:0, 分蜂室
-forestry:alveary.fan:0, 巣箱の冷房機
-forestry:alveary.heater:0, 巣箱の暖房機
-forestry:alveary.hygro:0, 巣箱の湿度調節器
-forestry:alveary.stabiliser:0, 巣箱の安定器
-forestry:alveary.sieve:0, 花粉ふるい
-forestry:charcoal:0, 木炭ブロック
-forestry:wood_pile:0, 薪
-forestry:wood_pile_decorative:0, Decorative Wood Pile
-forestry:ash_block_0:0, Ash Block
-forestry:ash_block_1:0, Ash Block
-forestry:ash_block_2:0, Ash Block
-forestry:ash_block_3:0, Ash Block
-forestry:loam:0, ローム
-forestry:stamps:0, 1n切手
-forestry:stamps:1, 2n切手
-forestry:stamps:2, 5n切手
-forestry:stamps:3, 10n切手
-forestry:stamps:4, 20n切手
-forestry:stamps:5, 50n切手
-forestry:stamps:6, 100n切手
-forestry:letters, 手紙
-forestry:catalogue, カタログ
-forestry:mailbox:0, 郵便箱
-forestry:trade_station:0, トレードステーション
-forestry:stamp_collector:0, 切手回収箱
-forestry:crate, 木箱
-forestry:butterfly_chest:0, 鱗翅類研究家のチェスト
-forestry:cocoon:0, tile.for.cocoon.name
-forestry:cocoon.solid:0, tile.for.cocoon.solid.name
-forestry:habitat_former:0, Habitat Former
-forestry:habitat_screen, Habitat Screen
 forestry:genetic_filter:0, Genetic Filter
+forestry:worktable:0, 加工作業台
+forestry:greenhouse:0, 温室ブロック
+forestry:greenhouse:3, 温室ギアボックス
+forestry:greenhouse:4, 温室コントロール
+forestry:greenhouse:5, Greenhouse Screen
+forestry:climatiser:0, Greenhouse Hygroregulator
+forestry:climatiser:1, Greenhouse Heater
+forestry:climatiser:2, Greenhouse Fan
+forestry:climatiser:3, Greenhouse Humidifier
+forestry:climatiser:4, Greenhouse Dehumidifier
+forestry:greenhouse.window:0, 温室窓
+forestry:greenhouse.window_up:0, 温室屋根窓
+forestry:engine_peat:0, 泥炭エンジン
+forestry:engine_biogas:0, バイオガスエンジン
+forestry:engine_clockwork:0, ゼンマイエンジン
+forestry:apiarist_bag, 養蜂家のバックパック
+forestry:lepidopterist_bag, 鱗翅類研究家のバックパック
+forestry:miner_bag, 鉱夫のバックパック
+forestry:miner_bag_t2, 編み込んだ鉱夫のバックパック
+forestry:digger_bag, 坑夫のバックパック
+forestry:digger_bag_t2, 編み込んだ坑夫のバックパック
+forestry:forester_bag, 樵のバックパック
+forestry:forester_bag_t2, 編み込んだ樵のバックパック
+forestry:hunter_bag, 狩人のバックパック
+forestry:hunter_bag_t2, 編み込んだ狩人のバックパック
+forestry:adventurer_bag, 冒険家のバックパック
+forestry:adventurer_bag_t2, 編み込んだ冒険家のバックパック
+forestry:builder_bag, 大工のバックパック
+forestry:builder_bag_t2, 編み込んだ大工のバックパック
 forestry:mushroom:0, tile.for.mushroom.name
 forestry:mushroom:1, tile.for.mushroom.name
 forestry:ffarm:0, ファームブロック
@@ -1988,11 +1881,118 @@ forestry:farm_ender:0, Ender Farm (Managed)
 forestry:farm_ender:1, Ender Farm (Manual)
 forestry:peat_bog:0, Peat Bog (Managed)
 forestry:peat_bog:1, Peat Bog (Manual)
-forestry:database:0, Database
-forestry:book_forester, Forester's Manual
+forestry:charcoal:0, 木炭ブロック
+forestry:wood_pile:0, 薪
+forestry:wood_pile_decorative:0, Decorative Wood Pile
+forestry:ash_block_0:0, Ash Block
+forestry:ash_block_1:0, Ash Block
+forestry:ash_block_2:0, Ash Block
+forestry:ash_block_3:0, Ash Block
+forestry:loam:0, ローム
+forestry:bottler:0, 瓶詰め機
+forestry:carpenter:0, 工作機
+forestry:centrifuge:0, 遠心分離機
+forestry:fermenter:0, 発酵槽
+forestry:moistener:0, 加湿器
+forestry:squeezer:0, 圧搾機
+forestry:still:0, 蒸留器
+forestry:rainmaker:0, 人工降雨マシン
+forestry:fabricator:0, 電子工作機
+forestry:raintank:0, 雨水タンク
+forestry:butterfly_chest:0, 鱗翅類研究家のチェスト
+forestry:cocoon:0, tile.for.cocoon.name
+forestry:cocoon.solid:0, tile.for.cocoon.solid.name
 forestry:honeyed_slice, 蜂蜜パン
 forestry:ambrosia, アンブロシア
 forestry:honey_pot, 蜜壺
+forestry:book_forester, Forester's Manual
+forestry:habitat_former:0, Habitat Former
+forestry:habitat_screen, Habitat Screen
+forestry:crate, 木箱
+forestry:habitat_locator, 適正環境探知機
+forestry:imprinter, 遺伝子刷り込み機
+forestry:cart.beehouse:0, ビーハウス付きトロッコ
+forestry:cart.beehouse:1, 養蜂箱付きトロッコ
+forestry:frame_untreated, 未処理の巣枠
+forestry:frame_impregnated, 含浸処理した巣枠
+forestry:frame_proven, 秘伝の巣枠
+forestry:honey_drop:0, 蜂蜜の雫
+forestry:pollen:0, 花粉
+forestry:pollen:1, 結晶性の花粉
+forestry:propolis:0, プロポリス
+forestry:propolis:1, 粘つくプロポリス
+forestry:propolis:3, 滑らかなプロポリス
+forestry:honeydew, 甘露の雫
+forestry:royal_jelly, ローヤルゼリー
+forestry:wax_cast, 蝋の鋳型
+forestry:bee_combs:0, ミツバチの巣板
+forestry:bee_combs:2, 沸き立つ巣板
+forestry:bee_combs:3, 粘つく巣板
+forestry:bee_combs:4, 凍てついた巣板
+forestry:bee_combs:5, 滴る巣板
+forestry:bee_combs:6, 滑らかな巣板
+forestry:bee_combs:7, 乾いた巣板
+forestry:bee_combs:15, 苔むした巣板
+forestry:bee_combs:16, 熟した巣板
+forestry:apiarist_helmet, 養蜂用防護服 (面布)
+forestry:apiarist_chest, 養蜂用防護服 (上)
+forestry:apiarist_legs, 養蜂用防護服 (下)
+forestry:apiarist_boots, 養蜂用防護服 (長靴)
+forestry:scoop, 虫取り網
+forestry:smoker, 養蜂用燻煙器
+forestry:apiary:0, 養蜂箱
+forestry:bee_house:0, ビーハウス
+forestry:bee_chest:0, 養蜂家のチェスト
+forestry:beehives:0, 森の蜂の巣
+forestry:beehives:1, 草原の蜂の巣
+forestry:beehives:2, 砂漠の蜂の巣
+forestry:beehives:3, ジャングルの蜂の巣
+forestry:beehives:4, エンドの蜂の巣
+forestry:beehives:5, 雪の蜂の巣
+forestry:beehives:6, 沼地の蜂の巣
+forestry:candle:0, ロウソク(消灯)
+forestry:stump:0, ロウソクの燃え残り
+forestry:bee_combs_0:0, Honey Comb Block
+forestry:bee_combs_0:2, Simmering Comb Block
+forestry:bee_combs_0:3, Stringy Comb Block
+forestry:bee_combs_0:4, Frozen Comb Block
+forestry:bee_combs_0:5, Dripping Comb Block
+forestry:bee_combs_0:6, Silky Comb Block
+forestry:bee_combs_0:7, Parched Comb Block
+forestry:bee_combs_0:15, Mossy Comb Block
+forestry:bee_combs_1:0, Mellow Comb Block
+forestry:alveary.plain:0, 巣箱
+forestry:alveary.swarmer:0, 分蜂室
+forestry:alveary.fan:0, 巣箱の冷房機
+forestry:alveary.heater:0, 巣箱の暖房機
+forestry:alveary.hygro:0, 巣箱の湿度調節器
+forestry:alveary.stabiliser:0, 巣箱の安定器
+forestry:alveary.sieve:0, 花粉ふるい
+forestry:stamps:0, 1n切手
+forestry:stamps:1, 2n切手
+forestry:stamps:2, 5n切手
+forestry:stamps:3, 10n切手
+forestry:stamps:4, 20n切手
+forestry:stamps:5, 50n切手
+forestry:stamps:6, 100n切手
+forestry:letters, 手紙
+forestry:catalogue, カタログ
+forestry:mailbox:0, 郵便箱
+forestry:trade_station:0, トレードステーション
+forestry:stamp_collector:0, 切手回収箱
+forestry:database:0, Database
+forestry:fluid.bio.ethanol, バイオエタノール
+forestry:fluid.biomass, バイオマス
+forestry:fluid.glass, 液化ガラス
+forestry:fluid.for.honey, 蜂蜜
+forestry:fluid.ice, 削氷
+forestry:fluid.juice, フルーツジュース
+forestry:fluid.milk, ミルク
+forestry:fluid.seed.oil, 種子油
+forestry:fluid.short.mead, 蜂蜜酒
+forestry:can, item.for.can.name
+forestry:capsule, item.for.capsule.name
+forestry:refractory, item.for.refractory.name
 enderpay:blank_banknote, Blank banknote
 enderpay:filled_banknote, Filled banknote
 microblockcbe:saw_stone, Stone Saw
@@ -3682,6 +3682,10 @@ thermaldynamics:cover:0, グリーンハートの葉のカバー
 thermaldynamics:cover:0, パパイアの葉のカバー
 thermaldynamics:cover:0, ナツメヤシの葉のカバー
 thermaldynamics:cover:0, ギンドロの葉のカバー
+thermaldynamics:cover:0, 木炭ブロックのカバー
+thermaldynamics:cover:0, 薪のカバー
+thermaldynamics:cover:0, Decorative Wood Pileのカバー
+thermaldynamics:cover:0, ロームのカバー
 thermaldynamics:cover:0, ロウソクの燃え残りのカバー
 thermaldynamics:cover:0, Honey Comb Blockのカバー
 thermaldynamics:cover:0, Simmering Comb Blockのカバー
@@ -3692,10 +3696,6 @@ thermaldynamics:cover:0, Silky Comb Blockのカバー
 thermaldynamics:cover:0, Parched Comb Blockのカバー
 thermaldynamics:cover:0, Mossy Comb Blockのカバー
 thermaldynamics:cover:0, Mellow Comb Blockのカバー
-thermaldynamics:cover:0, 木炭ブロックのカバー
-thermaldynamics:cover:0, 薪のカバー
-thermaldynamics:cover:0, Decorative Wood Pileのカバー
-thermaldynamics:cover:0, ロームのカバー
 thermaldynamics:cover:0, Nickel-Iron Batteryのカバー
 thermaldynamics:cover:0, Nickel-Zinc Batteryのカバー
 thermaldynamics:cover:0, Zinc-Carbon Batteryのカバー
@@ -7141,15 +7141,6 @@ appliedenergistics2:facade:0, Cable Facade - 胴ブロック
 appliedenergistics2:facade:0, Cable Facade - スズブロック
 appliedenergistics2:facade:0, Cable Facade - 青銅ブロック
 appliedenergistics2:facade:0, Cable Facade - Ash Bricks
-appliedenergistics2:facade:0, Cable Facade - 温室ブロック
-appliedenergistics2:facade:0, Cable Facade - 温室ギアボックス
-appliedenergistics2:facade:0, Cable Facade - 温室コントロール
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Screen
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Hygroregulator
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Heater
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Fan
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Humidifier
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Dehumidifier
 appliedenergistics2:facade:0, Cable Facade - カラマツの原木
 appliedenergistics2:facade:0, Cable Facade - チークの原木
 appliedenergistics2:facade:0, Cable Facade - キャメルソーンの原木
@@ -7313,6 +7304,23 @@ appliedenergistics2:facade:0, Cable Facade - グリーンハートの葉
 appliedenergistics2:facade:0, Cable Facade - パパイアの葉
 appliedenergistics2:facade:0, Cable Facade - ナツメヤシの葉
 appliedenergistics2:facade:0, Cable Facade - ギンドロの葉
+appliedenergistics2:facade:0, Cable Facade - 温室ブロック
+appliedenergistics2:facade:0, Cable Facade - 温室ギアボックス
+appliedenergistics2:facade:0, Cable Facade - 温室コントロール
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Screen
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Hygroregulator
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Heater
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Fan
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Humidifier
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Dehumidifier
+appliedenergistics2:facade:0, Cable Facade - 木炭ブロック
+appliedenergistics2:facade:0, Cable Facade - 薪
+appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - ローム
 appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
 appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
 appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
@@ -7322,14 +7330,6 @@ appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
 appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
 appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
 appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
-appliedenergistics2:facade:0, Cable Facade - 木炭ブロック
-appliedenergistics2:facade:0, Cable Facade - 薪
-appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - ローム
 appliedenergistics2:facade:0, Cable Facade - Nickel-Iron Battery
 appliedenergistics2:facade:0, Cable Facade - Nickel-Zinc Battery
 appliedenergistics2:facade:0, Cable Facade - Zinc-Carbon Battery
@@ -9696,65 +9696,6 @@ appliedenergistics2:facade:0, Cable Facade - ブラウンストーン(クリー�
 appliedenergistics2:facade:0, Cable Facade - ブラウンストーンレンガ(トライアングル)
 appliedenergistics2:facade:0, Cable Facade - ブラウンストーンレンガ(小)
 appliedenergistics2:facade:0, Cable Facade - ブラウンストーン(タイル)
-appliedenergistics2:facade:0, Cable Facade - 煙がかったクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 模様入りの煙がかったクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 柱の煙がかったクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - マナクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 模様入りのマナクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 柱のマナクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - ブレイズクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 模様入りのブレイズクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 柱のブレイズクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - ラベンダークォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 模様入りのラベンダークォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 柱のラベンダークォーツブロック
-appliedenergistics2:facade:0, Cable Facade - レッドクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 模様入りのレッドクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 柱のレッドクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - エルヴェンクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 模様入りのエルヴェンクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 柱のエルブンクォーツブロック
-appliedenergistics2:facade:0, Cable Facade - サニークォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 模様入りのサニークォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 柱のサニークォーツブロック
-appliedenergistics2:facade:0, Cable Facade - 森に変質した石
-appliedenergistics2:facade:0, Cable Facade - 平原に変質した石
-appliedenergistics2:facade:0, Cable Facade - 山に変質した石
-appliedenergistics2:facade:0, Cable Facade - きのこに変質した石
-appliedenergistics2:facade:0, Cable Facade - 沼に変質した石
-appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した石
-appliedenergistics2:facade:0, Cable Facade - タイガに変質した石
-appliedenergistics2:facade:0, Cable Facade - メサに変質した石
-appliedenergistics2:facade:0, Cable Facade - 森に変質した丸石
-appliedenergistics2:facade:0, Cable Facade - 平原に変質した丸石
-appliedenergistics2:facade:0, Cable Facade - 山に変質した丸石
-appliedenergistics2:facade:0, Cable Facade - きのこに変質した丸石
-appliedenergistics2:facade:0, Cable Facade - 沼に変質した丸石
-appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した丸石
-appliedenergistics2:facade:0, Cable Facade - タイガに変質した丸石
-appliedenergistics2:facade:0, Cable Facade - メサに変質した丸石
-appliedenergistics2:facade:0, Cable Facade - 森に変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - 平原に変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - 山に変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - きのこに変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - 沼に変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - タイガに変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - メサに変質した石レンガ
-appliedenergistics2:facade:0, Cable Facade - 森に変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - 平原に変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - 山に変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - きのこに変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - 沼に変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - タイガに変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - メサに変質した模様入り石レンガ
-appliedenergistics2:facade:0, Cable Facade - 白色のポルトガル式歩道
-appliedenergistics2:facade:0, Cable Facade - 黒色のポルトガル式歩道
-appliedenergistics2:facade:0, Cable Facade - 青色のポルトガル式歩道
-appliedenergistics2:facade:0, Cable Facade - 赤色のポルトガル式歩道
-appliedenergistics2:facade:0, Cable Facade - 黄色のポルトガル式歩道
-appliedenergistics2:facade:0, Cable Facade - 緑色のポルトガル式歩道
 appliedenergistics2:facade:0, Cable Facade - リビングロック
 appliedenergistics2:facade:0, Cable Facade - リビングロックレンガ
 appliedenergistics2:facade:0, Cable Facade - 苔むしたリビングロックレンガ
@@ -9825,6 +9766,65 @@ appliedenergistics2:facade:0, Cable Facade - 鮮やかな草ブロック
 appliedenergistics2:facade:0, Cable Facade - 枯れた草ブロック
 appliedenergistics2:facade:0, Cable Facade - マナで満たされた草ブロック
 appliedenergistics2:facade:0, Cable Facade - 変異した草ブロック
+appliedenergistics2:facade:0, Cable Facade - 煙がかったクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りの煙がかったクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱の煙がかったクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - マナクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りのマナクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱のマナクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - ブレイズクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りのブレイズクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱のブレイズクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - ラベンダークォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りのラベンダークォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱のラベンダークォーツブロック
+appliedenergistics2:facade:0, Cable Facade - レッドクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りのレッドクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱のレッドクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - エルヴェンクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りのエルヴェンクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱のエルブンクォーツブロック
+appliedenergistics2:facade:0, Cable Facade - サニークォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 模様入りのサニークォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 柱のサニークォーツブロック
+appliedenergistics2:facade:0, Cable Facade - 森に変質した石
+appliedenergistics2:facade:0, Cable Facade - 平原に変質した石
+appliedenergistics2:facade:0, Cable Facade - 山に変質した石
+appliedenergistics2:facade:0, Cable Facade - きのこに変質した石
+appliedenergistics2:facade:0, Cable Facade - 沼に変質した石
+appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した石
+appliedenergistics2:facade:0, Cable Facade - タイガに変質した石
+appliedenergistics2:facade:0, Cable Facade - メサに変質した石
+appliedenergistics2:facade:0, Cable Facade - 森に変質した丸石
+appliedenergistics2:facade:0, Cable Facade - 平原に変質した丸石
+appliedenergistics2:facade:0, Cable Facade - 山に変質した丸石
+appliedenergistics2:facade:0, Cable Facade - きのこに変質した丸石
+appliedenergistics2:facade:0, Cable Facade - 沼に変質した丸石
+appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した丸石
+appliedenergistics2:facade:0, Cable Facade - タイガに変質した丸石
+appliedenergistics2:facade:0, Cable Facade - メサに変質した丸石
+appliedenergistics2:facade:0, Cable Facade - 森に変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - 平原に変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - 山に変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - きのこに変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - 沼に変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - タイガに変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - メサに変質した石レンガ
+appliedenergistics2:facade:0, Cable Facade - 森に変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - 平原に変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - 山に変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - きのこに変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - 沼に変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - 砂漠に変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - タイガに変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - メサに変質した模様入り石レンガ
+appliedenergistics2:facade:0, Cable Facade - 白色のポルトガル式歩道
+appliedenergistics2:facade:0, Cable Facade - 黒色のポルトガル式歩道
+appliedenergistics2:facade:0, Cable Facade - 青色のポルトガル式歩道
+appliedenergistics2:facade:0, Cable Facade - 赤色のポルトガル式歩道
+appliedenergistics2:facade:0, Cable Facade - 黄色のポルトガル式歩道
+appliedenergistics2:facade:0, Cable Facade - 緑色のポルトガル式歩道
 appliedenergistics2:facade:0, Cable Facade - アクアマリン鉱石
 appliedenergistics2:facade:0, Cable Facade - アクアマリンブロック
 appliedenergistics2:facade:0, Cable Facade - マグナイト鉱石
@@ -11679,37 +11679,37 @@ tconstruct:slime_vine_purple_end:0, 紫色のべとつくツタ
 tconstruct:slime_vine_purple_mid:0, 紫色のべとつくツタ
 tconstruct:slime_vine_purple:0, 紫色のべとつくツタ
 tconstruct:pattern:0, 空白の木型
-tconstruct:pattern:0, 板の木型
-tconstruct:pattern:0, 弓弦の木型
-tconstruct:pattern:0, 矢尻の木型
-tconstruct:pattern:0, 矢柄の木型
-tconstruct:pattern:0, 欠片の木型
-tconstruct:pattern:0, 持ち手の木型
-tconstruct:pattern:0, 斧頭の木型
-tconstruct:pattern:0, Battery Cellの木型
-tconstruct:pattern:0, 十字鍔の木型
-tconstruct:pattern:0, 大板の木型
-tconstruct:pattern:0, エクスカベーター頭の木型
-tconstruct:pattern:0, ツルハシ頭の木型
-tconstruct:pattern:0, 刀身の木型
-tconstruct:pattern:0, 鍔の木型
+tconstruct:pattern:0, 矢羽の木型
+tconstruct:pattern:0, 強化締め具の木型
 tconstruct:pattern:0, Pipe Pieceの木型
 tconstruct:pattern:0, Laser Mediumの木型
-tconstruct:pattern:0, 矢羽の木型
-tconstruct:pattern:0, 大鎌刃の木型
+tconstruct:pattern:0, 刀身の木型
+tconstruct:pattern:0, 矢柄の木型
+tconstruct:pattern:0, 弓弦の木型
+tconstruct:pattern:0, 矢尻の木型
+tconstruct:pattern:0, ナイフ刃の木型
 tconstruct:pattern:0, 締め具の木型
 tconstruct:pattern:0, 強化持ち手の木型
-tconstruct:pattern:0, 弓幹の木型
-tconstruct:pattern:0, 強化締め具の木型
-tconstruct:pattern:0, ハンマー頭の木型
-tconstruct:pattern:0, 鍋の木型
-tconstruct:pattern:0, シャープニングキットの木型
-tconstruct:pattern:0, 大鍔の木型
-tconstruct:pattern:0, 大斧頭の木型
 tconstruct:pattern:0, 鎌刃の木型
-tconstruct:pattern:0, 大刀身の木型
-tconstruct:pattern:0, ナイフ刃の木型
 tconstruct:pattern:0, シャベル頭の木型
+tconstruct:pattern:0, シャープニングキットの木型
+tconstruct:pattern:0, 持ち手の木型
+tconstruct:pattern:0, 大鎌刃の木型
+tconstruct:pattern:0, 板の木型
+tconstruct:pattern:0, 欠片の木型
+tconstruct:pattern:0, 鍔の木型
+tconstruct:pattern:0, エクスカベーター頭の木型
+tconstruct:pattern:0, 大板の木型
+tconstruct:pattern:0, 大斧頭の木型
+tconstruct:pattern:0, 大刀身の木型
+tconstruct:pattern:0, 十字鍔の木型
+tconstruct:pattern:0, ハンマー頭の木型
+tconstruct:pattern:0, 弓幹の木型
+tconstruct:pattern:0, 鍋の木型
+tconstruct:pattern:0, ツルハシ頭の木型
+tconstruct:pattern:0, 大鍔の木型
+tconstruct:pattern:0, Battery Cellの木型
+tconstruct:pattern:0, 斧頭の木型
 tconstruct:shard:0, 電炉の欠片
 tconstruct:shard:0, エネルギー性欠片
 tconstruct:shard:0, ヴァイブラントの欠片
@@ -13901,74 +13901,74 @@ tconstruct:seared_stairs_road:0, 焼成レンガ(道)の階段
 tconstruct:seared_stairs_tile:0, 焼成レンガ(タイル)の階段
 tconstruct:seared_stairs_creeper:0, 焼成レンガ(クリーパー)の階段
 tconstruct:cast:0, 空白の鋳型
-tconstruct:cast:0, 板の鋳型
-tconstruct:cast:0, 弓弦の鋳型
-tconstruct:cast:0, 矢尻の鋳型
-tconstruct:cast:0, 矢柄の鋳型
-tconstruct:cast:0, 欠片の鋳型
-tconstruct:cast:0, 持ち手の鋳型
-tconstruct:cast:0, 斧頭の鋳型
-tconstruct:cast:0, Battery Cellの鋳型
-tconstruct:cast:0, 十字鍔の鋳型
-tconstruct:cast:0, 大板の鋳型
-tconstruct:cast:0, エクスカベーター頭の鋳型
-tconstruct:cast:0, ツルハシ頭の鋳型
-tconstruct:cast:0, 刀身の鋳型
-tconstruct:cast:0, 鍔の鋳型
+tconstruct:cast:0, 矢羽の鋳型
+tconstruct:cast:0, 強化締め具の鋳型
 tconstruct:cast:0, Pipe Pieceの鋳型
 tconstruct:cast:0, Laser Mediumの鋳型
-tconstruct:cast:0, 矢羽の鋳型
-tconstruct:cast:0, 大鎌刃の鋳型
+tconstruct:cast:0, 刀身の鋳型
+tconstruct:cast:0, 矢柄の鋳型
+tconstruct:cast:0, 弓弦の鋳型
+tconstruct:cast:0, 矢尻の鋳型
+tconstruct:cast:0, ナイフ刃の鋳型
 tconstruct:cast:0, 締め具の鋳型
 tconstruct:cast:0, 強化持ち手の鋳型
-tconstruct:cast:0, 弓幹の鋳型
-tconstruct:cast:0, 強化締め具の鋳型
-tconstruct:cast:0, ハンマー頭の鋳型
-tconstruct:cast:0, 鍋の鋳型
-tconstruct:cast:0, シャープニングキットの鋳型
-tconstruct:cast:0, 大鍔の鋳型
-tconstruct:cast:0, 大斧頭の鋳型
 tconstruct:cast:0, 鎌刃の鋳型
-tconstruct:cast:0, 大刀身の鋳型
-tconstruct:cast:0, ナイフ刃の鋳型
 tconstruct:cast:0, シャベル頭の鋳型
+tconstruct:cast:0, シャープニングキットの鋳型
+tconstruct:cast:0, 持ち手の鋳型
+tconstruct:cast:0, 大鎌刃の鋳型
+tconstruct:cast:0, 板の鋳型
+tconstruct:cast:0, 欠片の鋳型
+tconstruct:cast:0, 鍔の鋳型
+tconstruct:cast:0, エクスカベーター頭の鋳型
+tconstruct:cast:0, 大板の鋳型
+tconstruct:cast:0, 大斧頭の鋳型
+tconstruct:cast:0, 大刀身の鋳型
+tconstruct:cast:0, 十字鍔の鋳型
+tconstruct:cast:0, ハンマー頭の鋳型
+tconstruct:cast:0, 弓幹の鋳型
+tconstruct:cast:0, 鍋の鋳型
+tconstruct:cast:0, ツルハシ頭の鋳型
+tconstruct:cast:0, 大鍔の鋳型
+tconstruct:cast:0, Battery Cellの鋳型
+tconstruct:cast:0, 斧頭の鋳型
 tconstruct:cast_custom:0, インゴットの鋳型
 tconstruct:cast_custom:1, 塊の鋳型
 tconstruct:cast_custom:2, 宝石の鋳型
 tconstruct:cast_custom:3, プレートの鋳型
 tconstruct:cast_custom:4, 歯車の鋳型
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 板の粘土鋳型
-tconstruct:clay_cast:0, 弓弦の粘土鋳型
-tconstruct:clay_cast:0, 矢尻の粘土鋳型
-tconstruct:clay_cast:0, 矢柄の粘土鋳型
-tconstruct:clay_cast:0, 欠片の粘土鋳型
-tconstruct:clay_cast:0, 持ち手の粘土鋳型
-tconstruct:clay_cast:0, 斧頭の粘土鋳型
-tconstruct:clay_cast:0, Battery Cellの粘土鋳型
-tconstruct:clay_cast:0, 十字鍔の粘土鋳型
-tconstruct:clay_cast:0, 大板の粘土鋳型
-tconstruct:clay_cast:0, エクスカベーター頭の粘土鋳型
-tconstruct:clay_cast:0, ツルハシ頭の粘土鋳型
-tconstruct:clay_cast:0, 刀身の粘土鋳型
-tconstruct:clay_cast:0, 鍔の粘土鋳型
+tconstruct:clay_cast:0, 矢羽の粘土鋳型
+tconstruct:clay_cast:0, 強化締め具の粘土鋳型
 tconstruct:clay_cast:0, Pipe Pieceの粘土鋳型
 tconstruct:clay_cast:0, Laser Mediumの粘土鋳型
-tconstruct:clay_cast:0, 矢羽の粘土鋳型
-tconstruct:clay_cast:0, 大鎌刃の粘土鋳型
+tconstruct:clay_cast:0, 刀身の粘土鋳型
+tconstruct:clay_cast:0, 矢柄の粘土鋳型
+tconstruct:clay_cast:0, 弓弦の粘土鋳型
+tconstruct:clay_cast:0, 矢尻の粘土鋳型
+tconstruct:clay_cast:0, ナイフ刃の粘土鋳型
 tconstruct:clay_cast:0, 締め具の粘土鋳型
 tconstruct:clay_cast:0, 強化持ち手の粘土鋳型
-tconstruct:clay_cast:0, 弓幹の粘土鋳型
-tconstruct:clay_cast:0, 強化締め具の粘土鋳型
-tconstruct:clay_cast:0, ハンマー頭の粘土鋳型
-tconstruct:clay_cast:0, 鍋の粘土鋳型
-tconstruct:clay_cast:0, シャープニングキットの粘土鋳型
-tconstruct:clay_cast:0, 大鍔の粘土鋳型
-tconstruct:clay_cast:0, 大斧頭の粘土鋳型
 tconstruct:clay_cast:0, 鎌刃の粘土鋳型
-tconstruct:clay_cast:0, 大刀身の粘土鋳型
-tconstruct:clay_cast:0, ナイフ刃の粘土鋳型
 tconstruct:clay_cast:0, シャベル頭の粘土鋳型
+tconstruct:clay_cast:0, シャープニングキットの粘土鋳型
+tconstruct:clay_cast:0, 持ち手の粘土鋳型
+tconstruct:clay_cast:0, 大鎌刃の粘土鋳型
+tconstruct:clay_cast:0, 板の粘土鋳型
+tconstruct:clay_cast:0, 欠片の粘土鋳型
+tconstruct:clay_cast:0, 鍔の粘土鋳型
+tconstruct:clay_cast:0, エクスカベーター頭の粘土鋳型
+tconstruct:clay_cast:0, 大板の粘土鋳型
+tconstruct:clay_cast:0, 大斧頭の粘土鋳型
+tconstruct:clay_cast:0, 大刀身の粘土鋳型
+tconstruct:clay_cast:0, 十字鍔の粘土鋳型
+tconstruct:clay_cast:0, ハンマー頭の粘土鋳型
+tconstruct:clay_cast:0, 弓幹の粘土鋳型
+tconstruct:clay_cast:0, 鍋の粘土鋳型
+tconstruct:clay_cast:0, ツルハシ頭の粘土鋳型
+tconstruct:clay_cast:0, 大鍔の粘土鋳型
+tconstruct:clay_cast:0, Battery Cellの粘土鋳型
+tconstruct:clay_cast:0, 斧頭の粘土鋳型
 tconstruct:stone_torch:0, 石の松明
 tconstruct:stone_ladder:0, 石のはしご
 tconstruct:punji:0, 竹槍トラップ
@@ -14386,169 +14386,331 @@ bibliocraft:biblioglasses:2, Monocle
 bibliocraft:bibliodrill, Screw Gun
 bibliocraft:bibliocreativelock, Lock and Key
 bibliocraft:biblioclipboard, Clipboard
-botania:livingwood0stairs, tile.livingwood0Stairs.name
-botania:livingwood0slab:0, リビングウッドのハーフブロック
-botania:livingwood0wall, tile.livingwood0Wall.name
-botania:livingwood1stairs, tile.livingwood1Stairs.name
-botania:livingwood1slab:0, リビングウッドの木材のハーフブロック
-botania:livingrock0stairs, tile.livingrock0Stairs.name
-botania:livingrock0slab:0, リビングロックのハーフブロック
-botania:livingrock0wall, tile.livingrock0Wall.name
-botania:livingrock1stairs, tile.livingrock1Stairs.name
-botania:livingrock1slab:0, リビングロックレンガのハーフブロック
-botania:dreamwood0stairs, tile.dreamwood0Stairs.name
-botania:dreamwood0slab:0, ドリームウッドのハーフブロック
-botania:dreamwood0wall, tile.dreamwood0Wall.name
-botania:dreamwood1stairs, tile.dreamwood1Stairs.name
-botania:dreamwood1slab:0, ドリームウッドの木材のハーフブロック
-botania:quartztypedark:0, 煙がかったクォーツブロック
-botania:quartztypedark:1, 模様入りの煙がかったクォーツブロック
-botania:quartztypedark:2, 柱の煙がかったクォーツブロック
-botania:quartzslabdarkhalf:0, 煙がかったクォーツのハーフブロック
-botania:quartzstairsdark, tile.quartzStairsDark.name
-botania:quartztypemana:0, マナクォーツブロック
-botania:quartztypemana:1, 模様入りのマナクォーツブロック
-botania:quartztypemana:2, 柱のマナクォーツブロック
-botania:quartzslabmanahalf:0, マナクォーツハーフブロック
-botania:quartzstairsmana, tile.quartzStairsMana.name
-botania:quartztypeblaze:0, ブレイズクォーツブロック
-botania:quartztypeblaze:1, 模様入りのブレイズクォーツブロック
-botania:quartztypeblaze:2, 柱のブレイズクォーツブロック
-botania:quartzslabblazehalf:0, ブレイズクォーツハーフブロック
-botania:quartzstairsblaze, tile.quartzStairsBlaze.name
-botania:quartztypelavender:0, ラベンダークォーツブロック
-botania:quartztypelavender:1, 模様入りのラベンダークォーツブロック
-botania:quartztypelavender:2, 柱のラベンダークォーツブロック
-botania:quartzslablavenderhalf:0, ラベンダークォーツハーフブロック
-botania:quartzstairslavender, tile.quartzStairsLavender.name
-botania:quartztypered:0, レッドクォーツブロック
-botania:quartztypered:1, 模様入りのレッドクォーツブロック
-botania:quartztypered:2, 柱のレッドクォーツブロック
-botania:quartzslabredhalf:0, レッドクォーツハーフブロック
-botania:quartzstairsred, tile.quartzStairsRed.name
-botania:quartztypeelf:0, エルヴェンクォーツブロック
-botania:quartztypeelf:1, 模様入りのエルヴェンクォーツブロック
-botania:quartztypeelf:2, 柱のエルブンクォーツブロック
-botania:quartzslabelfhalf:0, エルブンクォーツハーフブロック
-botania:quartzstairself, tile.quartzStairsElf.name
-botania:quartztypesunny:0, サニークォーツブロック
-botania:quartztypesunny:1, 模様入りのサニークォーツブロック
-botania:quartztypesunny:2, 柱のサニークォーツブロック
-botania:quartzslabsunnyhalf:0, サニークォーツハーフブロック
-botania:quartzstairssunny, tile.quartzStairsSunny.name
-botania:biomestonea:0, 森に変質した石
-botania:biomestonea:1, 平原に変質した石
-botania:biomestonea:2, 山に変質した石
-botania:biomestonea:3, きのこに変質した石
-botania:biomestonea:4, 沼に変質した石
-botania:biomestonea:5, 砂漠に変質した石
-botania:biomestonea:6, タイガに変質した石
-botania:biomestonea:7, メサに変質した石
-botania:biomestonea:8, 森に変質した丸石
-botania:biomestonea:9, 平原に変質した丸石
-botania:biomestonea:10, 山に変質した丸石
-botania:biomestonea:11, きのこに変質した丸石
-botania:biomestonea:12, 沼に変質した丸石
-botania:biomestonea:13, 砂漠に変質した丸石
-botania:biomestonea:14, タイガに変質した丸石
-botania:biomestonea:15, メサに変質した丸石
-botania:biomestoneb:0, 森に変質した石レンガ
-botania:biomestoneb:1, 平原に変質した石レンガ
-botania:biomestoneb:2, 山に変質した石レンガ
-botania:biomestoneb:3, きのこに変質した石レンガ
-botania:biomestoneb:4, 沼に変質した石レンガ
-botania:biomestoneb:5, 砂漠に変質した石レンガ
-botania:biomestoneb:6, タイガに変質した石レンガ
-botania:biomestoneb:7, メサに変質した石レンガ
-botania:biomestoneb:8, 森に変質した模様入り石レンガ
-botania:biomestoneb:9, 平原に変質した模様入り石レンガ
-botania:biomestoneb:10, 山に変質した模様入り石レンガ
-botania:biomestoneb:11, きのこに変質した模様入り石レンガ
-botania:biomestoneb:12, 沼に変質した模様入り石レンガ
-botania:biomestoneb:13, 砂漠に変質した模様入り石レンガ
-botania:biomestoneb:14, タイガに変質した模様入り石レンガ
-botania:biomestoneb:15, メサに変質した模様入り石レンガ
-botania:pavement:0, 白色のポルトガル式歩道
-botania:pavement:1, 黒色のポルトガル式歩道
-botania:pavement:2, 青色のポルトガル式歩道
-botania:pavement:3, 赤色のポルトガル式歩道
-botania:pavement:4, 黄色のポルトガル式歩道
-botania:pavement:5, 緑色のポルトガル式歩道
-botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
-botania:biomestonea0slab:0, 森に変質した石のハーフブロック
-botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
-botania:biomestonea1slab:0, 平原に変質した石のハーフブロック
-botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
-botania:biomestonea2slab:0, 山に変質した石のハーフブロック
-botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
-botania:biomestonea3slab:0, キノコに変質した石のハーフブロック
-botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
-botania:biomestonea4slab:0, 沼に変質した石のハーフブロック
-botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
-botania:biomestonea5slab:0, 砂漠に変質した石のハーフブロック
-botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
-botania:biomestonea6slab:0, タイガに変質した石のハーフブロック
-botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
-botania:biomestonea7slab:0, メサに変質した石のハーフブロック
-botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
-botania:biomestonea8slab:0, 森に変質した丸石のハーフブロック
-botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
-botania:biomestonea9slab:0, 平原に変質した丸石のハーフブロック
-botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
-botania:biomestonea10slab:0, 山に変質した丸石のハーフブロック
-botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
-botania:biomestonea11slab:0, きのこに変質した丸石のハーフブロック
-botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
-botania:biomestonea12slab:0, 沼に変質した丸石のハーフブロック
-botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
-botania:biomestonea13slab:0, 砂漠に変質した丸石のハーフブロック
-botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
-botania:biomestonea14slab:0, タイガに変質した丸石のハーフブロック
-botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
-botania:biomestonea15slab:0, メサに変質した丸石のハーフブロック
-botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
-botania:biomestoneb0slab:0, 森に変質した石レンガのハーフブロック
-botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
-botania:biomestoneb1slab:0, 平原に変質した石レンガのハーフブロック
-botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
-botania:biomestoneb2slab:0, 山に変質した石レンガのハーフブロック
-botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
-botania:biomestoneb3slab:0, きのこに変質した石レンガのハーフブロック
-botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
-botania:biomestoneb4slab:0, 沼に変質した石レンガのハーフブロック
-botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
-botania:biomestoneb5slab:0, 砂漠に変質した石レンガのハーフブロック
-botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
-botania:biomestoneb6slab:0, タイガに変質した石レンガのハーフブロック
-botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
-botania:biomestoneb7slab:0, メサに変質した石レンガのハーフブロック
-botania:biomestonea0wall:0, 森に変質した丸石の壁
-botania:biomestonea0wall:1, 平原に変質した丸石の壁
-botania:biomestonea0wall:2, 山に変質した丸石の壁
-botania:biomestonea0wall:3, きのこに変質した丸石の壁
-botania:biomestonea0wall:4, 沼に変質した丸石の壁
-botania:biomestonea0wall:5, 砂漠に変質した丸石の壁
-botania:biomestonea0wall:6, タイガに変質した丸石の壁
-botania:biomestonea0wall:7, メサに変質した丸石の壁
-botania:pavement0stairs, tile.pavement0Stairs.name
-botania:pavement0slab:0, 白色のポルトガル式歩道のハーフブロック
-botania:pavement1stairs, tile.pavement1Stairs.name
-botania:pavement1slab:0, 黒色のポルトガル式歩道のハーフブロック
-botania:pavement2stairs, tile.pavement2Stairs.name
-botania:pavement2slab:0, 青色のポルトガル式歩道のハーフブロック
-botania:pavement3stairs, tile.pavement3Stairs.name
-botania:pavement3slab:0, 赤色のポルトガル式歩道のハーフブロック
-botania:pavement4stairs, tile.pavement4Stairs.name
-botania:pavement4slab:0, 黄色のポルトガル式歩道のハーフブロック
-botania:pavement5stairs, tile.pavement5Stairs.name
-botania:pavement5slab:0, 緑色のポルトガル式歩道のハーフブロック
-botania:shimmerrock0slab:0, きらめく石のハーフブロック
-botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
-botania:shimmerwoodplanks0slab:0, きらめく木のハーフブロック
-botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
-botania:managlasspane, tile.manaGlassPane.name
-botania:elfglasspane, tile.elfGlassPane.name
-botania:bifrostpermpane, tile.bifrostPermPane.name
+botania:flower:0, 白色の神秘の花
+botania:flower:1, 橙色の神秘の花
+botania:flower:2, 赤紫色の神秘の花
+botania:flower:3, 空色の神秘の花
+botania:flower:4, 黄色の神秘の花
+botania:flower:5, 黄緑色の神秘の花
+botania:flower:6, 桃色の神秘の花
+botania:flower:7, 灰色の神秘の花
+botania:flower:8, 薄灰色の神秘の花
+botania:flower:9, 水色の神秘の花
+botania:flower:10, 紫色の神秘の花
+botania:flower:11, 青色の神秘の花
+botania:flower:12, 茶色の神秘の花
+botania:flower:13, 緑色の神秘の花
+botania:flower:14, 赤色の神秘の花
+botania:flower:15, 黒色の神秘の花
+botania:altar:0, 花びらの調合所
+botania:altar:1, 森の花びらの調合所
+botania:altar:2, 平原の花びらの調合所
+botania:altar:3, 山の花びらの調合所
+botania:altar:4, きのこの花びらの調合所
+botania:altar:5, 沼の花びらの調合所
+botania:altar:6, 砂漠の花びらの調合所
+botania:altar:7, タイガの花びらの調合所
+botania:altar:8, メサの花びらの調合所
+botania:livingrock:0, リビングロック
+botania:livingrock:1, リビングロックレンガ
+botania:livingrock:2, 苔むしたリビングロックレンガ
+botania:livingrock:3, ひび割れたリビングロックレンガ
+botania:livingrock:4, 模様入りのリビングロックレンガ
+botania:livingwood:0, リビングウッド
+botania:livingwood:1, リビングウッドの木材
+botania:livingwood:2, 苔むしたリビングウッドの木材
+botania:livingwood:3, 模様入りのリビングウッド
+botania:livingwood:4, 規則的な模様入りのリビングウッド
+botania:livingwood:5, 光り輝くリビングウッド
+botania:specialflower:0, ピュアデイジー
+botania:specialflower:0, マナスター
+botania:specialflower:0, エンドフレイム
+botania:specialflower:0, ハイドロエンゲス
+botania:specialflower:0, サーマリリー
+botania:specialflower:0, ローザ・アルカナ
+botania:specialflower:0, マンチデュー
+botania:specialflower:0, エントロピニウム
+botania:specialflower:0, ケキムラス
+botania:specialflower:0, ガーマリリス
+botania:specialflower:0, ナースライムス
+botania:specialflower:0, スペクトロラス
+botania:specialflower:0, ラフロージア
+botania:specialflower:0, Shulk Me Not
+botania:specialflower:0, ダンデライフオン
+botania:specialflower:0, ジェイディッド・アマランサス
+botania:specialflower:0, ベレソーン
+botania:specialflower:0, ベレソーン・プチ
+botania:specialflower:0, ドレッドソーン
+botania:specialflower:0, ヘイセイドリーム
+botania:specialflower:0, タイガーズアイ
+botania:specialflower:0, マリモルフォシス
+botania:specialflower:0, マリモルフォシス・チビ
+botania:specialflower:0, オアキド
+botania:specialflower:0, オアキド・イグネム
+botania:specialflower:0, フォーレン・カナデ
+botania:specialflower:0, エクソフレイム
+botania:specialflower:0, アグリカーネーション
+botania:specialflower:0, アグリカーネーション・プチ
+botania:specialflower:0, ホッパーホック
+botania:specialflower:0, ホッパーホック・プチ
+botania:specialflower:0, ラナンカーパス
+botania:specialflower:0, ラナンカーパス・プチ
+botania:specialflower:0, タングルベリー
+botania:specialflower:0, ジユーリア
+botania:specialflower:0, ヒヤシダス
+botania:specialflower:0, メデュモネ
+botania:specialflower:0, ポリディジアク
+botania:specialflower:0, クレイコニア
+botania:specialflower:0, クレイコニア・プチ
+botania:specialflower:0, ルーニウム
+botania:specialflower:0, ダフォミル
+botania:specialflower:0, ヴィンキュロタス
+botania:specialflower:0, スペクトランセマム
+botania:specialflower:0, バッベル
+botania:specialflower:0, バッベル・プチ
+botania:specialflower:0, ソレノリア
+botania:specialflower:0, ソレノリア・プチ
+botania:specialflower:0, ベルガミュート
+botania:spreader:0, マナ送信機
+botania:spreader:1, パルスマナ送信機
+botania:spreader:2, エルヴェンマナ送信機
+botania:spreader:3, ガイアマナ送信機
+botania:pool:0, マナプール
+botania:pool:2, 弱いマナプール
+botania:pool:3, すばらしいマナプール
+botania:pool:1, 永遠のギルティプール
+botania:runealtar, tile.runeAltar.name
+botania:pylon:0, マナの支柱
+botania:pylon:1, ナツーラの支柱
+botania:pylon:2, ガイアの支柱
+botania:pistonrelay, tile.pistonRelay.name
+botania:distributor, tile.distributor.name
+botania:manavoid, tile.manaVoid.name
+botania:manadetector, tile.manaDetector.name
+botania:enchanter, tile.enchanter.name
+botania:turntable, tile.turntable.name
+botania:tinyplanetblock, tile.tinyPlanetBlock.name
+botania:alchemycatalyst, tile.alchemyCatalyst.name
+botania:opencrate:0, 開けた木箱
+botania:opencrate:1, クラフト木箱
+botania:foresteye, tile.forestEye.name
+botania:storage:0, マナスチールブロック
+botania:storage:1, テラスチールブロック
+botania:storage:2, エレメンチウムブロック
+botania:storage:3, マナダイヤモンドブロック
+botania:storage:4, ドラゴンストーンブロック
+botania:forestdrum:0, 野生のドラム
+botania:forestdrum:1, 収集のドラム
+botania:forestdrum:2, 天蓋のドラム
+botania:shinyflower:0, 白色の光り輝く花
+botania:shinyflower:1, 橙色の光り輝く花
+botania:shinyflower:2, 赤紫色の光り輝く花
+botania:shinyflower:3, 空色のの光り輝く花
+botania:shinyflower:4, 黄色の光り輝く花
+botania:shinyflower:5, 黄緑色の光り輝く花
+botania:shinyflower:6, 桃色の光り輝く花
+botania:shinyflower:7, 灰色の光り輝く花
+botania:shinyflower:8, 薄灰色の光り輝く花
+botania:shinyflower:9, 水色の光り輝く花
+botania:shinyflower:10, 紫色の光り輝く花
+botania:shinyflower:11, 青色の光り輝く花
+botania:shinyflower:12, 茶色の光り輝く花
+botania:shinyflower:13, 緑色の光り輝く花
+botania:shinyflower:14, 赤色の光り輝く花
+botania:shinyflower:15, 黒色の光り輝く花
+botania:platform:0, 難解なプラットフォーム
+botania:platform:1, 幽霊のプラットフォーム
+botania:platform:2, 丈夫なプラットフォーム
+botania:alfheimportal, tile.alfheimPortal.name
+botania:dreamwood:0, ドリームウッド
+botania:dreamwood:1, ドリームウッドの木材
+botania:dreamwood:2, 苔むしたドリームウッドの木材
+botania:dreamwood:3, 模様入りのドリームウッド
+botania:dreamwood:4, 規則的な模様入りのドリームウッド
+botania:dreamwood:5, 光り輝くドリームウッド
+botania:conjurationcatalyst, tile.conjurationCatalyst.name
+botania:bifrost, tile.bifrost.name
+botania:miniisland:0, 浮遊する白色の神秘の花
+botania:miniisland:1, 浮遊する橙色の神秘の花
+botania:miniisland:2, 浮遊する赤紫色の神秘の花
+botania:miniisland:3, 浮遊する空色の神秘の花
+botania:miniisland:4, 浮遊する黄色の神秘の花
+botania:miniisland:5, 浮遊する黄緑色の神秘の花
+botania:miniisland:6, 浮遊する桃色の神秘の花
+botania:miniisland:7, 浮遊する灰色の神秘の花
+botania:miniisland:8, 浮遊する薄灰色の神秘の花
+botania:miniisland:9, 浮遊する水色の神秘の花
+botania:miniisland:10, 浮遊する紫色の神秘の花
+botania:miniisland:11, 浮遊する青色の神秘の花
+botania:miniisland:12, 浮遊する茶色の神秘の花
+botania:miniisland:13, 浮遊する緑色の神秘の花
+botania:miniisland:14, 浮遊する赤色の神秘の花
+botania:miniisland:15, 浮遊する黒色の神秘の花
+botania:tinypotato, tile.tinyPotato.name
+botania:spawnerclaw, tile.spawnerClaw.name
+botania:custombrick:0, 地獄レンガ
+botania:custombrick:1, ソウルレンガ
+botania:custombrick:2, 雪レンガ
+botania:custombrick:3, 屋根瓦
+botania:custombrick:4, アズレージョ
+botania:custombrick:5, アズレージョ
+botania:custombrick:6, アズレージョ
+botania:custombrick:7, アズレージョ
+botania:custombrick:8, アズレージョ
+botania:custombrick:9, アズレージョ
+botania:custombrick:10, アズレージョ
+botania:custombrick:11, アズレージョ
+botania:custombrick:12, アズレージョ
+botania:custombrick:13, アズレージョ
+botania:custombrick:14, アズレージョ
+botania:custombrick:15, アズレージョ
+botania:endereyeblock, tile.enderEyeBlock.name
+botania:starfield, tile.starfield.name
+botania:rfgenerator, tile.rfGenerator.name
+botania:elfglass, tile.elfGlass.name
+botania:brewery, tile.brewery.name
+botania:managlass, tile.manaGlass.name
+botania:terraplate, tile.terraPlate.name
+botania:redstringcontainer, tile.redStringContainer.name
+botania:redstringdispenser, tile.redStringDispenser.name
+botania:redstringfertilizer, tile.redStringFertilizer.name
+botania:redstringcomparator, tile.redStringComparator.name
+botania:redstringrelay, tile.redStringRelay.name
+botania:floatingspecialflower:0, 浮遊している ピュアデイジー
+botania:floatingspecialflower:0, 浮遊している マナスター
+botania:floatingspecialflower:0, 浮遊している エンドフレイム
+botania:floatingspecialflower:0, 浮遊している ハイドロエンゲス
+botania:floatingspecialflower:0, 浮遊している サーマリリー
+botania:floatingspecialflower:0, 浮遊している ローザ・アルカナ
+botania:floatingspecialflower:0, 浮遊している マンチデュー
+botania:floatingspecialflower:0, 浮遊している エントロピニウム
+botania:floatingspecialflower:0, 浮遊している ケキムラス
+botania:floatingspecialflower:0, 浮遊している ガーマリリス
+botania:floatingspecialflower:0, 浮遊している ナースライムス
+botania:floatingspecialflower:0, 浮遊している スペクトロラス
+botania:floatingspecialflower:0, 浮遊している ラフロージア
+botania:floatingspecialflower:0, 浮遊している Shulk Me Not
+botania:floatingspecialflower:0, 浮遊している ダンデライフオン
+botania:floatingspecialflower:0, 浮遊している ジェイディッド・アマランサス
+botania:floatingspecialflower:0, 浮遊している ベレソーン
+botania:floatingspecialflower:0, 浮遊している ベレソーン・プチ
+botania:floatingspecialflower:0, 浮遊している ドレッドソーン
+botania:floatingspecialflower:0, 浮遊している ヘイセイドリーム
+botania:floatingspecialflower:0, 浮遊している タイガーズアイ
+botania:floatingspecialflower:0, 浮遊している マリモルフォシス
+botania:floatingspecialflower:0, 浮遊している マリモルフォシス・チビ
+botania:floatingspecialflower:0, 浮遊している オアキド
+botania:floatingspecialflower:0, 浮遊している オアキド・イグネム
+botania:floatingspecialflower:0, 浮遊している フォーレン・カナデ
+botania:floatingspecialflower:0, 浮遊している エクソフレイム
+botania:floatingspecialflower:0, 浮遊している アグリカーネーション
+botania:floatingspecialflower:0, 浮遊している アグリカーネーション・プチ
+botania:floatingspecialflower:0, 浮遊している ホッパーホック
+botania:floatingspecialflower:0, 浮遊している ホッパーホック・プチ
+botania:floatingspecialflower:0, 浮遊している ラナンカーパス
+botania:floatingspecialflower:0, 浮遊している ラナンカーパス・プチ
+botania:floatingspecialflower:0, 浮遊している タングルベリー
+botania:floatingspecialflower:0, 浮遊している ジユーリア
+botania:floatingspecialflower:0, 浮遊している ヒヤシダス
+botania:floatingspecialflower:0, 浮遊している メデュモネ
+botania:floatingspecialflower:0, 浮遊している ポリディジアク
+botania:floatingspecialflower:0, 浮遊している クレイコニア
+botania:floatingspecialflower:0, 浮遊している クレイコニア・プチ
+botania:floatingspecialflower:0, 浮遊している ルーニウム
+botania:floatingspecialflower:0, 浮遊している ダフォミル
+botania:floatingspecialflower:0, 浮遊している ヴィンキュロタス
+botania:floatingspecialflower:0, 浮遊している スペクトランセマム
+botania:floatingspecialflower:0, 浮遊している バッベル
+botania:floatingspecialflower:0, 浮遊している バッベル・プチ
+botania:floatingspecialflower:0, 浮遊している ソレノリア
+botania:floatingspecialflower:0, 浮遊している ソレノリア・プチ
+botania:floatingspecialflower:0, 浮遊している ベルガミュート
+botania:prism, tile.prism.name
+botania:enchantedsoil, tile.enchantedSoil.name
+botania:petalblock:0, 白色の花びらブロック
+botania:petalblock:1, 橙色の花びらブロック
+botania:petalblock:2, 赤紫色の花びらブロック
+botania:petalblock:3, 空色の花びらブロック
+botania:petalblock:4, 黄色の花びらブロック
+botania:petalblock:5, 黄緑色の花びらブロック
+botania:petalblock:6, 桃色の花びらブロック
+botania:petalblock:7, 灰色の花びらブロック
+botania:petalblock:8, 薄灰色の花びらブロック
+botania:petalblock:9, 水色の花びらブロック
+botania:petalblock:10, 紫色の花びらブロック
+botania:petalblock:11, 青色の花びらブロック
+botania:petalblock:12, 茶色の花びらブロック
+botania:petalblock:13, 緑色の花びらブロック
+botania:petalblock:14, 赤色の花びらブロック
+botania:petalblock:15, 黒色の花びらブロック
+botania:corporeaindex, tile.corporeaIndex.name
+botania:corporeafunnel, tile.corporeaFunnel.name
+botania:mushroom:0, 白色のきらめくキノコ
+botania:mushroom:1, 橙色のきらめくキノコ
+botania:mushroom:2, 赤紫色のきらめくキノコ
+botania:mushroom:3, 空色のきらめくキノコ
+botania:mushroom:4, 黄色のきらめくキノコ
+botania:mushroom:5, 黄緑色のきらめくキノコ
+botania:mushroom:6, 桃色のきらめくキノコ
+botania:mushroom:7, 灰色のきらめくキノコ
+botania:mushroom:8, 薄灰色のきらめくキノコ
+botania:mushroom:9, 水色のきらめくキノコ
+botania:mushroom:10, 紫色のきらめくキノコ
+botania:mushroom:11, 青色のきらめくキノコ
+botania:mushroom:12, 茶色のきらめくキノコ
+botania:mushroom:13, 緑色のきらめくキノコ
+botania:mushroom:14, 赤色のきらめくキノコ
+botania:mushroom:15, 黒色のきらめくキノコ
+botania:pump, tile.pump.name
+botania:doubleflower1:0, 背の高い白色の神秘の花
+botania:doubleflower1:1, 背の高い橙色の神秘の花
+botania:doubleflower1:2, 背の高い赤紫色の神秘の花
+botania:doubleflower1:3, 背の高い空色の神秘の花
+botania:doubleflower1:4, 背の高い黄色の神秘の花
+botania:doubleflower1:5, 背の高い黄緑色の神秘の花
+botania:doubleflower1:6, 背の高い桃色の神秘の花
+botania:doubleflower1:7, 背の高い灰色の神秘の花
+botania:doubleflower2:0, 背の高い薄灰色の神秘の花
+botania:doubleflower2:1, 背の高い水色の神秘の花
+botania:doubleflower2:2, 背の高い紫色の神秘の花
+botania:doubleflower2:3, 背の高い青色の神秘の花
+botania:doubleflower2:4, 背の高い茶色の神秘の花
+botania:doubleflower2:5, 背の高い緑色の神秘の花
+botania:doubleflower2:6, 背の高い赤色の神秘の花
+botania:doubleflower2:7, 背の高い黒色の神秘の花
+botania:blazeblock, tile.blazeBlock.name
+botania:corporeainterceptor, tile.corporeaInterceptor.name
+botania:corporeacrystalcube, tile.corporeaCrystalCube.name
+botania:incenseplate, tile.incensePlate.name
+botania:hourglass, tile.hourglass.name
+botania:ghostrail, tile.ghostRail.name
+botania:sparkchanger, tile.sparkChanger.name
+botania:root, tile.root.name
+botania:felpumpkin, tile.felPumpkin.name
+botania:cocoon, tile.cocoon.name
+botania:lightrelay:0, ルミナイザ
+botania:lightrelay:1, 検出ルミナイザ
+botania:lightrelay:2, 分岐ルミナイザ
+botania:lightrelay:3, 切り替えルミナイザ
+botania:lightlauncher, tile.lightLauncher.name
+botania:manabomb, tile.manaBomb.name
+botania:cacophoniumblock, tile.cacophoniumBlock.name
+botania:bellows, 神秘のふいご
+botania:bifrostperm, tile.bifrostPerm.name
+botania:cellblock, tile.cellBlock.name
+botania:redstringinterceptor, tile.redStringInterceptor.name
+botania:corporearetainer, tile.corporeaRetainer.name
+botania:teruterubozu, tile.teruTeruBozu.name
+botania:shimmerrock, tile.shimmerrock.name
+botania:shimmerwoodplanks, tile.shimmerwoodPlanks.name
+botania:avatar, tile.avatar.name
+botania:altgrass:0, 乾燥した草ブロック
+botania:altgrass:1, 金色の草ブロック
+botania:altgrass:2, 鮮やかな草ブロック
+botania:altgrass:3, 枯れた草ブロック
+botania:altgrass:4, マナで満たされた草ブロック
+botania:altgrass:5, 変異した草ブロック
+botania:animatedtorch, tile.animatedTorch.name
 botania:lexicon, item.lexicon.name
 botania:petal:0, 白色の神秘的な花びら
 botania:petal:1, 橙色の神秘的な花びら
@@ -14884,331 +15046,169 @@ botania:supercloudpendant, item.superCloudPendant.name
 botania:thirdeye, item.thirdEye.name
 botania:astrolabe, item.astrolabe.name
 botania:goddesscharm, item.goddessCharm.name
-botania:flower:0, 白色の神秘の花
-botania:flower:1, 橙色の神秘の花
-botania:flower:2, 赤紫色の神秘の花
-botania:flower:3, 空色の神秘の花
-botania:flower:4, 黄色の神秘の花
-botania:flower:5, 黄緑色の神秘の花
-botania:flower:6, 桃色の神秘の花
-botania:flower:7, 灰色の神秘の花
-botania:flower:8, 薄灰色の神秘の花
-botania:flower:9, 水色の神秘の花
-botania:flower:10, 紫色の神秘の花
-botania:flower:11, 青色の神秘の花
-botania:flower:12, 茶色の神秘の花
-botania:flower:13, 緑色の神秘の花
-botania:flower:14, 赤色の神秘の花
-botania:flower:15, 黒色の神秘の花
-botania:altar:0, 花びらの調合所
-botania:altar:1, 森の花びらの調合所
-botania:altar:2, 平原の花びらの調合所
-botania:altar:3, 山の花びらの調合所
-botania:altar:4, きのこの花びらの調合所
-botania:altar:5, 沼の花びらの調合所
-botania:altar:6, 砂漠の花びらの調合所
-botania:altar:7, タイガの花びらの調合所
-botania:altar:8, メサの花びらの調合所
-botania:livingrock:0, リビングロック
-botania:livingrock:1, リビングロックレンガ
-botania:livingrock:2, 苔むしたリビングロックレンガ
-botania:livingrock:3, ひび割れたリビングロックレンガ
-botania:livingrock:4, 模様入りのリビングロックレンガ
-botania:livingwood:0, リビングウッド
-botania:livingwood:1, リビングウッドの木材
-botania:livingwood:2, 苔むしたリビングウッドの木材
-botania:livingwood:3, 模様入りのリビングウッド
-botania:livingwood:4, 規則的な模様入りのリビングウッド
-botania:livingwood:5, 光り輝くリビングウッド
-botania:specialflower:0, ピュアデイジー
-botania:specialflower:0, マナスター
-botania:specialflower:0, エンドフレイム
-botania:specialflower:0, ハイドロエンゲス
-botania:specialflower:0, サーマリリー
-botania:specialflower:0, ローザ・アルカナ
-botania:specialflower:0, マンチデュー
-botania:specialflower:0, エントロピニウム
-botania:specialflower:0, ケキムラス
-botania:specialflower:0, ガーマリリス
-botania:specialflower:0, ナースライムス
-botania:specialflower:0, スペクトロラス
-botania:specialflower:0, ラフロージア
-botania:specialflower:0, Shulk Me Not
-botania:specialflower:0, ダンデライフオン
-botania:specialflower:0, ジェイディッド・アマランサス
-botania:specialflower:0, ベレソーン
-botania:specialflower:0, ベレソーン・プチ
-botania:specialflower:0, ドレッドソーン
-botania:specialflower:0, ヘイセイドリーム
-botania:specialflower:0, タイガーズアイ
-botania:specialflower:0, マリモルフォシス
-botania:specialflower:0, マリモルフォシス・チビ
-botania:specialflower:0, オアキド
-botania:specialflower:0, オアキド・イグネム
-botania:specialflower:0, フォーレン・カナデ
-botania:specialflower:0, エクソフレイム
-botania:specialflower:0, アグリカーネーション
-botania:specialflower:0, アグリカーネーション・プチ
-botania:specialflower:0, ホッパーホック
-botania:specialflower:0, ホッパーホック・プチ
-botania:specialflower:0, ラナンカーパス
-botania:specialflower:0, ラナンカーパス・プチ
-botania:specialflower:0, タングルベリー
-botania:specialflower:0, ジユーリア
-botania:specialflower:0, ヒヤシダス
-botania:specialflower:0, メデュモネ
-botania:specialflower:0, ポリディジアク
-botania:specialflower:0, クレイコニア
-botania:specialflower:0, クレイコニア・プチ
-botania:specialflower:0, ルーニウム
-botania:specialflower:0, ダフォミル
-botania:specialflower:0, ヴィンキュロタス
-botania:specialflower:0, スペクトランセマム
-botania:specialflower:0, バッベル
-botania:specialflower:0, バッベル・プチ
-botania:specialflower:0, ソレノリア
-botania:specialflower:0, ソレノリア・プチ
-botania:specialflower:0, ベルガミュート
-botania:spreader:0, マナ送信機
-botania:spreader:1, パルスマナ送信機
-botania:spreader:2, エルヴェンマナ送信機
-botania:spreader:3, ガイアマナ送信機
-botania:pool:0, マナプール
-botania:pool:2, 弱いマナプール
-botania:pool:3, すばらしいマナプール
-botania:pool:1, 永遠のギルティプール
-botania:runealtar, tile.runeAltar.name
-botania:pylon:0, マナの支柱
-botania:pylon:1, ナツーラの支柱
-botania:pylon:2, ガイアの支柱
-botania:pistonrelay, tile.pistonRelay.name
-botania:distributor, tile.distributor.name
-botania:manavoid, tile.manaVoid.name
-botania:manadetector, tile.manaDetector.name
-botania:enchanter, tile.enchanter.name
-botania:turntable, tile.turntable.name
-botania:tinyplanetblock, tile.tinyPlanetBlock.name
-botania:alchemycatalyst, tile.alchemyCatalyst.name
-botania:opencrate:0, 開けた木箱
-botania:opencrate:1, クラフト木箱
-botania:foresteye, tile.forestEye.name
-botania:storage:0, マナスチールブロック
-botania:storage:1, テラスチールブロック
-botania:storage:2, エレメンチウムブロック
-botania:storage:3, マナダイヤモンドブロック
-botania:storage:4, ドラゴンストーンブロック
-botania:forestdrum:0, 野生のドラム
-botania:forestdrum:1, 収集のドラム
-botania:forestdrum:2, 天蓋のドラム
-botania:shinyflower:0, 白色の光り輝く花
-botania:shinyflower:1, 橙色の光り輝く花
-botania:shinyflower:2, 赤紫色の光り輝く花
-botania:shinyflower:3, 空色のの光り輝く花
-botania:shinyflower:4, 黄色の光り輝く花
-botania:shinyflower:5, 黄緑色の光り輝く花
-botania:shinyflower:6, 桃色の光り輝く花
-botania:shinyflower:7, 灰色の光り輝く花
-botania:shinyflower:8, 薄灰色の光り輝く花
-botania:shinyflower:9, 水色の光り輝く花
-botania:shinyflower:10, 紫色の光り輝く花
-botania:shinyflower:11, 青色の光り輝く花
-botania:shinyflower:12, 茶色の光り輝く花
-botania:shinyflower:13, 緑色の光り輝く花
-botania:shinyflower:14, 赤色の光り輝く花
-botania:shinyflower:15, 黒色の光り輝く花
-botania:platform:0, 難解なプラットフォーム
-botania:platform:1, 幽霊のプラットフォーム
-botania:platform:2, 丈夫なプラットフォーム
-botania:alfheimportal, tile.alfheimPortal.name
-botania:dreamwood:0, ドリームウッド
-botania:dreamwood:1, ドリームウッドの木材
-botania:dreamwood:2, 苔むしたドリームウッドの木材
-botania:dreamwood:3, 模様入りのドリームウッド
-botania:dreamwood:4, 規則的な模様入りのドリームウッド
-botania:dreamwood:5, 光り輝くドリームウッド
-botania:conjurationcatalyst, tile.conjurationCatalyst.name
-botania:bifrost, tile.bifrost.name
-botania:miniisland:0, 浮遊する白色の神秘の花
-botania:miniisland:1, 浮遊する橙色の神秘の花
-botania:miniisland:2, 浮遊する赤紫色の神秘の花
-botania:miniisland:3, 浮遊する空色の神秘の花
-botania:miniisland:4, 浮遊する黄色の神秘の花
-botania:miniisland:5, 浮遊する黄緑色の神秘の花
-botania:miniisland:6, 浮遊する桃色の神秘の花
-botania:miniisland:7, 浮遊する灰色の神秘の花
-botania:miniisland:8, 浮遊する薄灰色の神秘の花
-botania:miniisland:9, 浮遊する水色の神秘の花
-botania:miniisland:10, 浮遊する紫色の神秘の花
-botania:miniisland:11, 浮遊する青色の神秘の花
-botania:miniisland:12, 浮遊する茶色の神秘の花
-botania:miniisland:13, 浮遊する緑色の神秘の花
-botania:miniisland:14, 浮遊する赤色の神秘の花
-botania:miniisland:15, 浮遊する黒色の神秘の花
-botania:tinypotato, tile.tinyPotato.name
-botania:spawnerclaw, tile.spawnerClaw.name
-botania:custombrick:0, 地獄レンガ
-botania:custombrick:1, ソウルレンガ
-botania:custombrick:2, 雪レンガ
-botania:custombrick:3, 屋根瓦
-botania:custombrick:4, アズレージョ
-botania:custombrick:5, アズレージョ
-botania:custombrick:6, アズレージョ
-botania:custombrick:7, アズレージョ
-botania:custombrick:8, アズレージョ
-botania:custombrick:9, アズレージョ
-botania:custombrick:10, アズレージョ
-botania:custombrick:11, アズレージョ
-botania:custombrick:12, アズレージョ
-botania:custombrick:13, アズレージョ
-botania:custombrick:14, アズレージョ
-botania:custombrick:15, アズレージョ
-botania:endereyeblock, tile.enderEyeBlock.name
-botania:starfield, tile.starfield.name
-botania:rfgenerator, tile.rfGenerator.name
-botania:elfglass, tile.elfGlass.name
-botania:brewery, tile.brewery.name
-botania:managlass, tile.manaGlass.name
-botania:terraplate, tile.terraPlate.name
-botania:redstringcontainer, tile.redStringContainer.name
-botania:redstringdispenser, tile.redStringDispenser.name
-botania:redstringfertilizer, tile.redStringFertilizer.name
-botania:redstringcomparator, tile.redStringComparator.name
-botania:redstringrelay, tile.redStringRelay.name
-botania:floatingspecialflower:0, 浮遊している ピュアデイジー
-botania:floatingspecialflower:0, 浮遊している マナスター
-botania:floatingspecialflower:0, 浮遊している エンドフレイム
-botania:floatingspecialflower:0, 浮遊している ハイドロエンゲス
-botania:floatingspecialflower:0, 浮遊している サーマリリー
-botania:floatingspecialflower:0, 浮遊している ローザ・アルカナ
-botania:floatingspecialflower:0, 浮遊している マンチデュー
-botania:floatingspecialflower:0, 浮遊している エントロピニウム
-botania:floatingspecialflower:0, 浮遊している ケキムラス
-botania:floatingspecialflower:0, 浮遊している ガーマリリス
-botania:floatingspecialflower:0, 浮遊している ナースライムス
-botania:floatingspecialflower:0, 浮遊している スペクトロラス
-botania:floatingspecialflower:0, 浮遊している ラフロージア
-botania:floatingspecialflower:0, 浮遊している Shulk Me Not
-botania:floatingspecialflower:0, 浮遊している ダンデライフオン
-botania:floatingspecialflower:0, 浮遊している ジェイディッド・アマランサス
-botania:floatingspecialflower:0, 浮遊している ベレソーン
-botania:floatingspecialflower:0, 浮遊している ベレソーン・プチ
-botania:floatingspecialflower:0, 浮遊している ドレッドソーン
-botania:floatingspecialflower:0, 浮遊している ヘイセイドリーム
-botania:floatingspecialflower:0, 浮遊している タイガーズアイ
-botania:floatingspecialflower:0, 浮遊している マリモルフォシス
-botania:floatingspecialflower:0, 浮遊している マリモルフォシス・チビ
-botania:floatingspecialflower:0, 浮遊している オアキド
-botania:floatingspecialflower:0, 浮遊している オアキド・イグネム
-botania:floatingspecialflower:0, 浮遊している フォーレン・カナデ
-botania:floatingspecialflower:0, 浮遊している エクソフレイム
-botania:floatingspecialflower:0, 浮遊している アグリカーネーション
-botania:floatingspecialflower:0, 浮遊している アグリカーネーション・プチ
-botania:floatingspecialflower:0, 浮遊している ホッパーホック
-botania:floatingspecialflower:0, 浮遊している ホッパーホック・プチ
-botania:floatingspecialflower:0, 浮遊している ラナンカーパス
-botania:floatingspecialflower:0, 浮遊している ラナンカーパス・プチ
-botania:floatingspecialflower:0, 浮遊している タングルベリー
-botania:floatingspecialflower:0, 浮遊している ジユーリア
-botania:floatingspecialflower:0, 浮遊している ヒヤシダス
-botania:floatingspecialflower:0, 浮遊している メデュモネ
-botania:floatingspecialflower:0, 浮遊している ポリディジアク
-botania:floatingspecialflower:0, 浮遊している クレイコニア
-botania:floatingspecialflower:0, 浮遊している クレイコニア・プチ
-botania:floatingspecialflower:0, 浮遊している ルーニウム
-botania:floatingspecialflower:0, 浮遊している ダフォミル
-botania:floatingspecialflower:0, 浮遊している ヴィンキュロタス
-botania:floatingspecialflower:0, 浮遊している スペクトランセマム
-botania:floatingspecialflower:0, 浮遊している バッベル
-botania:floatingspecialflower:0, 浮遊している バッベル・プチ
-botania:floatingspecialflower:0, 浮遊している ソレノリア
-botania:floatingspecialflower:0, 浮遊している ソレノリア・プチ
-botania:floatingspecialflower:0, 浮遊している ベルガミュート
-botania:prism, tile.prism.name
-botania:enchantedsoil, tile.enchantedSoil.name
-botania:petalblock:0, 白色の花びらブロック
-botania:petalblock:1, 橙色の花びらブロック
-botania:petalblock:2, 赤紫色の花びらブロック
-botania:petalblock:3, 空色の花びらブロック
-botania:petalblock:4, 黄色の花びらブロック
-botania:petalblock:5, 黄緑色の花びらブロック
-botania:petalblock:6, 桃色の花びらブロック
-botania:petalblock:7, 灰色の花びらブロック
-botania:petalblock:8, 薄灰色の花びらブロック
-botania:petalblock:9, 水色の花びらブロック
-botania:petalblock:10, 紫色の花びらブロック
-botania:petalblock:11, 青色の花びらブロック
-botania:petalblock:12, 茶色の花びらブロック
-botania:petalblock:13, 緑色の花びらブロック
-botania:petalblock:14, 赤色の花びらブロック
-botania:petalblock:15, 黒色の花びらブロック
-botania:corporeaindex, tile.corporeaIndex.name
-botania:corporeafunnel, tile.corporeaFunnel.name
-botania:mushroom:0, 白色のきらめくキノコ
-botania:mushroom:1, 橙色のきらめくキノコ
-botania:mushroom:2, 赤紫色のきらめくキノコ
-botania:mushroom:3, 空色のきらめくキノコ
-botania:mushroom:4, 黄色のきらめくキノコ
-botania:mushroom:5, 黄緑色のきらめくキノコ
-botania:mushroom:6, 桃色のきらめくキノコ
-botania:mushroom:7, 灰色のきらめくキノコ
-botania:mushroom:8, 薄灰色のきらめくキノコ
-botania:mushroom:9, 水色のきらめくキノコ
-botania:mushroom:10, 紫色のきらめくキノコ
-botania:mushroom:11, 青色のきらめくキノコ
-botania:mushroom:12, 茶色のきらめくキノコ
-botania:mushroom:13, 緑色のきらめくキノコ
-botania:mushroom:14, 赤色のきらめくキノコ
-botania:mushroom:15, 黒色のきらめくキノコ
-botania:pump, tile.pump.name
-botania:doubleflower1:0, 背の高い白色の神秘の花
-botania:doubleflower1:1, 背の高い橙色の神秘の花
-botania:doubleflower1:2, 背の高い赤紫色の神秘の花
-botania:doubleflower1:3, 背の高い空色の神秘の花
-botania:doubleflower1:4, 背の高い黄色の神秘の花
-botania:doubleflower1:5, 背の高い黄緑色の神秘の花
-botania:doubleflower1:6, 背の高い桃色の神秘の花
-botania:doubleflower1:7, 背の高い灰色の神秘の花
-botania:doubleflower2:0, 背の高い薄灰色の神秘の花
-botania:doubleflower2:1, 背の高い水色の神秘の花
-botania:doubleflower2:2, 背の高い紫色の神秘の花
-botania:doubleflower2:3, 背の高い青色の神秘の花
-botania:doubleflower2:4, 背の高い茶色の神秘の花
-botania:doubleflower2:5, 背の高い緑色の神秘の花
-botania:doubleflower2:6, 背の高い赤色の神秘の花
-botania:doubleflower2:7, 背の高い黒色の神秘の花
-botania:blazeblock, tile.blazeBlock.name
-botania:corporeainterceptor, tile.corporeaInterceptor.name
-botania:corporeacrystalcube, tile.corporeaCrystalCube.name
-botania:incenseplate, tile.incensePlate.name
-botania:hourglass, tile.hourglass.name
-botania:ghostrail, tile.ghostRail.name
-botania:sparkchanger, tile.sparkChanger.name
-botania:root, tile.root.name
-botania:felpumpkin, tile.felPumpkin.name
-botania:cocoon, tile.cocoon.name
-botania:lightrelay:0, ルミナイザ
-botania:lightrelay:1, 検出ルミナイザ
-botania:lightrelay:2, 分岐ルミナイザ
-botania:lightrelay:3, 切り替えルミナイザ
-botania:lightlauncher, tile.lightLauncher.name
-botania:manabomb, tile.manaBomb.name
-botania:cacophoniumblock, tile.cacophoniumBlock.name
-botania:bellows, 神秘のふいご
-botania:bifrostperm, tile.bifrostPerm.name
-botania:cellblock, tile.cellBlock.name
-botania:redstringinterceptor, tile.redStringInterceptor.name
-botania:corporearetainer, tile.corporeaRetainer.name
-botania:teruterubozu, tile.teruTeruBozu.name
-botania:shimmerrock, tile.shimmerrock.name
-botania:shimmerwoodplanks, tile.shimmerwoodPlanks.name
-botania:avatar, tile.avatar.name
-botania:altgrass:0, 乾燥した草ブロック
-botania:altgrass:1, 金色の草ブロック
-botania:altgrass:2, 鮮やかな草ブロック
-botania:altgrass:3, 枯れた草ブロック
-botania:altgrass:4, マナで満たされた草ブロック
-botania:altgrass:5, 変異した草ブロック
-botania:animatedtorch, tile.animatedTorch.name
+botania:livingwood0stairs, tile.livingwood0Stairs.name
+botania:livingwood0slab:0, リビングウッドのハーフブロック
+botania:livingwood0wall, tile.livingwood0Wall.name
+botania:livingwood1stairs, tile.livingwood1Stairs.name
+botania:livingwood1slab:0, リビングウッドの木材のハーフブロック
+botania:livingrock0stairs, tile.livingrock0Stairs.name
+botania:livingrock0slab:0, リビングロックのハーフブロック
+botania:livingrock0wall, tile.livingrock0Wall.name
+botania:livingrock1stairs, tile.livingrock1Stairs.name
+botania:livingrock1slab:0, リビングロックレンガのハーフブロック
+botania:dreamwood0stairs, tile.dreamwood0Stairs.name
+botania:dreamwood0slab:0, ドリームウッドのハーフブロック
+botania:dreamwood0wall, tile.dreamwood0Wall.name
+botania:dreamwood1stairs, tile.dreamwood1Stairs.name
+botania:dreamwood1slab:0, ドリームウッドの木材のハーフブロック
+botania:quartztypedark:0, 煙がかったクォーツブロック
+botania:quartztypedark:1, 模様入りの煙がかったクォーツブロック
+botania:quartztypedark:2, 柱の煙がかったクォーツブロック
+botania:quartzslabdarkhalf:0, 煙がかったクォーツのハーフブロック
+botania:quartzstairsdark, tile.quartzStairsDark.name
+botania:quartztypemana:0, マナクォーツブロック
+botania:quartztypemana:1, 模様入りのマナクォーツブロック
+botania:quartztypemana:2, 柱のマナクォーツブロック
+botania:quartzslabmanahalf:0, マナクォーツハーフブロック
+botania:quartzstairsmana, tile.quartzStairsMana.name
+botania:quartztypeblaze:0, ブレイズクォーツブロック
+botania:quartztypeblaze:1, 模様入りのブレイズクォーツブロック
+botania:quartztypeblaze:2, 柱のブレイズクォーツブロック
+botania:quartzslabblazehalf:0, ブレイズクォーツハーフブロック
+botania:quartzstairsblaze, tile.quartzStairsBlaze.name
+botania:quartztypelavender:0, ラベンダークォーツブロック
+botania:quartztypelavender:1, 模様入りのラベンダークォーツブロック
+botania:quartztypelavender:2, 柱のラベンダークォーツブロック
+botania:quartzslablavenderhalf:0, ラベンダークォーツハーフブロック
+botania:quartzstairslavender, tile.quartzStairsLavender.name
+botania:quartztypered:0, レッドクォーツブロック
+botania:quartztypered:1, 模様入りのレッドクォーツブロック
+botania:quartztypered:2, 柱のレッドクォーツブロック
+botania:quartzslabredhalf:0, レッドクォーツハーフブロック
+botania:quartzstairsred, tile.quartzStairsRed.name
+botania:quartztypeelf:0, エルヴェンクォーツブロック
+botania:quartztypeelf:1, 模様入りのエルヴェンクォーツブロック
+botania:quartztypeelf:2, 柱のエルブンクォーツブロック
+botania:quartzslabelfhalf:0, エルブンクォーツハーフブロック
+botania:quartzstairself, tile.quartzStairsElf.name
+botania:quartztypesunny:0, サニークォーツブロック
+botania:quartztypesunny:1, 模様入りのサニークォーツブロック
+botania:quartztypesunny:2, 柱のサニークォーツブロック
+botania:quartzslabsunnyhalf:0, サニークォーツハーフブロック
+botania:quartzstairssunny, tile.quartzStairsSunny.name
+botania:biomestonea:0, 森に変質した石
+botania:biomestonea:1, 平原に変質した石
+botania:biomestonea:2, 山に変質した石
+botania:biomestonea:3, きのこに変質した石
+botania:biomestonea:4, 沼に変質した石
+botania:biomestonea:5, 砂漠に変質した石
+botania:biomestonea:6, タイガに変質した石
+botania:biomestonea:7, メサに変質した石
+botania:biomestonea:8, 森に変質した丸石
+botania:biomestonea:9, 平原に変質した丸石
+botania:biomestonea:10, 山に変質した丸石
+botania:biomestonea:11, きのこに変質した丸石
+botania:biomestonea:12, 沼に変質した丸石
+botania:biomestonea:13, 砂漠に変質した丸石
+botania:biomestonea:14, タイガに変質した丸石
+botania:biomestonea:15, メサに変質した丸石
+botania:biomestoneb:0, 森に変質した石レンガ
+botania:biomestoneb:1, 平原に変質した石レンガ
+botania:biomestoneb:2, 山に変質した石レンガ
+botania:biomestoneb:3, きのこに変質した石レンガ
+botania:biomestoneb:4, 沼に変質した石レンガ
+botania:biomestoneb:5, 砂漠に変質した石レンガ
+botania:biomestoneb:6, タイガに変質した石レンガ
+botania:biomestoneb:7, メサに変質した石レンガ
+botania:biomestoneb:8, 森に変質した模様入り石レンガ
+botania:biomestoneb:9, 平原に変質した模様入り石レンガ
+botania:biomestoneb:10, 山に変質した模様入り石レンガ
+botania:biomestoneb:11, きのこに変質した模様入り石レンガ
+botania:biomestoneb:12, 沼に変質した模様入り石レンガ
+botania:biomestoneb:13, 砂漠に変質した模様入り石レンガ
+botania:biomestoneb:14, タイガに変質した模様入り石レンガ
+botania:biomestoneb:15, メサに変質した模様入り石レンガ
+botania:pavement:0, 白色のポルトガル式歩道
+botania:pavement:1, 黒色のポルトガル式歩道
+botania:pavement:2, 青色のポルトガル式歩道
+botania:pavement:3, 赤色のポルトガル式歩道
+botania:pavement:4, 黄色のポルトガル式歩道
+botania:pavement:5, 緑色のポルトガル式歩道
+botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
+botania:biomestonea0slab:0, 森に変質した石のハーフブロック
+botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
+botania:biomestonea1slab:0, 平原に変質した石のハーフブロック
+botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
+botania:biomestonea2slab:0, 山に変質した石のハーフブロック
+botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
+botania:biomestonea3slab:0, キノコに変質した石のハーフブロック
+botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
+botania:biomestonea4slab:0, 沼に変質した石のハーフブロック
+botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
+botania:biomestonea5slab:0, 砂漠に変質した石のハーフブロック
+botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
+botania:biomestonea6slab:0, タイガに変質した石のハーフブロック
+botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
+botania:biomestonea7slab:0, メサに変質した石のハーフブロック
+botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
+botania:biomestonea8slab:0, 森に変質した丸石のハーフブロック
+botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
+botania:biomestonea9slab:0, 平原に変質した丸石のハーフブロック
+botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
+botania:biomestonea10slab:0, 山に変質した丸石のハーフブロック
+botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
+botania:biomestonea11slab:0, きのこに変質した丸石のハーフブロック
+botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
+botania:biomestonea12slab:0, 沼に変質した丸石のハーフブロック
+botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
+botania:biomestonea13slab:0, 砂漠に変質した丸石のハーフブロック
+botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
+botania:biomestonea14slab:0, タイガに変質した丸石のハーフブロック
+botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
+botania:biomestonea15slab:0, メサに変質した丸石のハーフブロック
+botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
+botania:biomestoneb0slab:0, 森に変質した石レンガのハーフブロック
+botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
+botania:biomestoneb1slab:0, 平原に変質した石レンガのハーフブロック
+botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
+botania:biomestoneb2slab:0, 山に変質した石レンガのハーフブロック
+botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
+botania:biomestoneb3slab:0, きのこに変質した石レンガのハーフブロック
+botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
+botania:biomestoneb4slab:0, 沼に変質した石レンガのハーフブロック
+botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
+botania:biomestoneb5slab:0, 砂漠に変質した石レンガのハーフブロック
+botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
+botania:biomestoneb6slab:0, タイガに変質した石レンガのハーフブロック
+botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
+botania:biomestoneb7slab:0, メサに変質した石レンガのハーフブロック
+botania:biomestonea0wall:0, 森に変質した丸石の壁
+botania:biomestonea0wall:1, 平原に変質した丸石の壁
+botania:biomestonea0wall:2, 山に変質した丸石の壁
+botania:biomestonea0wall:3, きのこに変質した丸石の壁
+botania:biomestonea0wall:4, 沼に変質した丸石の壁
+botania:biomestonea0wall:5, 砂漠に変質した丸石の壁
+botania:biomestonea0wall:6, タイガに変質した丸石の壁
+botania:biomestonea0wall:7, メサに変質した丸石の壁
+botania:pavement0stairs, tile.pavement0Stairs.name
+botania:pavement0slab:0, 白色のポルトガル式歩道のハーフブロック
+botania:pavement1stairs, tile.pavement1Stairs.name
+botania:pavement1slab:0, 黒色のポルトガル式歩道のハーフブロック
+botania:pavement2stairs, tile.pavement2Stairs.name
+botania:pavement2slab:0, 青色のポルトガル式歩道のハーフブロック
+botania:pavement3stairs, tile.pavement3Stairs.name
+botania:pavement3slab:0, 赤色のポルトガル式歩道のハーフブロック
+botania:pavement4stairs, tile.pavement4Stairs.name
+botania:pavement4slab:0, 黄色のポルトガル式歩道のハーフブロック
+botania:pavement5stairs, tile.pavement5Stairs.name
+botania:pavement5slab:0, 緑色のポルトガル式歩道のハーフブロック
+botania:shimmerrock0slab:0, きらめく石のハーフブロック
+botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
+botania:shimmerwoodplanks0slab:0, きらめく木のハーフブロック
+botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
+botania:managlasspane, tile.manaGlassPane.name
+botania:elfglasspane, tile.elfGlassPane.name
+botania:bifrostpermpane, tile.bifrostPermPane.name
 cavern:cavern_portal, 大洞窟ポータル
 cavern:huge_cavern_portal, 果てなき洞窟ポータル
 cavern:aqua_cavern_portal, 水の洞窟ポータル
@@ -15501,20 +15501,6 @@ ftbquests:loot_crate_opener, Loot Crate Opener
 ftbquests:barrier, Quest Barrier
 ftbquests:book, Quest Book
 ftbquests:lootcrate, Loot Crate
-grimoireofgaia:bust_sphinx, スフィンクスの胸像
-grimoireofgaia:bust_valkyrie, ヴァルキリーの胸像
-grimoireofgaia:bust_vampire, ヴァンパイアの胸像
-grimoireofgaia:doll_creeper_girl, クリーパーガールの人形
-grimoireofgaia:doll_ender_girl, エンダーガールの人形
-grimoireofgaia:doll_slime_girl, スライムガールの人形
-grimoireofgaia:doll_maid, メイドの人形
-grimoireofgaia:deco_garden_gnome, ガーデン・ノーム
-grimoireofgaia:deco_mandragora_pot, マンドラゴラの鉢植え
-grimoireofgaia:deco_bust_minotaur, ミノトーアの胸像
-grimoireofgaia:deco_nest_harpy, ハーピーの巣
-grimoireofgaia:spawn_guard, 防御の護符
-grimoireofgaia:web_temp, 腐りかけの蜘蛛の巣
-grimoireofgaia:fire_camp, キャンプファイア
 grimoireofgaia:shard:0, 鉄塊
 grimoireofgaia:shard:1, 金塊
 grimoireofgaia:shard:2, ダイヤモンドの欠片
@@ -15627,6 +15613,20 @@ grimoireofgaia:weapon_prop_dagger_metal, Metal Dagger
 grimoireofgaia:weapon_prop_broom, 箒
 grimoireofgaia:weapon_prop_hammer_minotaur, ミノトーアのハンマー
 grimoireofgaia:pickup_heart, ハート
+grimoireofgaia:bust_sphinx, スフィンクスの胸像
+grimoireofgaia:bust_valkyrie, ヴァルキリーの胸像
+grimoireofgaia:bust_vampire, ヴァンパイアの胸像
+grimoireofgaia:doll_creeper_girl, クリーパーガールの人形
+grimoireofgaia:doll_ender_girl, エンダーガールの人形
+grimoireofgaia:doll_slime_girl, スライムガールの人形
+grimoireofgaia:doll_maid, メイドの人形
+grimoireofgaia:deco_garden_gnome, ガーデン・ノーム
+grimoireofgaia:deco_mandragora_pot, マンドラゴラの鉢植え
+grimoireofgaia:deco_bust_minotaur, ミノトーアの胸像
+grimoireofgaia:deco_nest_harpy, ハーピーの巣
+grimoireofgaia:spawn_guard, 防御の護符
+grimoireofgaia:web_temp, 腐りかけの蜘蛛の巣
+grimoireofgaia:fire_camp, キャンプファイア
 immersiveengineering:ore:0, 銅鉱石
 immersiveengineering:ore:1, ボーキサイト鉱石
 immersiveengineering:ore:2, 鉛鉱石
@@ -15969,6 +15969,24 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_gold_chest_upgrade, 鉄から金のチェストにアップグレード
+ironchest:gold_diamond_chest_upgrade, 金からダイヤのチェストにアップグレード
+ironchest:copper_silver_chest_upgrade, 銅から銀のチェストにアップグレード
+ironchest:silver_gold_chest_upgrade, 銀から金のチェストにアップグレード
+ironchest:copper_iron_chest_upgrade, 銅から鉄のチェストにアップグレード
+ironchest:diamond_crystal_chest_upgrade, ダイヤからクリスタルチェストにアップグレード
+ironchest:wood_iron_chest_upgrade, 通常から鉄のチェストにアップグレード
+ironchest:wood_copper_chest_upgrade, 通常から銅のチェストにアップグレード
+ironchest:diamond_obsidian_chest_upgrade, ダイヤから黒曜石のチェストにアップグレード
+ironchest:iron_gold_shulker_upgrade, 鉄から金のシュルカーボックスにアップグレード
+ironchest:gold_diamond_shulker_upgrade, 金からダイヤのシュルカーボックスにアップグレード
+ironchest:copper_silver_shulker_upgrade, 銅から銀のシュルカーボックスにアップグレード
+ironchest:silver_gold_shulker_upgrade, 銀から金のシュルカーボックスにアップグレード
+ironchest:copper_iron_shulker_upgrade, 銅から鉄のシュルカーボックスにアップグレード
+ironchest:diamond_crystal_shulker_upgrade, ダイヤからクリスタルシュルカーボックスにアップグレード
+ironchest:vanilla_iron_shulker_upgrade, 通常から鉄のシュルカーボックスにアップグレード
+ironchest:vanilla_copper_shulker_upgrade, 通常から銅のシュルカーボックスにアップグレード
+ironchest:diamond_obsidian_shulker_upgrade, ダイヤから黒曜石のシュルカーボックスにアップグレード
 ironchest:iron_chest:0, 鉄のチェスト
 ironchest:iron_chest:1, 金のチェスト
 ironchest:iron_chest:2, ダイヤのチェスト
@@ -16089,24 +16107,6 @@ ironchest:iron_shulker_box_black:3, 黒色の銅のシュルカーボックス
 ironchest:iron_shulker_box_black:4, 黒色の銀のシュルカーボックス
 ironchest:iron_shulker_box_black:5, 黒色のクリスタルシュルカーボックス
 ironchest:iron_shulker_box_black:6, 黒色の黒曜石のシュルカーボックス
-ironchest:iron_gold_chest_upgrade, 鉄から金のチェストにアップグレード
-ironchest:gold_diamond_chest_upgrade, 金からダイヤのチェストにアップグレード
-ironchest:copper_silver_chest_upgrade, 銅から銀のチェストにアップグレード
-ironchest:silver_gold_chest_upgrade, 銀から金のチェストにアップグレード
-ironchest:copper_iron_chest_upgrade, 銅から鉄のチェストにアップグレード
-ironchest:diamond_crystal_chest_upgrade, ダイヤからクリスタルチェストにアップグレード
-ironchest:wood_iron_chest_upgrade, 通常から鉄のチェストにアップグレード
-ironchest:wood_copper_chest_upgrade, 通常から銅のチェストにアップグレード
-ironchest:diamond_obsidian_chest_upgrade, ダイヤから黒曜石のチェストにアップグレード
-ironchest:iron_gold_shulker_upgrade, 鉄から金のシュルカーボックスにアップグレード
-ironchest:gold_diamond_shulker_upgrade, 金からダイヤのシュルカーボックスにアップグレード
-ironchest:copper_silver_shulker_upgrade, 銅から銀のシュルカーボックスにアップグレード
-ironchest:silver_gold_shulker_upgrade, 銀から金のシュルカーボックスにアップグレード
-ironchest:copper_iron_shulker_upgrade, 銅から鉄のシュルカーボックスにアップグレード
-ironchest:diamond_crystal_shulker_upgrade, ダイヤからクリスタルシュルカーボックスにアップグレード
-ironchest:vanilla_iron_shulker_upgrade, 通常から鉄のシュルカーボックスにアップグレード
-ironchest:vanilla_copper_shulker_upgrade, 通常から銅のシュルカーボックスにアップグレード
-ironchest:diamond_obsidian_shulker_upgrade, ダイヤから黒曜石のシュルカーボックスにアップグレード
 lootbags:itemlootbag:0, §fCommon Lootbag§r
 lootbags:itemlootbag:1, §aUncommon Lootbag§r
 lootbags:itemlootbag:2, §9Rare Lootbag§r
@@ -16534,9 +16534,6 @@ mekanismgenerators:reactor:2, 核融合炉搬入出ポート
 mekanismgenerators:reactor:3, 核融合炉論理アダプター
 mekanismgenerators:reactorglass:0, 核融合炉窓
 mekanismgenerators:reactorglass:1, レーザーフォーカスマトリックス
-plustic:mirionnugget, Mirion Nugget
-plustic:mirioningot, Mirion Ingot
-plustic:mirionblock, Mirion Block
 plustic:pipe_piece:0, 電炉のPipe Piece
 plustic:pipe_piece:0, エネルギー性Pipe Piece
 plustic:pipe_piece:0, ヴァイブラントのPipe Piece
@@ -16626,6 +16623,25 @@ plustic:battery_cell:0, Fluix Crystal Battery Cell
 plustic:battery_cell:0, Nickel Battery Cell
 plustic:laser_gun, Laser Gun
 plustic:katana, Katana
+plustic:mirionnugget, Mirion Nugget
+plustic:mirioningot, Mirion Ingot
+plustic:mirionblock, Mirion Block
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.plastic, Plastic
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -16784,27 +16800,32 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
 questbook:itemquestbook, Quest Book
 spiceoflife:bookfoodjournal, Food Journal
 spiceoflife:lunchbox, Lunch Box
 spiceoflife:lunchbag, Lunch Bag
 bq_standard:loot_chest, Loot Chest
+storagedrawers:upgrade_template, 改良テンプレート
+storagedrawers:upgrade_storage:0, 容量キット(I)
+storagedrawers:upgrade_storage:1, 容量キット(II)
+storagedrawers:upgrade_storage:2, 容量キット(III)
+storagedrawers:upgrade_storage:3, 容量キット(IV)
+storagedrawers:upgrade_storage:4, 容量キット(V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, 容量ランプ(I)
+storagedrawers:upgrade_status:1, 容量ランプ(II)
+storagedrawers:upgrade_void, ひきだしブラックホール
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, クリエイティブ容量キット
+storagedrawers:upgrade_creative:1, クリエイティブ供給キット
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, ひきだしのカギ
+storagedrawers:shroud_key, ひみつのカギ
+storagedrawers:personal_key, じぶんのカギ
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, 梱包テープ
 storagedrawers:basicdrawers:0, 普通のひきだし
 storagedrawers:basicdrawers:0, 普通のひきだし
 storagedrawers:basicdrawers:0, 普通のひきだし
@@ -16855,33 +16876,12 @@ storagedrawers:customdrawers:2, ひきだしの骨組み 2x2
 storagedrawers:customdrawers:3, ひきだしの骨組み 1x2
 storagedrawers:customdrawers:4, ひきだしの骨組み 2x2
 storagedrawers:customtrim, Framed Trim
-storagedrawers:upgrade_template, 改良テンプレート
-storagedrawers:upgrade_storage:0, 容量キット(I)
-storagedrawers:upgrade_storage:1, 容量キット(II)
-storagedrawers:upgrade_storage:2, 容量キット(III)
-storagedrawers:upgrade_storage:3, 容量キット(IV)
-storagedrawers:upgrade_storage:4, 容量キット(V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, 容量ランプ(I)
-storagedrawers:upgrade_status:1, 容量ランプ(II)
-storagedrawers:upgrade_void, ひきだしブラックホール
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, クリエイティブ容量キット
-storagedrawers:upgrade_creative:1, クリエイティブ供給キット
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, ひきだしのカギ
-storagedrawers:shroud_key, ひみつのカギ
-storagedrawers:personal_key, じぶんのカギ
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, 梱包テープ
+torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
-torchmaster:frozen_pearl, Frozen Pearl
 vending:vendingmachinewrench, Vending Block Wrench
 vending:vendingmachine, Vending Block
 vending:vendingmachineadvanced, Advanced Vending Block
@@ -16901,6 +16901,10 @@ betterbuilderswands:wandstone, Stone Wand
 betterbuilderswands:wandiron, Iron Wand
 betterbuilderswands:wanddiamond:0, Diamond Wand
 betterbuilderswands:wandunbreakable:0, Unbreakable Wand
+betterrecords:record, item.betterrecords:record.name
+betterrecords:frequencycrystal, item.betterrecords:frequencycrystal.name
+betterrecords:wire, Speaker Wire
+betterrecords:wirecutters, Wire Cutters
 betterrecords:recordetcher, Record Etcher
 betterrecords:recordplayer, Record Player
 betterrecords:frequencytuner, Frequency Tuner
@@ -16911,10 +16915,6 @@ betterrecords:lasercluster, Laser Cluster
 betterrecords:speaker:0, Small Speaker
 betterrecords:speaker:1, Medium Speaker
 betterrecords:speaker:2, Large Speaker
-betterrecords:record, item.betterrecords:record.name
-betterrecords:frequencycrystal, item.betterrecords:frequencycrystal.name
-betterrecords:wire, Speaker Wire
-betterrecords:wirecutters, Wire Cutters
 contenttweaker:hazure_common, [ハズレ] Rank:Common
 contenttweaker:hazure_rare, [ハズレ] Rank:Rare
 contenttweaker:hazure_epic, [ハズレ] Rank:Epic

@@ -1,0 +1,17 @@
+tile.contenttweaker.solenium_ore.name=Solenium Ore
+tile.contenttweaker.lunium_ore.name=Lunium Ore
+tile.contenttweaker.giovenium_ore.name=Giovenium Ore
+tile.contenttweaker.venerium_ore.name=Venerium Ore
+tile.contenttweaker.mercurium_ore.name=Mercurium Ore
+tile.contenttweaker.martium_ore.name=Martium Ore
+tile.contenttweaker.saturnium_ore.name=Saturium Ore
+item.contenttweaker.mekanism_stage_ticket.name=Mekanism Stage Ticket
+item.contenttweaker.ie_stage_ticket.name=ImmersiveEngineering Stage Ticket
+item.contenttweaker.pneumatic_stage_ticket.name=PneumaticCraft Stage Ticket
+item.contenttweaker.enchanter_stage_ticket.name=Enchanter Stage Ticket
+item.contenttweaker.ae2_stage_ticket.name=AppliedEnergistics2 Stage Ticket
+item.contenttweaker.hazure_common.name=[Hazure] Rank:Common
+item.contenttweaker.hazure_uncommon.name=[Hazure] Rank:Uncommon
+item.contenttweaker.hazure_rare.name=[Hazure] Rank:Rare
+item.contenttweaker.hazure_epic.name=[Hazure] Rank:Epic
+item.contenttweaker.voting_ticket.name=Gratitude Ticket
