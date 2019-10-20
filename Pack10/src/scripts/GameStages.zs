@@ -367,7 +367,6 @@ mods.ItemStages.addItemStage("Crime_Stage", <projectred-exploration:sapphire_saw
 mods.ItemStages.addItemStage("Crime_Stage", <projectred-exploration:peridot_saw>);
 mods.ItemStages.addItemStage("Crime_Stage", <tconstruct:throwball:1>);
 mods.ItemStages.addItemStage("Crime_Stage", <immersiveengineering:metal_device1:13>);
-mods.ItemStages.addItemStage("Crime_Stage", <hardcorequesting:quest_book>);
 
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "thermalexpansion:machine:13", "minecraft:bedrock");
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "enderio:block_enchanter", "minecraft:bedrock");

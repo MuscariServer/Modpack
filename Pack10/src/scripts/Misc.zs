@@ -60,6 +60,4 @@ recipes.remove(<lootbags:loot_opener>);
 recipes.remove(<lootbags:loot_recycler>);
 recipes.remove(<lootbags:loot_storage>);
 <lootbags:itemlootbag:4>.displayName = "Voting Lootbag";
-
-recipes.remove(<hardcorequesting:quest_book>);
 print("Initialized 'Misc.zs'");
