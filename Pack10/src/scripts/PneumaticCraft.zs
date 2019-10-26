@@ -68,7 +68,7 @@ recipes.addShaped(<pneumaticcraft:vortex_tube>, [
 
 #Pressure Tube
 recipes.remove(<pneumaticcraft:pressure_tube>);
-recipes.addShaped(<pneumaticcraft:vortex_tube>, [
+recipes.addShaped(<pneumaticcraft:pressure_tube>, [
 [<pneumaticcraft:ingot_iron_compressed>, <enderio:block_fused_quartz>, <pneumaticcraft:ingot_iron_compressed>]]);
 
 #Refinery
