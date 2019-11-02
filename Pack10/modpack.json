@@ -1,6 +1,6 @@
 {
   "name" : "Pack10",
-  "title" : "MuscariServerS7",
+  "title" : "MuscariServerS8",
   "thumb" : "https://i.gyazo.com/85658f5198be9718c27f0f919e14b151.png",
   "key" : null,
   "gameVersion" : "1.12.2",
@@ -196,7 +196,7 @@
     {
       "properties" : {
         "name" : "Emojicord",
-        "description" : "超ベータ！！絵文字がマインクラフトで使えます。",
+        "description" : "絵文字がマインクラフトで使えます。",
         "recommendation" : null,
         "selected" : false
       },
