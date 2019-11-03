@@ -35,4 +35,6 @@ recipes.remove(<appliedenergistics2:grindstone>);
 #Disable P2P
 recipes.remove(<appliedenergistics2:part:460>);
 
+#Vibration Chamber
+recipes.remove(<appliedenergistics2:vibration_chamber>);
 print("Initialized 'AE2.zs'");
