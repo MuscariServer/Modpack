@@ -6,18 +6,6 @@ print("Initializing 'ThermalExpansion.zs'...");
 #Dynamos
 recipes.remove(<thermalexpansion:dynamo:*>);
 
-#Compression Dynamo
-recipes.addShaped(<thermalexpansion:dynamo:2>, [
-[null, <thermalfoundation:material:514>, null], 
-[<enderio:item_alloy_ingot>, <ore:gearIronCompressed>, <enderio:item_alloy_ingot>], 
-[<ore:ingotTin>, <enderio:item_basic_capacitor>, <ore:ingotTin>]]);
-
-#Reactant Dynamo
-recipes.addShaped(<thermalexpansion:dynamo:3>, [
-[null, <thermalfoundation:material:514>, null], 
-[<enderio:item_alloy_ingot>, <ore:gearLead>, <enderio:item_alloy_ingot>], 
-[<ore:ingotLead>, <enderio:item_basic_capacitor>, <ore:ingotLead>]]);
-
 #Disable Numismatic Dynamo's Augments
 recipes.remove(<thermalexpansion:augment:720>);
 recipes.remove(<thermalexpansion:augment:576>);

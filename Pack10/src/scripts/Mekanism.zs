@@ -146,10 +146,6 @@ recipes.remove(<mekanismgenerators:generator:4>);
 
 #ガス燃焼発電機
 recipes.remove(<mekanismgenerators:generator:3>);
-recipes.addShaped(<mekanismgenerators:generator:3>,
-[[<ore:ingotOsmium>, <mekanism:controlcircuit:2>, <ore:ingotOsmium>],
-[<mekanism:basicblock:8>, <mekanism:electrolyticcore>, <mekanism:basicblock:8>],
-[<ore:ingotOsmium>, <mekanism:controlcircuit:1>, <ore:ingotOsmium>]]);
 
 #電解分離機
 recipes.remove(<mekanism:machineblock2:4>);
@@ -174,24 +170,12 @@ recipes.addShaped(<mekanism:energytablet>,
 
 #ソーラーパネル
 recipes.remove(<mekanismgenerators:solarpanel>);
-recipes.addShaped(<mekanismgenerators:solarpanel>,
-[[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>],
-[<minecraft:redstone>, <enderio:item_material:3>, <minecraft:redstone>],
-[<mekanism:ingot:1>, <mekanism:enrichedalloy>, <mekanism:ingot:1>]]);
 
 #太陽光発電機
 recipes.remove(<mekanismgenerators:generator:1>);
-recipes.addShaped(<mekanismgenerators:generator:1>,
-[[<mekanismgenerators:solarpanel>, <mekanismgenerators:solarpanel>, <mekanismgenerators:solarpanel>],
-[<mekanism:enrichedalloy>, <ore:ingotSteel>, <mekanism:enrichedalloy>],
-[<ore:dustOsmium>, <mekanism:energytablet:*>, <ore:dustOsmium>]]);
 
 #発展太陽光発電
 recipes.remove(<mekanismgenerators:generator:5>);
-recipes.addShaped(<mekanismgenerators:generator:5>,
-[[<mekanismgenerators:generator:1>, <ore:fusedQuartz>, <mekanismgenerators:generator:1>],
-[<mekanismgenerators:generator:1>, <mekanism:controlcircuit:1>, <mekanismgenerators:generator:1>],
-[<ore:ingotSteel>, <pneumaticcraft:pneumatic_cylinder>, <ore:ingotSteel>]]);
 
 #発展制御回路
 recipes.remove(<mekanism:controlcircuit:1>);

@@ -72,57 +72,18 @@ recipes.addShaped(<enderio:item_basic_capacitor:2>,
 #Telepad
 recipes.remove(<enderio:block_tele_pad>);
 
-#スターリング発電
+#発電機のレシピ削除
 recipes.remove(<enderio:block_simple_stirling_generator>);
-
-#ゾンビ発電機
+recipes.remove(<enderio:block_stirling_generator>);
+recipes.remove(<enderio:block_combustion_generator>);
+recipes.remove(<enderio:block_enhanced_combustion_generator>);
 recipes.remove(<enderio:block_zombie_generator>);
-recipes.addShaped(<enderio:block_zombie_generator>,
-[[<ore:plateSteel>, <immersiveengineering:metal_decoration0>, <ore:plateSteel>],
-[<ore:fusedQuartz>, <enderio:item_material:40>, <ore:fusedQuartz>],
-[<ore:fusedQuartz>, <ore:plateSteel>, <ore:fusedQuartz>]]);
-
-#フランケンゾンビ発電機
 recipes.remove(<enderio:block_franken_zombie_generator>);
-recipes.addShaped(<enderio:block_franken_zombie_generator>,
-[[<enderio:item_alloy_ingot:6>, <immersiveengineering:metal_decoration0:1>, <enderio:item_alloy_ingot:6>],
-[<ore:fusedQuartz>, <enderio:item_material:42>, <ore:fusedQuartz>],
-[<ore:fusedQuartz>, <ore:plateSteel>, <ore:fusedQuartz>]]);
-
-#エンダー発電機
 recipes.remove(<enderio:block_ender_generator>);
-recipes.addShaped(<enderio:block_ender_generator>,
-[[<enderio:item_alloy_ingot:8>, <immersiveengineering:metal_decoration0:2>, <enderio:item_alloy_ingot:8>],
-[<ore:fusedQuartz>, <enderio:item_material:43>, <ore:fusedQuartz>],
-[<ore:fusedQuartz>, <ore:plateEnderium>, <ore:fusedQuartz>]]);
-
-#簡易型太陽電池
 recipes.remove(<enderio:block_solar_panel>);
-recipes.addShaped(<enderio:block_solar_panel>,
-[[<enderio:item_alloy_ingot>, <ore:fusedGlass>, <enderio:item_alloy_ingot>],
-[<enderio:item_material:3>, <enderio:item_material:3>, <enderio:item_material:3>],
-[<enderio:item_material:20>, <immersiveengineering:metal_device0>, <enderio:item_material:20>]]);
-
-#太陽電池
 recipes.remove(<enderio:block_solar_panel:1>);
-recipes.addShaped(<enderio:block_solar_panel:1>,
-[[<enderio:item_alloy_ingot:1>, <ore:fusedGlass>, <enderio:item_alloy_ingot:1>],
-[<immersiveengineering:wirecoil>, <enderio:block_solar_panel>, <immersiveengineering:wirecoil>],
-[<enderio:item_basic_capacitor>, <minecraft:daylight_detector>, <enderio:item_basic_capacitor>]]);
-
-#改良型太陽電池
 recipes.remove(<enderio:block_solar_panel:2>);
-recipes.addShaped(<enderio:block_solar_panel:2>,
-[[<enderio:item_alloy_ingot:5>, <enderio:block_enlightened_fused_quartz>, <enderio:item_alloy_ingot:5>],
-[<enderio:item_alloy_ingot:1>, <immersiveengineering:material:18>, <enderio:item_alloy_ingot:1>],
-[<enderio:item_basic_capacitor:1>, <enderio:block_solar_panel:1>, <enderio:item_basic_capacitor:1>]]);
-
-#ヴァイブラント太陽電池
 recipes.remove(<enderio:block_solar_panel:3>);
-recipes.addShaped(<enderio:block_solar_panel:3>,
-[[<enderio:item_alloy_ingot:2>, <enderio:block_dark_fused_quartz>, <enderio:item_alloy_ingot:2>],
-[<enderio:item_alloy_ingot:2>, <ore:glowstone>, <enderio:item_alloy_ingot:2>],
-[<enderio:item_basic_capacitor:2>, <enderio:block_solar_panel:2>, <enderio:item_basic_capacitor:2>]]);
 
 #合金精錬機
 recipes.remove(<enderio:block_alloy_smelter>);
