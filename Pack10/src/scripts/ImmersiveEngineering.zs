@@ -66,4 +66,5 @@ mods.immersiveengineering.Excavator.removeMineral("Cinnabar");
 mods.immersiveengineering.Excavator.removeMineral("Coal");
 mods.immersiveengineering.Excavator.removeMineral("Silt");
 
+recipes.remove(<immersivepetroleum:metal_device:1>);
 print("Initialized 'ImmersiveEngineering.zs'");
