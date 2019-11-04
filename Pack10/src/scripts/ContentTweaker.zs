@@ -74,3 +74,11 @@ var oreVenerium = VanillaFactory.createBlock("venerium_ore", <blockmaterial:rock
 oreVenerium.setBlockSoundType(<soundtype:stone>);
 #oreVenerium.setCreativeTab(Muscari);
 oreVenerium.register();
+
+
+#Misc
+var fluffyFur = VanillaFactory.createItem("misc_fluffy_fur");
+fluffyFur.register();
+
+var stickyMucus = VanillaFactory.createItem("misc_sticky_mucus");
+stickyMucus.register();
