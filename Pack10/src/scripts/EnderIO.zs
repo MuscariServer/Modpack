@@ -120,6 +120,8 @@ recipes.addShaped(<enderio:item_material>,
 
 #工業用マシンシャーシ
 recipes.remove(<enderio:item_material:1>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_material:1>);
+mods.thermalexpansion.InductionSmelter.removeRecipe(<enderio:item_material>, <enderio:item_material:51>);
 recipes.addShaped(<enderio:item_material:1>,
 [[<redstonearsenal:material:128>, <enderio:item_basic_capacitor>, <redstonearsenal:material:128>],
 [<forestry:thermionic_tubes:11>, <enderio:item_material>, <forestry:thermionic_tubes:11>],
