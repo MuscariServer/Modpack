@@ -64,4 +64,8 @@ recipes.remove(<lootbags:loot_storage>);
 <lootbags:itemlootbag:1>.displayName = "§9ME Lootbag";
 <lootbags:itemlootbag:2>.displayName = "§dHighclass Lootbag";
 <lootbags:itemlootbag:4>.displayName = "§cVoting Lootbag";
+
+#Harvestcraft
+recipes.remove(<harvestcraft:watertrap>);
+
 print("Initialized 'Misc.zs'");
