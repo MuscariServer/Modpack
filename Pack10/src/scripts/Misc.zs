@@ -60,4 +60,8 @@ recipes.remove(<lootbags:loot_opener>);
 recipes.remove(<lootbags:loot_recycler>);
 recipes.remove(<lootbags:loot_storage>);
 <contenttweaker:hazure_common>.displayName = "Hazure";
+<lootbags:itemlootbag>.displayName = "§6Goldenhead Lootbag";
+<lootbags:itemlootbag:1>.displayName = "§9ME Lootbag";
+<lootbags:itemlootbag:2>.displayName = "§dHighclass Lootbag";
+<lootbags:itemlootbag:4>.displayName = "§cVoting Lootbag";
 print("Initialized 'Misc.zs'");
