@@ -59,5 +59,5 @@ recipes.remove(<simplyjetpacks:metaitem:4>);
 recipes.remove(<lootbags:loot_opener>);
 recipes.remove(<lootbags:loot_recycler>);
 recipes.remove(<lootbags:loot_storage>);
-<lootbags:itemlootbag:4>.displayName = "Voting Lootbag";
+<contenttweaker:hazure_common>.displayName = "Hazure";
 print("Initialized 'Misc.zs'");
