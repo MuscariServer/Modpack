@@ -119,4 +119,11 @@ mods.thermalexpansion.Crucible.removeRecipe(<thermalfoundation:ore_fluid>);
 
 mods.thermalexpansion.Compactor.addMintRecipe(<railcraft:plate:10>, <railcraft:ingot:8>, 4000);
 mods.thermalexpansion.Compactor.addMintRecipe(<railcraft:plate:11>, <railcraft:ingot:9>, 4000);
+
+#Phytogenic Insolator is OP :(
+recipes.remove(<thermalexpansion:machine:4>);
+
+#Aquatic Entangler
+recipes.remove(<thermalexpansion:device:4>);
+
 print("Initialized 'ThermalExpansion.zs'");
