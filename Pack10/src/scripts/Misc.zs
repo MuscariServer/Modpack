@@ -5,7 +5,6 @@ import mods.appliedenergistics2.Inscriber;
 
 print("Initializing 'Misc.zs'...");
 recipes.remove(<telepads:telepad>);
-recipes.remove(<harvestcraft:market>);
 recipes.remove(<twilightforest:uncrafting_table>);
 #Hearts
 recipes.remove(<bhc:red_heart_canister>);
