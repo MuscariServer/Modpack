@@ -7,14 +7,14 @@ print("Initializing 'Botania.zs'...");
 <botania:lexicon>.addTooltip(format.red("[WIP] Not 100% accurate!"));
 
 #Petal Apothecary Tooltip
-<botania:altar>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
-<botania:altar:1>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
-<botania:altar:2>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
-<botania:altar:3>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
-<botania:altar:4>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
-<botania:altar:5>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
-<botania:altar:6>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
-<botania:altar:8>.addTooltip(format.red(This recipe has been removed! Taiga Petal Apothecary is only available.));
+<botania:altar>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
+<botania:altar:1>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
+<botania:altar:2>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
+<botania:altar:3>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
+<botania:altar:4>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
+<botania:altar:5>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
+<botania:altar:6>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
+<botania:altar:8>.addTooltip(format.red("This recipe has been removed! Taiga Petal Apothecary is only available."));
 
 #Petal Apothecary
 recipes.remove(<botania:altar>);
