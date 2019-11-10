@@ -67,4 +67,12 @@ mods.immersiveengineering.Excavator.removeMineral("Coal");
 mods.immersiveengineering.Excavator.removeMineral("Silt");
 
 recipes.remove(<immersivepetroleum:metal_device:1>);
+
+#HV Capacitor
+recipes.remove(<immersiveengineering:metal_decoration0:2>);
+recipes.addShaped(<immersiveengineering:metal_decoration0:2>, [
+[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>], 
+[<ore:ingotInvar>, <ore:blockLead>, <ore:ingotInvar>], 
+[<ore:plankTreatedWood>, <ore:blockRedstone>, <ore:plankTreatedWood>]]);
+
 print("Initialized 'ImmersiveEngineering.zs'");
