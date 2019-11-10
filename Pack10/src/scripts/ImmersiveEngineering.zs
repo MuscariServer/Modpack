@@ -69,6 +69,6 @@ mods.immersiveengineering.Excavator.removeMineral("Silt");
 recipes.remove(<immersivepetroleum:metal_device:1>);
 
 recipes.addShapeless(<immersiveengineering:metal:1>, [<ore:ingotInvar>]);
-recipes.addShapeless(<thermalfoundation:material:162>, [<ore:Aluminum>]);
+recipes.addShapeless(<thermalfoundation:material:162>, [<ore:ingotAluminum>]);
 
 print("Initialized 'ImmersiveEngineering.zs'");
