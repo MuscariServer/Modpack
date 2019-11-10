@@ -68,30 +68,7 @@ mods.immersiveengineering.Excavator.removeMineral("Silt");
 
 recipes.remove(<immersivepetroleum:metal_device:1>);
 
-#HV Capacitor
-recipes.remove(<immersiveengineering:metal_device0:2>);
-recipes.addShaped(<immersiveengineering:metal_device0:2>, [
-[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>], 
-[<ore:ingotInvar>, <ore:blockLead>, <ore:ingotInvar>], 
-[<ore:plankTreatedWood>, <ore:blockRedstone>, <ore:plankTreatedWood>]]);
+recipes.addShapeless(<immersiveengineering:metal:1>, [<ore:ingotInvar>]);
+recipes.addShapeless(<thermalfoundation:material:162>, [<ore:Aluminum>]);
 
-#BluePrint
-recipes.remove(<immersiveengineering:blueprint>.withTag({blueprint: "components"}));
-recipes.addShaped(<immersiveengineering:blueprint>.withTag({blueprint: "components"}), [
-[<ore:ingotCopper>, <ore:ingotInvar>, <ore:ingotIron>], 
-[<ore:dyeBlue>, <ore:dyeBlue>, <ore:dyeBlue>], 
-[<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]]);
-
-#HV
-recipes.remove(<immersiveengineering:connector:4>);
-recipes.remove(<immersiveengineering:connector:5>);
-recipes.addShaped(<immersiveengineering:connector:4>, [
-[null, <ore:ingotInvar>, null], 
-[<minecraft:hardened_clay>, <ore:ingotInvar>, <minecraft:hardened_clay>], 
-[<minecraft:hardened_clay>, <ore:ingotInvar>, <minecraft:hardened_clay>]]);
-
-recipes.addShaped(<immersiveengineering:connector:5>, [
-[null, <ore:ingotInvar>, null], 
-[<immersiveengineering:stone_decoration:8>, <ore:ingotInvar>, <immersiveengineering:stone_decoration:8>], 
-[<immersiveengineering:stone_decoration:8>, <ore:ingotInvar>, <immersiveengineering:stone_decoration:8>]]);
 print("Initialized 'ImmersiveEngineering.zs'");
