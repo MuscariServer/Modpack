@@ -33,4 +33,7 @@ mods.tconstruct.Melting.removeRecipe(<liquid:invar>, <railcraft:rail:4>);
 mods.tconstruct.Melting.removeRecipe(<liquid:copper>, <railcraft:rail:5>);
 mods.tconstruct.Melting.removeRecipe(<liquid:steel>, <railcraft:rail:5>);
 mods.tconstruct.Melting.removeRecipe(<liquid:electrical_steel>, <railcraft:rail:5>);
+
+mods.tconstruct.Alloy.removeRecipe(<liquid:alumite>);
+mods.tconstruct.Alloy.addRecipe(<liquid:alumite> * 3, [<liquid:iron> * 2, <liquid:obsidian> * 2, <liquid:lead> * 5]);
 print("Initialized 'TCon.zs'");
