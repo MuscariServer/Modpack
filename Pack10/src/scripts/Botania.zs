@@ -223,4 +223,8 @@ recipes.remove(<botania:terrapick>);
 recipes.remove(<extrabotany:managenerator>);
 recipes.remove(<extrabotany:manaliquefaction>);
 
+#Disable Gilded Potato
+mods.botania.RuneAltar.removeRecipe(<extrabotany:material:2>);
+mods.botania.RuneAltar.addRecipe(<extrabotany:material:2>,[<botania:manaresource:0>, <botania:manaresource:2>, <botania:manaresource:9>, <botania:manaresource:7>, <botania:manaresource:4>, <botania:manaresource:14>], 1000000);
+
 print("Initialized 'botania.zs'");
