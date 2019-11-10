@@ -68,11 +68,7 @@ mods.immersiveengineering.Excavator.removeMineral("Silt");
 
 recipes.remove(<immersivepetroleum:metal_device:1>);
 
-#HV Capacitor
-recipes.remove(<immersiveengineering:metal_device0:2>);
-recipes.addShaped(<immersiveengineering:metal_device0:2>, [
-[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>], 
-[<ore:ingotInvar>, <ore:blockLead>, <ore:ingotInvar>], 
-[<ore:plankTreatedWood>, <ore:blockRedstone>, <ore:plankTreatedWood>]]);
+recipes.addShapeless(<immersiveengineering:metal:1>, [<ore:ingotInvar>]);
+recipes.addShapeless(<thermalfoundation:material:162>, [<ore:ingotAluminum>]);
 
 print("Initialized 'ImmersiveEngineering.zs'");
