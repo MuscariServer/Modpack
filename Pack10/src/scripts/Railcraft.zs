@@ -1,6 +1,12 @@
 recipes.remove(<railcraft:firestone_cut>);
 recipes.remove(<railcraft:equipment>);
 
+#anchor&worldspike
+recipes.remove(<railcraft:worldspike:1>);
+recipes.remove(<railcraft:worldspike:2>);
+recipes.remove(<railcraft:worldspike:3>);
+recipes.remove(<railcraft:worldspike_point>);
+
 recipes.remove(<minecraft:minecart>);
 recipes.addShaped(<minecraft:minecart>, [
 [null, null, null],
