@@ -13,6 +13,6 @@ recipes.remove(<projectred-exploration:peridot_saw>);
 
 #Silicon
 recipes.remove(<projectred-core:resource_item:301>);
-recipes.addShapeless(<projectred-core:resource_item:301>, [<bibliocraft:framingsaw>.giveBack(<bibliocraft:framingsaw>), <projectred-core:resource_item:300>]);
+mods.thermalexpansion.Sawmill.addRecipe(<projectred-core:resource_item:301>, <projectred-core:resource_item:300>, 1500);
 
 print("Initialized 'ProjectRed.zs'");
