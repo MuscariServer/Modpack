@@ -70,5 +70,7 @@ recipes.remove(<immersivepetroleum:metal_device:1>);
 
 recipes.addShapeless(<immersiveengineering:metal:1>, [<ore:ingotInvar>]);
 recipes.addShapeless(<thermalfoundation:material:162>, [<ore:ingotAluminum>]);
+recipes.addShapeless(<railcraft:ingot:8>, [<ore:ingotInvar>]);
+recipes.addShapeless(<thermalfoundation:material:162>, [<ore:ingotZinc>]);
 
 print("Initialized 'ImmersiveEngineering.zs'");
