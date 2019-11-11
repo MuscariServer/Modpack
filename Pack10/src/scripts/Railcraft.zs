@@ -157,3 +157,6 @@ recipes.addShapeless(<railcraft:track_parts>,
 
 recipes.addShapeless(<railcraft:track_parts>,
 [<ore:nuggetSteel>]);
+
+#Steam
+recipes.remove(<railcraft:steam_turbine>);
