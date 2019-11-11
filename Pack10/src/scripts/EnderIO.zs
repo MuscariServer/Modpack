@@ -168,3 +168,6 @@ recipes.addShaped(<enderio:item_material:13>,
 [[<enderio:item_alloy_nugget:2>, <enderio:item_alloy_ingot:2>, <enderio:item_alloy_nugget:2>],
 [<enderio:item_alloy_ingot:2>, <enderio:item_material:73>, <enderio:item_alloy_ingot:2>],
 [<enderio:item_alloy_nugget:2>, <enderio:item_alloy_ingot:2>, <enderio:item_alloy_nugget:2>]]);
+
+#Exchanger
+(<enderio:block_lava_generator>);
