@@ -277,4 +277,11 @@ recipes.remove(<mekanism:basicblock2:8>);
 #太陽中性子反応機
 recipes.remove(<mekanism:machineblock3:1>);
 
+#Rotary Condensentrator
+recipes.remove(<mekanism:machineblock2>);
+recipes.addShaped(<mekanism:machineblock2>, [
+[<ore:blockGlass>, <mekanism:controlcircuit>, <ore:blockGlass>], 
+[<mekanism:gastank>.withTag({tier: 0}), <mekanism:energytablet>, <thermalexpansion:tank>.withTag({RSControl: 0 as byte, Creative: 0 as byte, Level: 1 as byte})], 
+[<ore:blockGlass>, <mekanism:controlcircuit>, <ore:blockGlass>]]);
+
 print("Initialized 'Mekanism.zs'");
