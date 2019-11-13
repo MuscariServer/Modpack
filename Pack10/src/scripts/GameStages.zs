@@ -240,7 +240,6 @@ mods.ItemStages.addItemStage("Crime_Stage", <minecraft:stone_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_hoe>);
-mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:diamond_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:diamond_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:diamond_hoe>);
