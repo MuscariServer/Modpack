@@ -6,19 +6,19 @@ print("Initializing 'SimplyJetpacks2.zs'...");
 recipes.remove(<simplyjetpacks:metaitemmods:26>);
 recipes.addShaped(<simplyjetpacks:metaitemmods:26>, [
 [<ore:ingotLead>, <thermalfoundation:material:513>, <ore:ingotLead>],
-[<thermaldynamics:duct_0>, <thermalexpansion:dynamo:3>, <thermaldynamics:duct_0>],
+[<thermaldynamics:duct_0>, <enderio:block_cap_bank:1>, <thermaldynamics:duct_0>],
 [<ore:ingotLead>, <minecraft:redstone>, <ore:ingotLead>]]);
 
 recipes.remove(<simplyjetpacks:metaitemmods:27>);
 recipes.addShaped(<simplyjetpacks:metaitemmods:27>, [
 [<ore:ingotInvar>, <enderio:item_basic_capacitor:1>, <ore:ingotInvar>],
-[<thermaldynamics:duct_0:1>, <thermalexpansion:dynamo>, <thermaldynamics:duct_0:1>],
+[<thermaldynamics:duct_0:1>, <enderio:block_cap_bank:2>, <thermaldynamics:duct_0:1>],
 [<ore:ingotInvar>, <minecraft:redstone>, <ore:ingotInvar>]]);
 
 recipes.remove(<simplyjetpacks:metaitemmods:28>);
 recipes.addShaped(<simplyjetpacks:metaitemmods:28>, [
 [<ore:ingotElectrum>, <thermalfoundation:material:1024>, <ore:ingotElectrum>],
-[<thermaldynamics:duct_0:3>, <enderio:block_combustion_generator>, <thermaldynamics:duct_0:3>],
+[<thermaldynamics:duct_0:3>, <enderio:block_cap_bank:3>, <thermaldynamics:duct_0:3>],
 [<ore:ingotLumium>, 
 <forge:bucketfilled>.withTag({FluidName: "rocket_fuel", Amount: 1000}).onlyWithTag({FluidName: "rocket_fuel", Amount: 1000}), 
 <ore:ingotLumium>]]);
