@@ -90,19 +90,15 @@ recipes.remove(<forestry:bronze_shovel>);
 
 #The Betweenlands
 recipes.remove(<thebetweenlands:weedwood_pickaxe>);
-recipes.remove(<thebetweenlands:weedwood_shovel>);
 recipes.remove(<thebetweenlands:weedwood_axe>);
 recipes.remove(<thebetweenlands:weedwood_sword>);
 recipes.remove(<thebetweenlands:bone_pickaxe>);
-recipes.remove(<thebetweenlands:bone_shovel>);
 recipes.remove(<thebetweenlands:bone_axe>);
 recipes.remove(<thebetweenlands:bone_sword>);
 recipes.remove(<thebetweenlands:octine_pickaxe>);
-recipes.remove(<thebetweenlands:octine_shovel>);
 recipes.remove(<thebetweenlands:octine_axe>);
 recipes.remove(<thebetweenlands:octine_sword>);
 recipes.remove(<thebetweenlands:valonite_pickaxe>);
-recipes.remove(<thebetweenlands:valonite_shovel>);
 recipes.remove(<thebetweenlands:valonite_axe>);
 recipes.remove(<thebetweenlands:valonite_sword>);
 
