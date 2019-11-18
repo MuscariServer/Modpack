@@ -282,19 +282,15 @@ mods.ItemStages.addItemStage("Crime_Stage", <projectred-exploration:peridot_swor
 mods.ItemStages.addItemStage("Crime_Stage", <forestry:bronze_pickaxe>);
 mods.ItemStages.addItemStage("Crime_Stage", <forestry:bronze_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:weedwood_pickaxe>);
-mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:weedwood_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:weedwood_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:weedwood_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:bone_pickaxe>);
-mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:bone_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:bone_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:bone_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:octine_pickaxe>);
-mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:octine_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:octine_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:octine_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:valonite_pickaxe>);
-mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:valonite_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:valonite_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <thebetweenlands:valonite_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <thermalfoundation:tool.pickaxe_copper>);
@@ -367,6 +363,7 @@ mods.ItemStages.addItemStage("Crime_Stage", <projectred-exploration:peridot_saw>
 mods.ItemStages.addItemStage("Crime_Stage", <tconstruct:throwball:1>);
 mods.ItemStages.addItemStage("Crime_Stage", <immersiveengineering:metal_device1:13>);
 
+mods.orestages.OreStages.addReplacementById("Crime_Stage", "engineersdecor:small_solar_panel", "appliedenergistics2:creative_energy_cell");
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "thermalexpansion:machine:13", "minecraft:bedrock");
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "enderio:block_enchanter", "minecraft:bedrock");
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "appliedenergistics2:quantum_ring", "minecraft:bedrock");

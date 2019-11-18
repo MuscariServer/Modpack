@@ -73,4 +73,5 @@ recipes.addShapeless(<thermalfoundation:material:162>, [<ore:ingotAluminum>]);
 recipes.addShapeless(<railcraft:ingot:8>, [<ore:ingotInvar>]);
 recipes.addShapeless(<thermalfoundation:material:162>, [<ore:ingotZinc>]);
 
+recipes.remove(<engineersdecor:small_solar_panel>);
 print("Initialized 'ImmersiveEngineering.zs'");
