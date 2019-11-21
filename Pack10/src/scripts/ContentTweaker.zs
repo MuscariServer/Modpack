@@ -82,3 +82,22 @@ fluffyFur.register();
 
 var stickyMucus = VanillaFactory.createItem("misc_sticky_mucus");
 stickyMucus.register();
+
+#Kamesteel
+var ks = VanillaFactory.createItem("ingot_kamesteel");
+ks.register();
+
+var ksb = VanillaFactory.createBlock("block_kamesteel", <blockmaterial:iron>);
+ksb.setBlockSoundType(<soundtype:metal>);
+ksb.register();
+
+var fks = VanillaFactory.createFluid("molten_kamesteel", Color.fromHex("FFFFFF"));
+fks.stillLocation = "contenttweaker:fluids/fluid";
+fks.flowingLocation = "contenttweaker:fluids/fluid_flow";
+fks.register();
+
+var silkmesh = VanillaFactory.createItem("mesh");
+silkmesh.register();
+
+var sieve = VanillaFactory.createItem("sieve");
+sieve.register();
