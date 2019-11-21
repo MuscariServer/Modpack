@@ -67,4 +67,6 @@ recipes.remove(<lootbags:loot_storage>);
 #Harvestcraft
 recipes.remove(<harvestcraft:watertrap>);
 
+#Void
+recipes.remove(<simplevoidworld:portal>);
 print("Initialized 'Misc.zs'");
