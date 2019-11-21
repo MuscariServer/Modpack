@@ -69,4 +69,24 @@ recipes.remove(<harvestcraft:watertrap>);
 
 #Void
 recipes.remove(<simplevoidworld:portal>);
+
+#Kamesteel
+mods.tconstruct.Melting.addRecipe(<liquid:molten_kamesteel> * 144,<contenttweaker:ingot_kamesteel>);
+mods.tconstruct.Melting.addRecipe(<liquid:molten_kamesteel> * 1296,<contenttweaker:block_kamesteel>);
+mods.tconstruct.Casting.addTableRecipe(<contenttweaker:ingot_kamesteel>, <tconstruct:cast_custom>, <liquid:molten_kamesteel>, 140, false);
+mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:block_kamesteel>, <tconstruct:cast_custom>, <liquid:molten_kamesteel>, 140, false);
+
+recipes.addShaped(<contenttweaker:mesh>, [
+[<minecraft:string>, <minecraft:string>, <minecraft:string>], 
+[<minecraft:string>, <minecraft:string>, <minecraft:string>], 
+[<minecraft:string>, <minecraft:string>, <minecraft:string>]]);
+
+recipes.addShaped(<contenttweaker:sieve>, [
+[<minecraft:planks:*>, <contenttweaker:mesh>, <minecraft:planks:*>], 
+[<minecraft:planks:*>, <contenttweaker:mesh>, <minecraft:planks:*>], 
+[<minecraft:stick>, null, <minecraft:stick>]]);
+
+mods.botania.RuneAltar.addRecipe(<contenttweaker:ingot_kamesteel>, [<botania:manaresource:4>, <contenttweaker:sieve>], 1);
+mods.botania.RuneAltar.addRecipe(<contenttweaker:ingot_kamesteel>*2, [<contenttweaker:ingot_kamesteel>], 1);
+
 print("Initialized 'Misc.zs'");
