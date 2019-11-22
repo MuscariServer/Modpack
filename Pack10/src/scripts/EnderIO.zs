@@ -84,6 +84,7 @@ recipes.remove(<enderio:block_solar_panel>);
 recipes.remove(<enderio:block_solar_panel:1>);
 recipes.remove(<enderio:block_solar_panel:2>);
 recipes.remove(<enderio:block_solar_panel:3>);
+recipes.remove(<enderio:block_lava_generator>);
 
 #合金精錬機
 recipes.remove(<enderio:block_alloy_smelter>);
