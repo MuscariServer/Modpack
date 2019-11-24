@@ -17,3 +17,7 @@ item.contenttweaker.hazure_epic.name=[ハズレ] Rank:Epic
 item.contenttweaker.voting_ticket.name=Gratitude Ticket
 item.contenttweaker.misc_fluffy_fur.name=ふわふわの毛皮
 item.contenttweaker.misc_sticky_mucus.name=べとつく粘液
+item.contenttweaker.ingot_kamesteel.name=Kamesteel Ingot
+item.contenttweaker.mesh.name=Silk Mesh
+item.contenttweaker.sieve.name=Sieve
+tile.contenttweaker.block_kamesteel.name=Block of Kamesteel
