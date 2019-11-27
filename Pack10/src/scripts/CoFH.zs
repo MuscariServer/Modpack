@@ -83,6 +83,7 @@ recipes.addShaped(<thermalexpansion:augment:512>, [
 [null, <ore:gearSilver>, null],
 [<ore:plateSilver>, <thermalfoundation:material:514>, <ore:plateSilver>],
 [<forestry:thermionic_tubes:4>, <forestry:chipsets:1>.withTag({T: 1 as short}), <forestry:thermionic_tubes:4>]]);
+recipes.remove(<thermalexpansion:augment:336>);
 
 #Steel
 #mods.thermalexpansion.InductionSmelter.removeRecipe(<minecraft:iron_ingot>, <enderio:item_material:23> * 4);
