@@ -89,4 +89,22 @@ recipes.addShaped(<contenttweaker:sieve>, [
 mods.botania.RuneAltar.addRecipe(<contenttweaker:ingot_kamesteel>, [<botania:manaresource:4>, <contenttweaker:sieve>], 1);
 mods.botania.RuneAltar.addRecipe(<contenttweaker:ingot_kamesteel>*2, [<contenttweaker:ingot_kamesteel>], 1);
 
+#Sakura
+recipes.remove(<sakura:stone_mortar>);
+
+recipes.addShapeless(<sakura:materials:1>,
+[<sakura:rice_seeds>, <sakura:rice_seeds>, <sakura:rice_seeds>, <sakura:rice_seeds>]);
+
+recipes.addShapeless(<sakura:materials:16>,
+[<sakura:materials:1>, <sakura:materials:1>]);
+
+recipes.addShaped(<sakura:foodset:80>*2, [
+[<ore:listAllfishfresh>, <ore:listAllfishfresh>, null], 
+[<minecraft:potato>, <ore:listAllegg>, null], 
+[null, null, null]]);
+
+recipes.addShapeless(<sakura:materials:30>*1, [<minecraft:bread>]);
+
+recipes.addShapeless(<sakura:materials:30>*2, [<sakura:foodset:4>]);
+
 print("Initialized 'Misc.zs'");

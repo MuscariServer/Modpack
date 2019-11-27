@@ -141,6 +141,7 @@ mods.orestages.OreStages.addReplacementById("AE2_Stage", "appliedenergistics2:pa
 mods.orestages.OreStages.addReplacementById("AE2_Stage", "appliedenergistics2:part:340", "minecraft:bedrock");
 
 #Crime_Stage
+mods.ItemStages.addItemStage("Crime_Stage", <sakura:stone_mortar>);
 mods.ItemStages.addItemStage("Crime_Stage", <botania:infinitefruit>);
 mods.ItemStages.addItemStage("Crime_Stage", <botania:infinitefruit>.withTag({soulbindUUID: ""}));
 mods.ItemStages.addItemStage("Crime_Stage", <extrabotany:buddhistrelics>.withTag({soulbindUUID: ""}));
@@ -240,7 +241,6 @@ mods.ItemStages.addItemStage("Crime_Stage", <minecraft:stone_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_hoe>);
-mods.ItemStages.addItemStage("Crime_Stage", <minecraft:golden_sword>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:diamond_shovel>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:diamond_axe>);
 mods.ItemStages.addItemStage("Crime_Stage", <minecraft:diamond_hoe>);
@@ -364,6 +364,7 @@ mods.ItemStages.addItemStage("Crime_Stage", <projectred-exploration:peridot_saw>
 mods.ItemStages.addItemStage("Crime_Stage", <tconstruct:throwball:1>);
 mods.ItemStages.addItemStage("Crime_Stage", <immersiveengineering:metal_device1:13>);
 
+mods.orestages.OreStages.addReplacementById("Crime_Stage", "sakura:stone_mortar", "minecraft:bedrock");
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "engineersdecor:small_solar_panel", "appliedenergistics2:creative_energy_cell");
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "thermalexpansion:machine:13", "minecraft:bedrock");
 mods.orestages.OreStages.addReplacementById("Crime_Stage", "enderio:block_enchanter", "minecraft:bedrock");
