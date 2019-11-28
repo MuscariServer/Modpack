@@ -20,7 +20,7 @@ recipes.removeByRecipeName("mekanism:atomicdisassembler");
 recipes.removeByRecipeName("mekanism:jetpack");
 recipes.addShaped(<mekanism:jetpack>.withTag({mekData: {}}), [
 [<mekanism:ingot:3>, <mekanism:controlcircuit:2>, <mekanism:ingot:3>],
-[<ore:ingotSteel>, <mekanism:gastank>.withTag({tier: 0, mekData: {}}), <ore:ingotSteel>],
+[<ore:ingotSteel>, <mekanism:gastank>.withTag({tier: 0}), <ore:ingotSteel>],
 [null, <forge:bucketfilled>.withTag({FluidName: "pyrotheum", Amount: 1000}).transformReplace(<minecraft:bucket>), null]]);
 
 recipes.removeByRecipeName("mekanism:rail");
