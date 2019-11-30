@@ -46,7 +46,8 @@ recipes.remove(<enderio:item_staff_of_levity>);
 mods.enderio.AlloySmelter.removeRecipe(<enderio:item_material:3>);
 mods.enderio.AlloySmelter.addRecipe(<enderio:item_material:3>, [<enderio:item_material:38> * 5], 15000);
 
-recipes.remove(<enderio:block_transceiver>);
+#ディメンショナルトランシーバー
+#recipes.remove(<enderio:block_transceiver>);
 
 #ベーシックコンデンサー
 recipes.remove(<enderio:item_basic_capacitor>);
