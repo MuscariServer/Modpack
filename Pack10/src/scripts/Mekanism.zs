@@ -261,6 +261,10 @@ mods.biggercraftingtables.Big.addShaped(<mekanism:machineblock2:3>,
 
 #量子もつれ転送機
 recipes.remove(<mekanism:machineblock3>);
+recipes.addShaped(<mekanism:machineblock3>,
+[[<mekanism:ingot>, <mekanism:controlcircuit:3>, <mekanism:ingot>],
+[<ore:blockGlassHardened>, <mekanism:teleportationcore>, <ore:blockGlassHardened>],
+[<mekanism:ingot>, <mekanism:machineblock:13>, <mekanism:ingot>]]);
 
 #テレポーターフレーム
 recipes.remove(<mekanism:basicblock:7>);
