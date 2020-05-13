@@ -56,7 +56,7 @@ recipes.remove(<rftools:space_chamber_controller>);
 recipes.remove(<rftools:space_chamber>);
 recipes.remove(<rftools:machine_infuser>);
 recipes.remove(<rftools:timer_block>);
-recipes.remove(<rftools:wire_block>>);
+recipes.remove(<rftools:wire_block>);
 recipes.remove(<rftools:digit_block>);
 recipes.remove(<rftools:analog_block>);
 recipes.remove(<rftools:sensor_block>);
