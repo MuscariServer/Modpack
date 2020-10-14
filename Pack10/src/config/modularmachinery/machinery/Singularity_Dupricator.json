@@ -1,0 +1,1286 @@
+{
+    "registryname": "Singularity_Dupricator",
+    "localizedname": "Singularity Dupricator",
+    "color": "d9edff",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "botania:pool@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:storage@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "nbt": {"tier":"4"},
+            "elements": [
+                "mekanism:energycube@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        }
+    ]}

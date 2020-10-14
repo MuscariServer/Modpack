@@ -1,0 +1,17 @@
+[
+    {
+        "mode": "ADD",
+        "result": "modularmachinery:blockfluidinputhatch,1,7",
+        "catalyst": "modularmachinery:blockfluidinputhatch,1,1",
+        "energy": 1000000000,
+        "tier": 3,
+        "ingredients": [
+            "botania:cosmetic,1,30",
+            "botania:cosmetic,1,30",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "avaritia:resource,1,5",
+            "avaritia:resource,1,5"
+        ]
+    }
+]

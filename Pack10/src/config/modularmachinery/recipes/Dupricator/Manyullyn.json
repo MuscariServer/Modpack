@@ -1,0 +1,19 @@
+{
+    "machine": "Singularity_Dupricator",
+    "registryName": "Coal5",
+    "recipeTime": 1200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extendedcrafting:singularity@66",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotManyullyn",
+            "amount": 1
+        }
+    ]
+}

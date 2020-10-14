@@ -1,0 +1,71 @@
+{
+  "config_version": {
+    "id": "__default",
+    "version": 0
+  },
+  "dimensions": [
+    {
+      "dim": -1,
+      "worldinfo": {
+        "SpawnY": "61",
+        "BorderCenterX": "0",
+        "BorderCenterZ": "0",
+        "GameRules": {
+          "spawnX": "0",
+          "spawnY": "109",
+          "spawnZ": "82"
+        }
+      }
+    },
+    {
+      "dim": 9,
+      "dimensiontype": {
+        "id": 9,
+        "name": "Development",
+        "suffix": "_dim9",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo": {},
+      "worldinfo_onetime": {
+        "generatorName": "flat",
+        "generatorOptions": "3;minecraft:bedrock,3*minecraft:stone,52*minecraft:sandstone;2;"
+      }
+    },
+    {
+      "dim": 10,
+      "dimensiontype": {
+        "id": 10,
+        "name": "CityLands",
+        "suffix": "_dim10",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "jed": {
+        "CloudHeight": "15"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "flat",
+        "generatorOptions": "3;minecraft:air;1;"
+      }
+    },
+    {
+      "dim": 700,
+      "dimensiontype": {
+        "id": 700,
+        "name": "Custom_shyrelands",
+        "suffix": "_dim700",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "jed": {
+        "CloudHeight": "15",
+        "CloudColor": "ffaaaa"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "flat",
+        "generatorOptions": "3;minecraft:air;60;"
+      }
+    }
+  ]
+}

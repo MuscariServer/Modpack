@@ -1,0 +1,509 @@
+{
+    "registryname": "Assembler_Tier3",
+    "localizedname": "Assembler Tier3",
+    "color": "696969",
+    "parts": [
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "magneticraft:multiblock_parts@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:block_of_gaia@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "psi:psi_decorative@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:cooler@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "psi:psi_decorative@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "environmentaltech:aethium@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:block_of_electrotine_alloy@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:block_of_gaia@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:block_of_electrotine_alloy@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "magneticraft:multiblock_parts@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:block_of_electrotine_alloy@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "environmentaltech:aethium@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:cooler@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "nbt": {"conveyorBeltSubtypeNBT":{"dyeColour":"-1","direction":"0"},"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"facing":"4","conveyorBeltSubtype":"immersiveengineering:conveyor","id":"immersiveengineering:conveyorbelt"},
+            "elements": [
+                "immersiveengineering:conveyor@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "nbt": {"conveyorBeltSubtypeNBT":{"dyeColour":"-1","direction":"0"},"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"facing":"4","conveyorBeltSubtype":"immersiveengineering:conveyor","id":"immersiveengineering:conveyorbelt"},
+            "elements": [
+                "immersiveengineering:conveyor@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "nbt": {"conveyorBeltSubtypeNBT":{"dyeColour":"-1","direction":"0"},"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"facing":"4","conveyorBeltSubtype":"immersiveengineering:conveyor","id":"immersiveengineering:conveyorbelt"},
+            "elements": [
+                "immersiveengineering:conveyor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "nbt": {"conveyorBeltSubtypeNBT":{"dyeColour":"-1","direction":"0"},"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"facing":"4","conveyorBeltSubtype":"immersiveengineering:conveyor","id":"immersiveengineering:conveyorbelt"},
+            "elements": [
+                "immersiveengineering:conveyor@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "nbt": {"conveyorBeltSubtypeNBT":{"dyeColour":"-1","direction":"0"},"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"facing":"4","conveyorBeltSubtype":"immersiveengineering:conveyor","id":"immersiveengineering:conveyorbelt"},
+            "elements": [
+                "immersiveengineering:conveyor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "nbt": {"conveyorBeltSubtypeNBT":{"dyeColour":"-1","direction":"0"},"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"facing":"4","conveyorBeltSubtype":"immersiveengineering:conveyor","id":"immersiveengineering:conveyorbelt"},
+            "elements": [
+                "immersiveengineering:conveyor@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "nbt": {"conveyorBeltSubtypeNBT":{"dyeColour":"-1","direction":"0"},"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"facing":"4","conveyorBeltSubtype":"immersiveengineering:conveyor","id":"immersiveengineering:conveyorbelt"},
+            "elements": [
+                "immersiveengineering:conveyor@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "magneticraft:multiblock_parts@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:block_of_gaia@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "psi:psi_decorative@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "immersiveengineering:metal_decoration0@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "psi:psi_decorative@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:block_of_gaia@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "magneticraft:multiblock_parts@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "tp:reinforced_glass@0"
+            ]
+        }
+    ]}

@@ -1,0 +1,96 @@
+{
+    "machine": "Assembler_Tier5",
+    "registryName": "T4NuclearChassis5",
+    "recipeTime": 6000,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 32768
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "nuclearcraft:part@10",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotIron",
+            "amount": 27
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotCopper",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotAluminum",
+            "amount": 12
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotSteel",
+            "amount": 30
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotConstantan",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_alloy_ingot@9",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustBedrock",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:obsidian",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotTungsten",
+            "amount": 12
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustRedstone",
+            "amount": 16
+        },
+                {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotTough",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotGraphite",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotLead",
+            "amount": 4
+        }
+    ]
+}

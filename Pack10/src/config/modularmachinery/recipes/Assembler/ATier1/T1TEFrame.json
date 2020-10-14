@@ -1,0 +1,48 @@
+{
+    "machine": "Assembler_Tier1",
+    "registryName": "T1TEFrame",
+    "recipeTime": 6000,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 480
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalexpansion:frame",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotIron",
+            "amount": 11
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotCopper",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotSteel",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotConstantan",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gearConstantan",
+            "amount": 1
+        }
+    ]
+}
