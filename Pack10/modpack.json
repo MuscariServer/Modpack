@@ -99,7 +99,7 @@
         "name" : "ServerObserver",
         "description" : "サーバーを監視し通知することができます。<br>\nまた、自動的にログインをすることができます。",
         "recommendation" : null,
-        "selected" : true
+        "selected" : false
       },
       "files" : {
         "include" : [
@@ -184,7 +184,7 @@
         "name" : "Emojicord",
         "description" : "絵文字がマインクラフトで使えます。",
         "recommendation" : null,
-        "selected" : false
+        "selected" : true
       },
       "files" : {
         "include" : [
