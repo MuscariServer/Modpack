@@ -93,7 +93,7 @@
             "texture": "mainmenu:mcs_discordbutton.png",
             "action": {
                 "type": "openLink",
-                "link": "https://discord.gg/SEkeq2G"
+                "link": "https://discord.gg/mTbgeP8"
             }
         },
         "quit": {
@@ -131,13 +131,13 @@
             "width": 20,
             "height": 20,
             "alignment": "center",
-            "tooltip": "MCS Wiki",
+            "tooltip": "Muscari Wiki",
             "texture": "mainmenu:web.png",
             "imageWidth": "40",
             "imageHeight": "40",
             "action": {
                 "type": "openLink",
-                "link": "https://muscari-climate.game-info.wiki/"
+                "link": "https://muscari.fun/"
             }
         },
         "refresh": {
@@ -155,7 +155,7 @@
     },
     "labels": {
         "modpack": {
-            "text": "Muscari Server S7 Pack",
+            "text": "Muscari Server S9 Pack",
             "posX": 3,
             "posY": -31,
             "fontSize": 0.6,
