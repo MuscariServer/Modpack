@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3. org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes. xsd "><recipe name="Spawner, AoA3" required="false"> <spawning>
-<entity name="aoa3:*" disabled="true" soulvial="false" clone="true" /> </spawning>
-</recipe> <recipe name="Spawner, Aether_Legacy" required="false"> <spawning>
-<entity name="aether_legacy:*" disabled="true" soulvial="false" clone="true" /> </spawning>
-</recipe>
-</enderio:recipes>
