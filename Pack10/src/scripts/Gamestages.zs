@@ -147,7 +147,7 @@ mods.ItemStages.stageModItems("Age6", "rebornstorage");
 mods.ItemStages.stageModItems("Age6", "refinedstorageaddons");
 mods.ItemStages.stageModItems("Age6", "mysticalagradditions");
 mods.ItemStages.stageModItems("Age7", "nuclearcraft");
-mods.ItemStages.stageModItems("Age7", "psi");
+mods.ItemStages.stageModItems("Age6", "psi");
 mods.ItemStages.stageModItems("Age8", "extrabotany");
 mods.ItemStages.stageModItems("Age8", "draconicevolution");
 mods.ItemStages.stageModItems("Age9", "avaritia");
