@@ -194,3 +194,4 @@ recipes.remove(<thermalfoundation:material:293>);
 recipes.remove(<thermalfoundation:material:294>);
 recipes.remove(<thermalfoundation:material:295>);
 recipes.remove(<industrialforegoing:mob_duplicator>);
+recipes.remove(<huntingdim:frame>);
