@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Add
+recipes.addShaped(<agricraft:trowel>, [[null, null, <ore:stickwood>], [<minecraft:cobblestone>, <minecraft:cobblestone>, null]]);
 recipes.addShapeless(<waterstrainer:net>, [<ore:stickwood>, <minecraft:string>, <minecraft:string>, <minecraft:string>]);
 recipes.addShapeless(<tconstruct:materials:50> * 2, [<extendedcrafting:material:2>,<tconstruct:materials:50>]);
 recipes.addShaped(<nuclearcraft:part:8>, [[<thermalfoundation:material:167>, <thermalfoundation:material:167>, <thermalfoundation:material:230>],[<nuclearcraft:part:4>, <nuclearcraft:part:4>, <thermalfoundation:material:165>], [<thermalfoundation:material:167>, <thermalfoundation:material:167>, <thermalfoundation:material:230>]]);
