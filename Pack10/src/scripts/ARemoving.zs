@@ -28,7 +28,6 @@ recipes.removeByRecipeName("danknull:dank_null_3");
 recipes.removeByRecipeName("danknull:dank_null_4");
 recipes.removeByRecipeName("danknull:dank_null_5");
 recipes.remove(<minecraft:piston>);
-recipes.remove(<minecraft:chest>);
 recipes.remove(<minecraft:planks:*>);
 recipes.remove(<mekanism:basicblock:8>);
 recipes.remove(<mekanism:machineblock2:8>);
