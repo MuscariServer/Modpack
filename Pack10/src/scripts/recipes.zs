@@ -1,7 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Add
-recipes.addsharped(<minecraft:cobblestone>, [[<botania:manaresource:21>, <botania:manaresource:21>, null], [<botania:manaresource:21>, <botania:manaresource:21>, null]]);
+recipes.addshaped(<minecraft:cobblestone>, [[<botania:manaresource:21>, <botania:manaresource:21>, null], [<botania:manaresource:21>, <botania:manaresource:21>, null]]);
 recipes.addShapeless(<tconstruct:materials:50> * 2, [<extendedcrafting:material:2>,<tconstruct:materials:50>]);
 recipes.addShaped(<nuclearcraft:part:8>, [[<thermalfoundation:material:167>, <thermalfoundation:material:167>, <thermalfoundation:material:230>],[<nuclearcraft:part:4>, <nuclearcraft:part:4>, <thermalfoundation:material:165>], [<thermalfoundation:material:167>, <thermalfoundation:material:167>, <thermalfoundation:material:230>]]);
 recipes.addShaped(<nuclearcraft:part:4>, [[<immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>, null],[<immersiveengineering:material:1>, <immersiveengineering:material:1>, null], [<immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>, null]]);
