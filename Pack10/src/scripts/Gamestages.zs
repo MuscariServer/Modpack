@@ -219,6 +219,7 @@ mods.ItemStages.removeItemStage(<nuclearcraft:ore:3>);
 mods.ItemStages.removeItemStage(<nuclearcraft:ore:5>);
 mods.ItemStages.removeItemStage(<nuclearcraft:ore:6>);
 mods.ItemStages.removeItemStage(<nuclearcraft:ore:7>);
+mods.ItemStages.removeItemStage(<mysticalagradditions:stuff>);
 mods.ItemStages.addItemStage("Age1", <thermalfoundation:ore:1>);
 mods.ItemStages.addItemStage("Age1", <thermalfoundation:ore>);
 mods.ItemStages.addItemStage("Age1", <thermalfoundation:ore:3>);
