@@ -1,8 +1,8 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Add
-recipes.addShaped(<furnaceoverhaul:blank_upgrade>, [[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>], [<ore:ingotIron>, <ore:gemDiamond>, <ore:ingotIron>], [<ore:ingotIron>,　<ore:ingotIron>, <ore:ingotIron>]]);
-recipes.addShaped(<minecraft:comparator>, [[null, <minecraft:redstone_torch>, null], [<minecraft:redstone_torch>, <ore:ingotIron>, <minecraft:redstone_torch>], [<ore:stone>,　<ore:stone>, <ore:stone>]]);
+recipes.addShaped(<furnaceoverhaul:blank_upgrade>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],[<minecraft:iron_ingot>, <minecraft:diamond>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
+recipes.addShaped(<minecraft:comparator>, [[null, <minecraft:redstone_torch>, null],[<minecraft:redstone_torch>, <minecraft:iron_ingot>, <minecraft:redstone_torch>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
 recipes.addShapeless(<mysticalagriculture:crafting:5> * 4, [<mysticalagriculture:crafting:16>]);
 recipes.addShaped(<agricraft:trowel>, [[null, null, <ore:stickwood>], [<minecraft:cobblestone>, <minecraft:cobblestone>, null]]);
 recipes.addShapeless(<waterstrainer:net>, [<ore:stickwood>, <minecraft:string>, <minecraft:string>, <minecraft:string>]);
