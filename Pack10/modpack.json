@@ -139,7 +139,7 @@
     },
     {
       "properties" : {
-        "name" : "デフォルトオプション",
+        "name" : "Default Options",
         "description" : "NONE指定のキーコンフィグ",
         "recommendation" : null,
         "selected" : true
@@ -147,20 +147,6 @@
       "files" : {
         "include" : [
           "mods/DefaultOptions*"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
-        "name" : "VanillaFix",
-        "description" : "軽量化Mod",
-        "recommendation" : null,
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/VanillaFix*"
         ],
         "exclude" : [ ]
       }
@@ -189,6 +175,20 @@
       "files" : {
         "include" : [
           "mods/Emojicord*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "DebugServerInfo",
+        "description" : "サーバーの状態をHUDで見れます。",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/DebugServer*"
         ],
         "exclude" : [ ]
       }
