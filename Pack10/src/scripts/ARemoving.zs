@@ -7,8 +7,6 @@ mods.avaritia.ExtremeCrafting.remove(<avaritia:resource:5>);
 mods.extendedcrafting.TableCrafting.remove(<extendedcrafting:material:24>);
 mods.extendedcrafting.TableCrafting.remove(<extendedcrafting:singularity_ultimate>);
 mods.astralsorcery.Altar.removeAltarRecipe("astralsorcery:shaped/internal/altar/lightwell");
-mods.botania.ManaInfusion.removeRecipe(<botania:manaresource>);
-mods.botania.ManaInfusion.removeRecipe(<botania:manaresource:2>);
 mods.botania.ElvenTrade.removeRecipe(<botania:manaresource:7>);
 mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput(<enderio:item_alloy_endergy_ingot:1>);
 mods.magneticraft.SluiceBox.removeRecipe(<minecraft:sand>);
