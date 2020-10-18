@@ -163,7 +163,6 @@ recipes.remove(<immersiveengineering:metal:37>);
 recipes.remove(<immersiveengineering:metal:38>);
 recipes.remove(<immersiveengineering:metal:39>);
 recipes.remove(<immersiveengineering:metal:40>);
-recipes.remove(<botania:forestdrum>);
 recipes.remove(<botania:grasshorn>);
 recipes.remove(<draconicevolution:draconic_core>);
 recipes.remove(<draconicevolution:wyvern_core>);
