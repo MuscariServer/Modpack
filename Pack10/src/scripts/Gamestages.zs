@@ -1,7 +1,7 @@
 #Dimension Stages
 mods.DimensionStages.addDimensionStage("Age2", -1);
 mods.DimensionStages.addDimensionStage("Age4", 4);
-mods.DimensionStages.addDimensionStage("Age4", 1);
+mods.DimensionStages.addDimensionStage("Age3", 1);
 
 #Item Stages (ITEM)
 mods.ItemStages.addItemStage("Age1", <mysticalagriculture:crafting:17>);
