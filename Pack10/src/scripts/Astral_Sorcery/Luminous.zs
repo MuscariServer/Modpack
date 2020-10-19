@@ -24,6 +24,6 @@ mods.astralsorcery.Altar.addDiscoveryAltarRecipe("muscari:shaped/internal/altar/
 
 mods.astralsorcery.Altar.addDiscoveryAltarRecipe("muscari:shaped/internal/altar/starlightwell", <astralsorcery:blockwell>, 200, 100, [
 <astralsorcery:blockmarble:6>, null, <astralsorcery:blockmarble:6>, 
-<astralsorcery:itemcraftingcomponent>, <extrabotany:elfjar>, <astralsorcery:itemcraftingcomponent>, 
+<astralsorcery:itemcraftingcomponent>, <minecraft:bucket>, <astralsorcery:itemcraftingcomponent>, 
 <aether_legacy:zanite_gemstone>, <aether_legacy:enchanted_gravitite>, <aether_legacy:zanite_gemstone>, 
 ]);
