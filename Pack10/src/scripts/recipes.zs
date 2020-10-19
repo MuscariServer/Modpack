@@ -4,7 +4,7 @@
 recipes.addShaped(<furnaceoverhaul:blank_upgrade>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],[<minecraft:iron_ingot>, <minecraft:diamond>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
 recipes.addShaped(<minecraft:comparator>, [[null, <minecraft:redstone_torch>, null],[<minecraft:redstone_torch>, <minecraft:iron_ingot>, <minecraft:redstone_torch>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
 recipes.addShapeless(<mysticalagriculture:crafting:5> * 4, [<mysticalagriculture:crafting:16>]);
-recipes.addShaped(<agricraft:trowel>, [[null, null, <ore:stickwood>], [<minecraft:cobblestone>, <minecraft:cobblestone>, null]]);
+recipes.addShaped(<agricraft:trowel>, [[null, null, <minecraft:dirt>], [null, <minecraft:cobblestone>, null], [<ore:stickWood>, null, null]]);
 recipes.addShapeless(<waterstrainer:net>, [<ore:stickwood>, <minecraft:string>, <minecraft:string>, <minecraft:string>]);
 recipes.addShapeless(<tconstruct:materials:50> * 2, [<extendedcrafting:material:2>,<tconstruct:materials:50>]);
 recipes.addShaped(<nuclearcraft:part:8>, [[<thermalfoundation:material:167>, <thermalfoundation:material:167>, <thermalfoundation:material:230>],[<nuclearcraft:part:4>, <nuclearcraft:part:4>, <thermalfoundation:material:165>], [<thermalfoundation:material:167>, <thermalfoundation:material:167>, <thermalfoundation:material:230>]]);
