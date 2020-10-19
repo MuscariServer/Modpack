@@ -14,7 +14,7 @@ mods.extendedcrafting.TableCrafting.addShaped(<mekanism:machineblock2:7>, [
 
 mods.extendedcrafting.TableCrafting.addShaped(<mekanism:machineblock2:6>, [
 [<mekanism:controlcircuit:3>, <enderio:item_alloy_ingot:9>, <mekanism:gastank>.withTag({tier: 0}), <enderio:item_alloy_ingot:9>, <mekanism:controlcircuit:3>], 
-[<enderio:item_alloy_ingot:9>, <mekanism:electrolyticcore>, <nuclearcraft:water_source>, <mekanism:electrolyticcore>, <enderio:item_alloy_ingot:9>], 
+[<enderio:item_alloy_ingot:9>, <mekanism:electrolyticcore>, <cookingforblockheads:sink>, <mekanism:electrolyticcore>, <enderio:item_alloy_ingot:9>], 
 [<ore:itemEnrichedAlloy>, <thermalexpansion:machine:1>.withTag({}), <mekanism:basicblock:8>, <enderio:block_sag_mill>, <ore:itemEnrichedAlloy>], 
 [<enderio:item_alloy_ingot:9>, <mekanismgenerators:turbineblade>, <actuallyadditions:block_grinder_double>, <mekanismgenerators:turbineblade>, <enderio:item_alloy_ingot:9>], 
 [<mekanism:controlcircuit:3>, <enderio:item_alloy_ingot:9>, <mekanism:gastank>.withTag({tier: 0}), <enderio:item_alloy_ingot:9>, <mekanism:controlcircuit:3>]]);
