@@ -1,6 +1,6 @@
 {
-    "machine": "Assembler_Tier4",
-    "registryName": "PsiCAD6",
+    "machine": "Assembler_Tier5",
+    "registryName": "PsiCAD8",
     "recipeTime": 3000,
     "requirements": [
         {
