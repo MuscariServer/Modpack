@@ -27,11 +27,11 @@ mods.extendedcrafting.TableCrafting.addShaped(<extendedcrafting:ender_crafter>, 
 [<ore:crystalOsmium>, <ore:plateEnderium>, <ore:crystalCopper>, <ore:plateEnderium>, <ore:crystalTin>]]);
 
 mods.extendedcrafting.TableCrafting.addShaped(<extendedcrafting:material> * 4, [
-[<ore:substanceEbony>, <ore:crystalAethium>, <ore:ingotHOPGraphite>, <ore:crystalAethium>, <ore:substanceEbony>], 
+[<actuallyadditions:item_crystal_empowered:3>, <ore:crystalAethium>, <ore:ingotHOPGraphite>, <ore:crystalAethium>, <actuallyadditions:item_crystal_empowered:3>], 
 [<ore:crystalAethium>, <ore:ingotDarkSteel>, <ore:heavyPlateTungsten>, <ore:ingotDarkSteel>, <ore:crystalAethium>], 
 [<ore:dustBedrock>, <ore:heavyPlateTungsten>, <mekanism:plasticblock>, <ore:heavyPlateTungsten>, <ore:dustBedrock>], 
 [<ore:crystalAethium>, <ore:ingotDarkSteel>, <ore:heavyPlateTungsten>, <ore:ingotDarkSteel>, <ore:crystalAethium>], 
-[<ore:substanceEbony>, <ore:crystalAethium>, <ore:ingotHOPGraphite>, <ore:crystalAethium>, <ore:substanceEbony>]]);
+[<actuallyadditions:item_crystal_empowered:3>, <ore:crystalAethium>, <ore:ingotHOPGraphite>, <ore:crystalAethium>, <actuallyadditions:item_crystal_empowered:3>]]);
 
 mods.extendedcrafting.TableCrafting.addShaped(<extendedcrafting:table_elite>, [
 [<extendedcrafting:material:16>, <ore:gaiaIngot>, <extendedcrafting:material:10>, <ore:gaiaIngot>, <extendedcrafting:material:16>], 
