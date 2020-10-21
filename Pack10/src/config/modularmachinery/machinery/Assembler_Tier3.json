@@ -184,7 +184,7 @@
             "y": -1,
             "z": 1,
             "elements": [
-                "mekanismgenerators:reactor@1"
+                "nuclearcraft:cooler@10"
             ]
         },
         {
@@ -256,7 +256,7 @@
             "y": -1,
             "z": 1,
             "elements": [
-                "mekanismgenerators:reactor@1"
+                "nuclearcraft:cooler@10"
             ]
         },
         {
