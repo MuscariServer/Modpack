@@ -190,4 +190,6 @@ recipes.remove(<thermalfoundation:material:294>);
 recipes.remove(<thermalfoundation:material:295>);
 recipes.remove(<industrialforegoing:mob_duplicator>);
 recipes.remove(<huntingdim:frame>);
+recipes.remove(<extendedcrafting:material:7>);
+recipes.remove(<extendedcrafting:material:16>);
 recipes.remove(<mysticalagriculture:crafting:17>);
