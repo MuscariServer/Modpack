@@ -38,4 +38,4 @@ mods.extendedcrafting.TableCrafting.addShaped(<extendedcrafting:table_elite>, [
 [<ore:gaiaIngot>, <extendedcrafting:material>, <astralsorcery:blockblackmarble:5>, <extendedcrafting:material>, <ore:gaiaIngot>], 
 [<astralsorcery:itemcraftingcomponent:4>, <astralsorcery:blockblackmarble:5>, <extendedcrafting:table_advanced>, <astralsorcery:blockblackmarble:5>, <astralsorcery:itemcraftingcomponent:4>], 
 [<ore:gaiaIngot>, <extendedcrafting:material>, <astralsorcery:blockblackmarble:5>, <extendedcrafting:material>, <ore:gaiaIngot>], 
-[<extendedcrafting:material:16>, <ore:gaiaIngot>, <draconicevolution:wyvern_core>, <ore:gaiaIngot>, <extendedcrafting:material:16>]]);
+[<extendedcrafting:material:16>, <ore:gaiaIngot>, <environmentaltech:structure_frame_6>, <ore:gaiaIngot>, <extendedcrafting:material:16>]]);
