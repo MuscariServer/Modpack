@@ -1,7 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Add
-recipes.addShaped(<extendedcrafting:material:16>, [[<extendedcrafting:material>, <mysticalagriculture:crafting:3>, null],[<minecraft:diamond>, <minecraft:diamond>, null], [null, null, null]]);
+recipes.addShaped(<extendedcrafting:material:16>, [[<extendedcrafting:material:2>, <mysticalagriculture:crafting:3>, null],[<minecraft:diamond>, <minecraft:diamond>, null], [null, null, null]]);
 recipes.addShaped(<furnaceoverhaul:blank_upgrade>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>],[<minecraft:iron_ingot>, <minecraft:diamond>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
 recipes.addShaped(<minecraft:comparator>, [[null, <minecraft:redstone_torch>, null],[<minecraft:redstone_torch>, <minecraft:iron_ingot>, <minecraft:redstone_torch>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
 recipes.addShapeless(<mysticalagriculture:crafting:5> * 4, [<mysticalagriculture:crafting:16>]);
