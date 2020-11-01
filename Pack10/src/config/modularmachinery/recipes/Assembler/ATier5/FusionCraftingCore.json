@@ -29,7 +29,7 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:BlockIonite",
+            "item": "ore:blockIonite",
             "amount": 8
         },
         {
