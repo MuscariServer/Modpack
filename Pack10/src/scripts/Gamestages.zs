@@ -152,42 +152,6 @@ mods.ItemStages.stageModItems("Age8", "extrabotany");
 mods.ItemStages.stageModItems("Age8", "draconicevolution");
 mods.ItemStages.stageModItems("Age9", "avaritia");
 
-#Recipe Stages
-mods.recipestages.Recipes.setRecipeStageByMod("Age1", "botania");
-mods.recipestages.Recipes.setRecipeStageByMod("Age1", "mysticalagriculture");
-mods.recipestages.Recipes.setRecipeStageByMod("Age2", "extendedcrafting");
-mods.recipestages.Recipes.setRecipeStageByMod("Age2", "magneticraft");
-mods.recipestages.Recipes.setRecipeStageByMod("Age2", "immersiveengineering");
-mods.recipestages.Recipes.setRecipeStageByMod("Age2", "dimensionaledibles");
-mods.recipestages.Recipes.setRecipeStageByMod("Age1", "projectred-core");
-mods.recipestages.Recipes.setRecipeStageByMod("Age1", "projectred-integration");
-mods.recipestages.Recipes.setRecipeStageByMod("Age1", "projectred-transmission");
-mods.recipestages.Recipes.setRecipeStageByMod("Age2", "woot");
-mods.recipestages.Recipes.setRecipeStageByMod("Age3", "thermalexpansion");
-mods.recipestages.Recipes.setRecipeStageByMod("Age1", "thermalfoundation");
-mods.recipestages.Recipes.setRecipeStageByMod("Age1", "thermaldynamics");
-mods.recipestages.Recipes.setRecipeStageByMod("Age3", "enderio");
-mods.recipestages.Recipes.setRecipeStageByMod("Age3", "simplyjetpacks");
-mods.recipestages.Recipes.setRecipeStageByMod("Age4", "industrialforegoing");
-mods.recipestages.Recipes.setRecipeStageByMod("Age4", "fluxnetworks");
-mods.recipestages.Recipes.setRecipeStageByMod("Age4", "actuallyadditions");
-mods.recipestages.Recipes.setRecipeStageByMod("Age4", "aether_legacy");
-mods.recipestages.Recipes.setRecipeStageByMod("Age5", "mekanism");
-mods.recipestages.Recipes.setRecipeStageByMod("Age5", "mekanismgenerators");
-mods.recipestages.Recipes.setRecipeStageByMod("Age5", "astralsorcery");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "modularmachinery");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "modulardiversity");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "environmentaltech");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "refinedstorage");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "rebornstorage");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "refinedstorageaddons");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "mysticalagradditions");
-mods.recipestages.Recipes.setRecipeStageByMod("Age7", "nuclearcraft");
-mods.recipestages.Recipes.setRecipeStageByMod("Age6", "psi");
-mods.recipestages.Recipes.setRecipeStageByMod("Age8", "extrabotany");
-mods.recipestages.Recipes.setRecipeStageByMod("Age8", "draconicevolution");
-mods.recipestages.Recipes.setRecipeStageByMod("Age9", "avaritia");
-
 #Orestage
 mods.orestages.OreStages.addReplacement("Age6", <draconicevolution:draconium_ore:1>, <minecraft:netherrack>);
 mods.orestages.OreStages.addReplacement("Age6", <draconicevolution:draconium_ore:2>, <minecraft:end_stone>);
