@@ -29,7 +29,7 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:ingotsteel",
+            "item": "ore:ingotSteel",
             "amount": 1
         },
         {
