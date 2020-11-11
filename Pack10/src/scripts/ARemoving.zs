@@ -193,3 +193,4 @@ recipes.remove(<huntingdim:frame>);
 recipes.remove(<extendedcrafting:material:7>);
 recipes.remove(<extendedcrafting:material:16>);
 recipes.remove(<mysticalagriculture:crafting:17>);
+recipes.remove(<magneticraft:small_tank>);
