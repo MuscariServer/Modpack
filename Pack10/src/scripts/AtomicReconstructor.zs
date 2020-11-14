@@ -1,0 +1,1 @@
+mods.actuallyadditions.AtomicReconstructor.addRecipe(<extrabotany:spiritfuel>, <extrabotany:nightmarefuel>, 15000);
