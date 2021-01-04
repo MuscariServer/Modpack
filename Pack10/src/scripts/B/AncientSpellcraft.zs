@@ -1,0 +1,1 @@
+mods.recipestages.Recipes.setRecipeStageByMod("B1b", "ancientspellcraft");

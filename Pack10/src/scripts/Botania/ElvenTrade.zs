@@ -1,1 +1,0 @@
-mods.botania.ElvenTrade.addRecipe([<botania:manaresource:7>], [<astralsorcery:itemcraftingcomponent:1>*2]);

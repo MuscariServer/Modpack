@@ -1,2 +1,0 @@
-mods.extendedcrafting.CombinationCrafting.addRecipe(<avaritia:resource:1>, 
-100000, 50000, <extendedcrafting:material:24>, [<avaritia:resource>, <avaritia:resource>, <avaritia:resource>, <avaritia:resource>, <minecraft:nether_star>, <minecraft:nether_star>, <minecraft:fermented_spider_eye>, <minecraft:fermented_spider_eye>, <minecraft:fermented_spider_eye>, <minecraft:fermented_spider_eye>, <minecraft:fermented_spider_eye>, <minecraft:fermented_spider_eye>]);

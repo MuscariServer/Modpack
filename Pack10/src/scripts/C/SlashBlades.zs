@@ -1,0 +1,1 @@
+mods.recipestages.Recipes.setRecipeStageByMod("C1a", "flammpfeil.slashblade");

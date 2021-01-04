@@ -1,0 +1,1 @@
+mods.recipestages.Recipes.setRecipeStage("C1b", <betterrecords:record>);
